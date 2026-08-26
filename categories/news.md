@@ -49,6 +49,7 @@ News apps use subscription paywalls to communicate value and convert users into 
 | The Detroit News: Local News | $11.01K | No Free Trial - Soft Paywall | [Open](../apps/the-detroit-news-local-news-904391210.md) |
 | 2nd1st - Truth, News & Social | $10.58K | Free Trial - Soft Paywall | [Open](../apps/2nd1st-truth-news-and-social-1466169815.md) |
 | The Boston Globe | $10.23K | No Free Trial - Soft Paywall | [Open](../apps/the-boston-globe-632761100.md) |
+| IndyStar: Indianapolis Star | $9.20K | No Free Trial - Soft Paywall | [Open](../apps/indystar-indianapolis-star-331907339.md) |
 
 ## What to study
 

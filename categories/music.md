@@ -79,7 +79,9 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Beatz: AI Song・Cover Generator | $10.40K | No Free Trial - Soft Paywall | [Open](../apps/beatz-ai-song-cover-generator-6670199973.md) |
 | Vocal Remover - Musiclab | $10.34K | Free Trial - Soft Paywall | [Open](../apps/vocal-remover-musiclab-6479388279.md) |
 | LANDR - For Music Makers | $10.03K | No Free Trial - Soft Paywall | [Open](../apps/landr-for-music-makers-6443542020.md) |
+| Tomplay Sheet Music | $9.31K | Free Trial - Soft Paywall | [Open](../apps/tomplay-sheet-music-1054809074.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
+| Radio App - FM Radio Stations | $8.90K | Free Trial - Soft Paywall | [Open](../apps/radio-app-fm-radio-stations-6648771859.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 
 ## What to study

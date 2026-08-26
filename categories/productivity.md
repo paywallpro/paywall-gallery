@@ -83,6 +83,11 @@ Productivity apps often convert users by selling time savings, professional outp
 | Do Habits: Get It Done | $10.94K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/do-habits-get-it-done-1103961876.md) |
 | TypeAI: AI Keyboard & Writer | $10.81K | Free Trial - Soft Paywall | [Open](../apps/typeai-ai-keyboard-and-writer-6448661220.md) |
 | Evernote: AI Notes & Notebook | $10.53K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/evernote-ai-notes-and-notebook-281796108.md) |
+| VPN Protector & Proxy | $9.20K | Free Trial - Soft Paywall | [Open](../apps/vpn-protector-and-proxy-1540759535.md) |
+| HMA Hotspot VPN & Proxy | $9.14K | Free Trial - Hard Paywall | [Open](../apps/hma-hotspot-vpn-and-proxy-675102189.md) |
+| Cleaner Master:ai cleaner | $9.11K | Free Trial - Soft Paywall | [Open](../apps/cleaner-master-ai-cleaner-6740564501.md) |
+| Fing - Network Scanner | $9.09K | No Free Trial - Soft Paywall | [Open](../apps/fing-network-scanner-430921107.md) |
+| Peech: Text to Speech Reader | $9.05K | No Free Trial - Soft Paywall | [Open](../apps/peech-text-to-speech-reader-1429704005.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

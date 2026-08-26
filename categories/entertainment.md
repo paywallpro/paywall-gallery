@@ -74,6 +74,11 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | HIDIVE | $10.40K | Free Trial - Soft Paywall | [Open](../apps/hidive-1233367570.md) |
 | Marvel: Color Your Own | $10.37K | Free Trial - Soft Paywall | [Open](../apps/marvel-color-your-own-1136343771.md) |
 | MiniShorts | $10.14K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/minishorts-6475380865.md) |
+| BritBox: The Best British TV | $9.64K | Free Trial - Soft Paywall | [Open](../apps/britbox-the-best-british-tv-1206838907.md) |
+| Neku: make avatar sticker | $9.60K | Free Trial - Soft Paywall | [Open](../apps/neku-make-avatar-sticker-1630343674.md) |
+| Acorn TV: Brilliant Mysteries | $9.35K | No Free Trial - Soft Paywall | [Open](../apps/acorn-tv-brilliant-mysteries-896014310.md) |
+| Colorfy: Coloring Book Games | $9.20K | Free Trial - Soft Paywall | [Open](../apps/colorfy-coloring-book-games-1009442510.md) |
+| Character AI: Chat, Talk, Text | $9.04K | No Free Trial - Soft Paywall | [Open](../apps/character-ai-chat-talk-text-1671705818.md) |
 
 ## What to study
 

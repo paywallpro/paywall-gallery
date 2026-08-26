@@ -29,6 +29,8 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Coin Identifier & AI Scanner | $10.62K | No Free Trial - Soft Paywall | [Open](../apps/coin-identifier-and-ai-scanner-6737041776.md) |
 | Picture Bird: Bird identifier | $10.28K | Free Trial - Soft Paywall | [Open](../apps/picture-bird-bird-identifier-1474586978.md) |
 | Translate: Voice & Text | $9.84K | Free Trial - Soft Paywall | [Open](../apps/translate-voice-and-text-1666080084.md) |
+| Holy Bible † Study God's Word | $9.60K | Free Trial - Soft Paywall | [Open](../apps/holy-bible-study-god-s-word-1666079454.md) |
+| NoteSnap: Banknote Identifier | $9.20K | Free Trial - Soft Paywall | [Open](../apps/notesnap-banknote-identifier-6448227169.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 
 ## What to study

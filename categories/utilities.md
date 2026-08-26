@@ -87,6 +87,12 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | QR, Barcode Scanner for iPhone | $11.80K | No Free Trial - Soft Paywall | [Open](../apps/qr-barcode-scanner-for-iphone-1322234579.md) |
 | Clean Phone Storage Now | $10.32K | Free Trial - Soft Paywall | [Open](../apps/clean-phone-storage-now-6467652964.md) |
 | Construction Master Pro Calc | $10.30K | Free Trial - Soft Paywall | [Open](../apps/construction-master-pro-calc-370406446.md) |
+| Mix VPN - Fast & Unlimited | $9.71K | Free Trial - Soft Paywall | [Open](../apps/mix-vpn-fast-and-unlimited-6463403383.md) |
+| AI Cleaner Pro: Clean Storage | $9.68K | Free Trial - Soft Paywall | [Open](../apps/ai-cleaner-pro-clean-storage-6737031221.md) |
+| CleanerGo: Free up space | $9.61K | No Free Trial - Soft Paywall | [Open](../apps/cleanergo-free-up-space-6739242033.md) |
+| Swipewipe: Photo Cleaner | $9.39K | Free Trial - Soft Paywall | [Open](../apps/swipewipe-photo-cleaner-1583884012.md) |
+| UClear: Phone Manage Master | $9.04K | Free Trial - Soft Paywall | [Open](../apps/uclear-phone-manage-master-6746554109.md) |
+| Hours Tracker: Time Calculator | $9.02K | Free Trial - Soft Paywall | [Open](../apps/hours-tracker-time-calculator-1468092377.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

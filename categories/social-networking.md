@@ -78,6 +78,7 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Daddyhunt– Gay Dating & Chat | $11.25K | No Free Trial - Soft Paywall | [Open](../apps/daddyhunt-gay-dating-and-chat-921687947.md) |
 | Знакомства для тебя. RusDate | $11.21K | Currency Paywall | [Open](../apps/rusdate-1121784385.md) |
 | Samlo: Meet Friends，Video，Chat | $10.27K | Currency Paywall | [Open](../apps/samlo-meet-friends-video-chat-6737673284.md) |
+| Plamfy: Watch Streams&Go Live | $9.25K | Currency Paywall | [Open](../apps/plamfy-watch-streams-and-go-live-1601377257.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |

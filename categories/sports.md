@@ -50,6 +50,8 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | Fishbox - Smart Fishing App | $11.34K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/fishbox-smart-fishing-app-542238652.md) |
 | Optimal Bet: EV Sports Betting | $10.67K | Free Trial - Hard Paywall | [Open](../apps/optimal-bet-ev-sports-betting-1562901389.md) |
 | BassForecast: Bass Fishing App | $10.57K | No Free Trial - Soft Paywall | [Open](../apps/bassforecast-bass-fishing-app-1088297101.md) |
+| Monumental+ | $9.28K | No Free Trial - Soft Paywall | [Open](../apps/monumental-1082655562.md) |
+| Sparrow - Golf | $9.08K | No Free Trial - Soft Paywall | [Open](../apps/sparrow-golf-1526670395.md) |
 | B1G+: Watch College Sports | $8.46K | No Free Trial - Soft Paywall | [Open](../apps/b1g-watch-college-sports-474679690.md) |
 | Outlier: Smart Sports Betting | $6.17K | Free Trial - Soft Paywall | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |

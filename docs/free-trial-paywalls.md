@@ -1076,8 +1076,57 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Translate: Voice & Text | Reference | [Open](../apps/translate-voice-and-text-1666080084.md) |
 | WellMe: Track & Boost Wellness | Lifestyle | [Open](../apps/wellme-track-and-boost-wellness-6749838351.md) |
 | Baby Shark World for Kids | Education | [Open](../apps/baby-shark-world-for-kids-1596897739.md) |
+| Constant Therapy: Brain+Speech | Health & Fitness | [Open](../apps/constant-therapy-brain-speech-575764424.md) |
+| Freebie Invoice Maker | Finance | [Open](../apps/freebie-invoice-maker-1590349103.md) |
+| Calorie Counter - MyNetDiary | Health & Fitness | [Open](../apps/calorie-counter-mynetdiary-287529757.md) |
+| Bazaart AI Photo Editor Design | Photo & Video | [Open](../apps/bazaart-ai-photo-editor-design-515094775.md) |
+| Mix VPN - Fast & Unlimited | Utilities | [Open](../apps/mix-vpn-fast-and-unlimited-6463403383.md) |
+| AI Cleaner Pro: Clean Storage | Utilities | [Open](../apps/ai-cleaner-pro-clean-storage-6737031221.md) |
+| Rosebud: AI Journal & Diary | Health & Fitness | [Open](../apps/rosebud-ai-journal-and-diary-6451135127.md) |
+| BritBox: The Best British TV | Entertainment | [Open](../apps/britbox-the-best-british-tv-1206838907.md) |
+| CleanerGo: Free up space | Utilities | [Open](../apps/cleanergo-free-up-space-6739242033.md) |
+| Aceable Drivers Ed & Test Prep | Education | [Open](../apps/aceable-drivers-ed-and-test-prep-766014676.md) |
+| Neku: make avatar sticker | Entertainment | [Open](../apps/neku-make-avatar-sticker-1630343674.md) |
+| Holy Bible † Study God's Word | Reference | [Open](../apps/holy-bible-study-god-s-word-1666079454.md) |
+| ZINIO - Magazine Newsstand | Magazines & Newspapers | [Open](../apps/zinio-magazine-newsstand-364297166.md) |
+| Toddler Games for 3 Year Olds~ | Education | [Open](../apps/toddler-games-for-3-year-olds-1471478712.md) |
+| Cal AI - Calorie Tracker | Health & Fitness | [Open](../apps/cal-ai-calorie-tracker-6480417616.md) |
+| Dentist Baby Games for Kids | Education | [Open](../apps/dentist-baby-games-for-kids-6443952316.md) |
+| Cat & Kitty, Vet Game for Kids | Education | [Open](../apps/cat-and-kitty-vet-game-for-kids-6466280007.md) |
+| Swipewipe: Photo Cleaner | Utilities | [Open](../apps/swipewipe-photo-cleaner-1583884012.md) |
+| Question.AI-Math Calculator | Education | [Open](../apps/question-ai-math-calculator-6449486871.md) |
+| Acorn TV: Brilliant Mysteries | Entertainment | [Open](../apps/acorn-tv-brilliant-mysteries-896014310.md) |
 | Rumble: Livestreams & Videos | Photo & Video | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |
+| Tomplay Sheet Music | Music | [Open](../apps/tomplay-sheet-music-1054809074.md) |
+| Monumental+ | Sports | [Open](../apps/monumental-1082655562.md) |
+| Marketplace  Buy and sell | Shopping | [Open](../apps/marketplace-buy-and-sell-1212024479.md) |
+| Health Mate: Life&Heart Health | Health & Fitness | [Open](../apps/health-mate-life-and-heart-health-1670142177.md) |
+| CUE Astrology | Lifestyle | [Open](../apps/cue-astrology-6499107303.md) |
+| Yuka - Food & Cosmetic Scanner | Health & Fitness | [Open](../apps/yuka-food-and-cosmetic-scanner-1092799236.md) |
+| IndyStar: Indianapolis Star | News | [Open](../apps/indystar-indianapolis-star-331907339.md) |
+| Colorfy: Coloring Book Games | Entertainment | [Open](../apps/colorfy-coloring-book-games-1009442510.md) |
+| NoteSnap: Banknote Identifier | Reference | [Open](../apps/notesnap-banknote-identifier-6448227169.md) |
+| VPN Protector & Proxy | Productivity | [Open](../apps/vpn-protector-and-proxy-1540759535.md) |
+| ScanNow: Convert PDF, JPG, Doc | Business | [Open](../apps/scannow-convert-pdf-jpg-doc-1633616591.md) |
+| Dollarwise: Budget & Tracking | Finance | [Open](../apps/dollarwise-budget-and-tracking-6739215932.md) |
+| Sway AI: Dating App Assistant | Lifestyle | [Open](../apps/sway-ai-dating-app-assistant-6502842382.md) |
+| HMA Hotspot VPN & Proxy | Productivity | [Open](../apps/hma-hotspot-vpn-and-proxy-675102189.md) |
+| Runna: Running Plans & Coach | Health & Fitness | [Open](../apps/runna-running-plans-and-coach-1594204443.md) |
+| Cleaner Master:ai cleaner | Productivity | [Open](../apps/cleaner-master-ai-cleaner-6740564501.md) |
+| SmartLine Second Phone Number | Business | [Open](../apps/smartline-second-phone-number-1161533637.md) |
+| Fing - Network Scanner | Productivity | [Open](../apps/fing-network-scanner-430921107.md) |
+| Sparrow - Golf | Sports | [Open](../apps/sparrow-golf-1526670395.md) |
+| FitHub - AI Calorie Tracker | Health & Fitness | [Open](../apps/fithub-ai-calorie-tracker-6624298392.md) |
+| Peech: Text to Speech Reader | Productivity | [Open](../apps/peech-text-to-speech-reader-1429704005.md) |
+| UClear: Phone Manage Master | Utilities | [Open](../apps/uclear-phone-manage-master-6746554109.md) |
+| Skillsta: Life Skills Trainer | Education | [Open](../apps/skillsta-life-skills-trainer-6504999353.md) |
+| Character AI: Chat, Talk, Text | Entertainment | [Open](../apps/character-ai-chat-talk-text-1671705818.md) |
 | Simply Sing: My Singing App | Music | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
+| PulseTrackr：Heart Rate & HRV | Health & Fitness | [Open](../apps/pulsetrackr-heart-rate-and-hrv-6471093818.md) |
+| Hours Tracker: Time Calculator | Utilities | [Open](../apps/hours-tracker-time-calculator-1468092377.md) |
+| PillEye – tablet, pill counter | Medical | [Open](../apps/pilleye-tablet-pill-counter-1537039316.md) |
+| Glo \| Yoga and Meditation App | Health & Fitness | [Open](../apps/glo-yoga-and-meditation-app-1023475268.md) |
+| Radio App - FM Radio Stations | Music | [Open](../apps/radio-app-fm-radio-stations-6648771859.md) |
 | Plant Parent: Plant Care Guide | Lifestyle | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 | Calorie Counter & Food Tracker | Health & Fitness | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | B1G+: Watch College Sports | Sports | [Open](../apps/b1g-watch-college-sports-474679690.md) |

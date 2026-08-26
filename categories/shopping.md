@@ -13,6 +13,7 @@ Shopping apps use subscription paywalls to communicate value and convert users i
 | SellRaze: List, sell, earn | $85.98K | Free Trial - Soft Paywall | [Open](../apps/sellraze-list-sell-earn-6455042085.md) |
 | Package tracker: Parcels Hub | $35.25K | Free Trial - Soft Paywall | [Open](../apps/package-tracker-parcels-hub-1559261145.md) |
 | HotStock - in-stock alerts | $10.75K | No Free Trial - Soft Paywall | [Open](../apps/hotstock-in-stock-alerts-1257690900.md) |
+| Marketplace  Buy and sell | $9.26K | Free Trial - Soft Paywall | [Open](../apps/marketplace-buy-and-sell-1212024479.md) |
 
 ## What to study
 

@@ -26,6 +26,8 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | Stocks To Buy Now : AI Signals | $12.18K | No Free Trial - Soft Paywall | [Open](../apps/stocks-to-buy-now-ai-signals-1565527320.md) |
 | Stock Signal: AI Stocks Watch | $10.21K | No Free Trial - Soft Paywall | [Open](../apps/stock-signal-ai-stocks-watch-1545704110.md) |
 | PocketGuard・Budget Planner App | $9.85K | Free Trial - Soft Paywall | [Open](../apps/pocketguard-budget-planner-app-949414211.md) |
+| Freebie Invoice Maker | $9.78K | No Free Trial - Soft Paywall | [Open](../apps/freebie-invoice-maker-1590349103.md) |
+| Dollarwise: Budget & Tracking | $9.19K | Free Trial - Soft Paywall | [Open](../apps/dollarwise-budget-and-tracking-6739215932.md) |
 
 ## What to study
 

@@ -179,6 +179,12 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Talking Tom & Friends: World | $9.95K | No Free Trial - Soft Paywall | [Open](../apps/talking-tom-and-friends-world-6497331326.md) |
 | Impulse - Brain Training | $9.91K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/impulse-brain-training-1451295827.md) |
 | Baby Shark World for Kids | $9.81K | No Free Trial - Soft Paywall | [Open](../apps/baby-shark-world-for-kids-1596897739.md) |
+| Aceable Drivers Ed & Test Prep | $9.60K | No Free Trial - Soft Paywall | [Open](../apps/aceable-drivers-ed-and-test-prep-766014676.md) |
+| Toddler Games for 3 Year Olds~ | $9.53K | Free Trial - Soft Paywall | [Open](../apps/toddler-games-for-3-year-olds-1471478712.md) |
+| Dentist Baby Games for Kids | $9.51K | Free Trial - Hard Paywall | [Open](../apps/dentist-baby-games-for-kids-6443952316.md) |
+| Cat & Kitty, Vet Game for Kids | $9.49K | Free Trial - Soft Paywall | [Open](../apps/cat-and-kitty-vet-game-for-kids-6466280007.md) |
+| Question.AI-Math Calculator | $9.38K | No Free Trial - Soft Paywall | [Open](../apps/question-ai-math-calculator-6449486871.md) |
+| Skillsta: Life Skills Trainer | $9.04K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/skillsta-life-skills-trainer-6504999353.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

@@ -91,6 +91,8 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | LifePulse :smartlife app | $10.63K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/lifepulse-smartlife-app-6618141389.md) |
 | Moonly: Moon Phases & Calendar | $10.48K | No Free Trial - Soft Paywall | [Open](../apps/moonly-moon-phases-and-calendar-1489889871.md) |
 | WellMe: Track & Boost Wellness | $9.81K | Free Trial - Soft Paywall | [Open](../apps/wellme-track-and-boost-wellness-6749838351.md) |
+| CUE Astrology | $9.21K | No Free Trial - Soft Paywall | [Open](../apps/cue-astrology-6499107303.md) |
+| Sway AI: Dating App Assistant | $9.16K | No Free Trial - Soft Paywall | [Open](../apps/sway-ai-dating-app-assistant-6502842382.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study

@@ -100,6 +100,16 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Well Up-Level Up Your Wellness | $10.24K | No Free Trial - Soft Paywall | [Open](../apps/well-up-level-up-your-wellness-6615069676.md) |
 | BetterMe: Health Coaching | $10.21K | No Free Trial - Hard Paywall | [Open](../apps/betterme-health-coaching-1264546236.md) |
 | Fitbod: Gym & Fitness Planner | $10.05K | Free Trial - Soft Paywall | [Open](../apps/fitbod-gym-and-fitness-planner-1041517543.md) |
+| Constant Therapy: Brain+Speech | $9.80K | Free Trial - Soft Paywall | [Open](../apps/constant-therapy-brain-speech-575764424.md) |
+| Calorie Counter - MyNetDiary | $9.77K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/calorie-counter-mynetdiary-287529757.md) |
+| Rosebud: AI Journal & Diary | $9.66K | Free Trial - Soft Paywall | [Open](../apps/rosebud-ai-journal-and-diary-6451135127.md) |
+| Cal AI - Calorie Tracker | $9.53K | No Free Trial - Hard Paywall | [Open](../apps/cal-ai-calorie-tracker-6480417616.md) |
+| Health Mate: Life&Heart Health | $9.24K | Free Trial - Soft Paywall | [Open](../apps/health-mate-life-and-heart-health-1670142177.md) |
+| Yuka - Food & Cosmetic Scanner | $9.21K | No Free Trial - Soft Paywall | [Open](../apps/yuka-food-and-cosmetic-scanner-1092799236.md) |
+| Runna: Running Plans & Coach | $9.11K | Free Trial - Soft Paywall | [Open](../apps/runna-running-plans-and-coach-1594204443.md) |
+| FitHub - AI Calorie Tracker | $9.06K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/fithub-ai-calorie-tracker-6624298392.md) |
+| PulseTrackr：Heart Rate & HRV | $9.02K | Free Trial - Soft Paywall | [Open](../apps/pulsetrackr-heart-rate-and-hrv-6471093818.md) |
+| Glo \| Yoga and Meditation App | $8.98K | Free Trial - Soft Paywall | [Open](../apps/glo-yoga-and-meditation-app-1023475268.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |
 | LazyFit: Workout For Beginners | $7.07K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/lazyfit-workout-for-beginners-1669413773.md) |

@@ -29,6 +29,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | Complete Anatomy for iPhone | $15.13K | No Free Trial - Soft Paywall | [Open](../apps/complete-anatomy-for-iphone-1309253074.md) |
 | Clarity: CBT Self Help Journal | $12.19K | Free Trial - Soft Paywall | [Open](../apps/clarity-cbt-self-help-journal-1010391170.md) |
 | Christian Hypnobirthing | $12.18K | Free Trial - Soft Paywall | [Open](../apps/christian-hypnobirthing-1362809276.md) |
+| PillEye – tablet, pill counter | $8.99K | Free Trial - Soft Paywall | [Open](../apps/pilleye-tablet-pill-counter-1537039316.md) |
 
 ## What to study
 
