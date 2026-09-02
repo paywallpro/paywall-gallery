@@ -111,6 +111,8 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | PulseTrackr：Heart Rate & HRV | $9.02K | Free Trial - Soft Paywall | [Open](../apps/pulsetrackr-heart-rate-and-hrv-6471093818.md) |
 | Glo \| Yoga and Meditation App | $8.98K | Free Trial - Soft Paywall | [Open](../apps/glo-yoga-and-meditation-app-1023475268.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
+| 75 Hard | $8.34K | No Free Trial - Soft Paywall | [Open](../apps/75-hard-1502228408.md) |
+| Dancebit: Home Dance Workouts | $8.33K | No Free Trial - Soft Paywall | [Open](../apps/dancebit-home-dance-workouts-1542181484.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |
 | LazyFit: Workout For Beginners | $7.07K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/lazyfit-workout-for-beginners-1669413773.md) |
 | Welltory: Health, Heart Rate | $3.96K | No Free Trial - Soft Paywall | [Open](../apps/welltory-health-heart-rate-1074367771.md) |

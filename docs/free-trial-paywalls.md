@@ -1127,11 +1127,59 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | PillEye – tablet, pill counter | Medical | [Open](../apps/pilleye-tablet-pill-counter-1537039316.md) |
 | Glo \| Yoga and Meditation App | Health & Fitness | [Open](../apps/glo-yoga-and-meditation-app-1023475268.md) |
 | Radio App - FM Radio Stations | Music | [Open](../apps/radio-app-fm-radio-stations-6648771859.md) |
+| Shopping & Supermarket Games | Education | [Open](../apps/shopping-and-supermarket-games-6449359928.md) |
+| VivaCut - AI Video Editor | Photo & Video | [Open](../apps/vivacut-ai-video-editor-1489090374.md) |
+| 10 Minute Spanish | Education | [Open](../apps/10-minute-spanish-1569155922.md) |
+| PropGPT: AI Sports Picks | Sports | [Open](../apps/propgpt-ai-sports-picks-6645884227.md) |
+| knitCompanion knitting & more | Lifestyle | [Open](../apps/knitcompanion-knitting-and-more-1058142783.md) |
+| Chatbot App: AI Assistant | Productivity | [Open](../apps/chatbot-app-ai-assistant-6711347033.md) |
+| ReelTrends - AI Creator Tools | Reference | [Open](../apps/reeltrends-ai-creator-tools-1612492046.md) |
+| Houston Chronicle | News | [Open](../apps/houston-chronicle-453564805.md) |
+| Geocaching® | Navigation | [Open](../apps/geocaching-329541503.md) |
+| LMK: Make New Friends | Social Networking | [Open](../apps/lmk-make-new-friends-1463320976.md) |
+| LookNum: Family GPS Tracker | Utilities | [Open](../apps/looknum-family-gps-tracker-6743624532.md) |
+| Sam Smart TV Remote- Things TV | Productivity | [Open](../apps/sam-smart-tv-remote-things-tv-1473562701.md) |
+| FaceAI: AI Photo Video Editor | Photo & Video | [Open](../apps/faceai-ai-photo-video-editor-6478564587.md) |
+| GeoZilla Phone Location Finder | Lifestyle | [Open](../apps/geozilla-phone-location-finder-981856216.md) |
+| Paper: Sketch, Draw & Create | Productivity | [Open](../apps/paper-sketch-draw-and-create-506003812.md) |
+| AMC+ \| TV Shows & Movies | Entertainment | [Open](../apps/amc-tv-shows-and-movies-1578728899.md) |
 | Plant Parent: Plant Care Guide | Lifestyle | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
+| Photo Dance: AI Baby Dance | Photo & Video | [Open](../apps/photo-dance-ai-baby-dance-6474650062.md) |
+| Roadtrippers - Trip Planner | Travel | [Open](../apps/roadtrippers-trip-planner-944060491.md) |
+| WPS Office-AI Doc, PDF, Sheet | Productivity | [Open](../apps/wps-office-ai-doc-pdf-sheet-1491101673.md) |
+| Profit AI - Trading Assistant | Finance | [Open](../apps/profit-ai-trading-assistant-6743035682.md) |
+| Strong Cleaner: Free up space | Productivity | [Open](../apps/strong-cleaner-free-up-space-1564636915.md) |
 | Calorie Counter & Food Tracker | Health & Fitness | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | B1G+: Watch College Sports | Sports | [Open](../apps/b1g-watch-college-sports-474679690.md) |
+| Singing Machine Karaoke | Music | [Open](../apps/singing-machine-karaoke-450555662.md) |
 | Bumpy – International Dating | Social Networking | [Open](../apps/bumpy-international-dating-1455336523.md) |
+| SoundLab - Audio Editor | Music | [Open](../apps/soundlab-audio-editor-1450417400.md) |
+| GogoMath: Build Math Skills | Education | [Open](../apps/gogomath-build-math-skills-1484021523.md) |
+| MaskAI | Utilities | [Open](../apps/maskai-6758434181.md) |
+| Juice Reel: Bet Tracker & Tips | Sports | [Open](../apps/juice-reel-bet-tracker-and-tips-1527960097.md) |
+| 75 Hard | Health & Fitness | [Open](../apps/75-hard-1502228408.md) |
+| Multiplication Games For Kids. | Education | [Open](../apps/multiplication-games-for-kids-1504116464.md) |
+| Dancebit: Home Dance Workouts | Health & Fitness | [Open](../apps/dancebit-home-dance-workouts-1542181484.md) |
+| LetterSchool - Learn to Write! | Education | [Open](../apps/letterschool-learn-to-write-481067676.md) |
+| FM Radio App | Music | [Open](../apps/fm-radio-app-1566586505.md) |
+| Calm Radio - Music to Relax | Music | [Open](../apps/calm-radio-music-to-relax-918425515.md) |
+| CloneAI - AI Video Generator | Photo & Video | [Open](../apps/cloneai-ai-video-generator-6444766851.md) |
+| Banger for Artists: AI Music | Music | [Open](../apps/banger-for-artists-ai-music-6477824849.md) |
+| Labbet: Photo & Video Editing | Photo & Video | [Open](../apps/labbet-photo-and-video-editing-1639572325.md) |
+| Erigo - Explore, Enjoy & Find | Lifestyle | [Open](../apps/erigo-explore-enjoy-and-find-6745004649.md) |
+| Soundtrap: Music Making Studio | Music | [Open](../apps/soundtrap-music-making-studio-991031323.md) |
+| Cretapedia: Science Learning | Education | [Open](../apps/cretapedia-science-learning-6446936735.md) |
+| El Nuevo Día | News | [Open](../apps/el-nuevo-d-a-459481464.md) |
+| Hours Tracker: Time Tracking | Business | [Open](../apps/hours-tracker-time-tracking-336456412.md) |
+| Spark Mail: AI Email Assistant | Productivity | [Open](../apps/spark-mail-ai-email-assistant-997102246.md) |
+| Milwaukee Journal Sentinel | News | [Open](../apps/milwaukee-journal-sentinel-526882300.md) |
+| AI Security: Storage Privacy | Utilities | [Open](../apps/ai-security-storage-privacy-6479976058.md) |
+| Heja | Sports | [Open](../apps/heja-1157335714.md) |
 | AI Photo Video Editor, Enhance | Photo & Video | [Open](../apps/ai-photo-video-editor-enhance-6447604690.md) |
+| MEGA: Encrypted Cloud Storage | Productivity | [Open](../apps/mega-encrypted-cloud-storage-706857885.md) |
+| Magic Poser - Art Pose Tool | Graphics & Design | [Open](../apps/magic-poser-art-pose-tool-1141755970.md) |
+| My Baby Unicorn | Education | [Open](../apps/my-baby-unicorn-1442079205.md) |
+| azcentral | News | [Open](../apps/azcentral-815248536.md) |
 | Repost+ for Instagram . | Social Networking | [Open](../apps/repost-for-instagram-1477820240.md) |
 | InPulse - Heart Rate Monitor | Health & Fitness | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |
 | 1Password: Password Manager | Productivity | [Open](../apps/1password-password-manager-1511601750.md) |

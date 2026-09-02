@@ -50,6 +50,10 @@ News apps use subscription paywalls to communicate value and convert users into 
 | 2nd1st - Truth, News & Social | $10.58K | Free Trial - Soft Paywall | [Open](../apps/2nd1st-truth-news-and-social-1466169815.md) |
 | The Boston Globe | $10.23K | No Free Trial - Soft Paywall | [Open](../apps/the-boston-globe-632761100.md) |
 | IndyStar: Indianapolis Star | $9.20K | No Free Trial - Soft Paywall | [Open](../apps/indystar-indianapolis-star-331907339.md) |
+| Houston Chronicle | $8.79K | Free Trial - Soft Paywall | [Open](../apps/houston-chronicle-453564805.md) |
+| El Nuevo Día | $8.19K | No Free Trial - Soft Paywall | [Open](../apps/el-nuevo-d-a-459481464.md) |
+| Milwaukee Journal Sentinel | $8.09K | No Free Trial - Soft Paywall | [Open](../apps/milwaukee-journal-sentinel-526882300.md) |
+| azcentral | $8.00K | No Free Trial - Soft Paywall | [Open](../apps/azcentral-815248536.md) |
 
 ## What to study
 

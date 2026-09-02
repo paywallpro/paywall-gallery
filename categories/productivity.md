@@ -88,6 +88,13 @@ Productivity apps often convert users by selling time savings, professional outp
 | Cleaner Master:ai cleaner | $9.11K | Free Trial - Soft Paywall | [Open](../apps/cleaner-master-ai-cleaner-6740564501.md) |
 | Fing - Network Scanner | $9.09K | No Free Trial - Soft Paywall | [Open](../apps/fing-network-scanner-430921107.md) |
 | Peech: Text to Speech Reader | $9.05K | No Free Trial - Soft Paywall | [Open](../apps/peech-text-to-speech-reader-1429704005.md) |
+| Chatbot App: AI Assistant | $8.80K | Free Trial - Soft Paywall | [Open](../apps/chatbot-app-ai-assistant-6711347033.md) |
+| Sam Smart TV Remote- Things TV | $8.77K | Free Trial - Soft Paywall | [Open](../apps/sam-smart-tv-remote-things-tv-1473562701.md) |
+| Paper: Sketch, Draw & Create | $8.69K | Free Trial - Soft Paywall | [Open](../apps/paper-sketch-draw-and-create-506003812.md) |
+| WPS Office-AI Doc, PDF, Sheet | $8.53K | Free Trial - Soft Paywall | [Open](../apps/wps-office-ai-doc-pdf-sheet-1491101673.md) |
+| Strong Cleaner: Free up space | $8.51K | Free Trial - Soft Paywall | [Open](../apps/strong-cleaner-free-up-space-1564636915.md) |
+| Spark Mail: AI Email Assistant | $8.15K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/spark-mail-ai-email-assistant-997102246.md) |
+| MEGA: Encrypted Cloud Storage | $8.05K | No Free Trial - Soft Paywall | [Open](../apps/mega-encrypted-cloud-storage-706857885.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

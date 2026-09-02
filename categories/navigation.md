@@ -13,6 +13,7 @@ Navigation apps use subscription paywalls to communicate value and convert users
 | LandGlide: Land & Field Maps | $26.31K | Free Trial - Soft Paywall | [Open](../apps/landglide-land-and-field-maps-560902465.md) |
 | Wellsite Navigator | $24.30K | Free Trial - Soft Paywall | [Open](../apps/wellsite-navigator-594298510.md) |
 | onX Offroad: Trail Maps & GPS | $11.46K | Free Trial - Soft Paywall | [Open](../apps/onx-offroad-trail-maps-and-gps-1475112177.md) |
+| Geocaching® | $8.79K | No Free Trial - Soft Paywall | [Open](../apps/geocaching-329541503.md) |
 
 ## What to study
 

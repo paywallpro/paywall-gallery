@@ -58,6 +58,7 @@ Business apps often convert users by selling professional growth, productivity, 
 | Magic Eraser Background Editor | $10.35K | Free Trial - Soft Paywall | [Open](../apps/magic-eraser-background-editor-989920057.md) |
 | ScanNow: Convert PDF, JPG, Doc | $9.19K | No Free Trial - Soft Paywall | [Open](../apps/scannow-convert-pdf-jpg-doc-1633616591.md) |
 | SmartLine Second Phone Number | $9.09K | No Free Trial - Hard Paywall | [Open](../apps/smartline-second-phone-number-1161533637.md) |
+| Hours Tracker: Time Tracking | $8.15K | No Free Trial - Soft Paywall | [Open](../apps/hours-tracker-time-tracking-336456412.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 
 ## What to study

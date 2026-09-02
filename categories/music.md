@@ -82,6 +82,12 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Tomplay Sheet Music | $9.31K | Free Trial - Soft Paywall | [Open](../apps/tomplay-sheet-music-1054809074.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | Radio App - FM Radio Stations | $8.90K | Free Trial - Soft Paywall | [Open](../apps/radio-app-fm-radio-stations-6648771859.md) |
+| Singing Machine Karaoke | $8.46K | No Free Trial - Soft Paywall | [Open](../apps/singing-machine-karaoke-450555662.md) |
+| SoundLab - Audio Editor | $8.42K | No Free Trial - Soft Paywall | [Open](../apps/soundlab-audio-editor-1450417400.md) |
+| FM Radio App | $8.28K | Free Trial - Soft Paywall | [Open](../apps/fm-radio-app-1566586505.md) |
+| Calm Radio - Music to Relax | $8.28K | No Free Trial - Soft Paywall | [Open](../apps/calm-radio-music-to-relax-918425515.md) |
+| Banger for Artists: AI Music | $8.25K | No Free Trial - Soft Paywall | [Open](../apps/banger-for-artists-ai-music-6477824849.md) |
+| Soundtrap: Music Making Studio | $8.20K | Free Trial - Soft Paywall | [Open](../apps/soundtrap-music-making-studio-991031323.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 
 ## What to study

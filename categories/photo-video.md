@@ -134,6 +134,12 @@ Photo and video apps often rely on creative control, premium features, editing c
 | AI Photo Generator: FaceOff | $9.93K | No Free Trial - Soft Paywall | [Open](../apps/ai-photo-generator-faceoff-6453163602.md) |
 | Bazaart AI Photo Editor Design | $9.73K | Free Trial - Soft Paywall | [Open](../apps/bazaart-ai-photo-editor-design-515094775.md) |
 | Rumble: Livestreams & Videos | $9.34K | No Free Trial - Soft Paywall | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |
+| VivaCut - AI Video Editor | $8.89K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/vivacut-ai-video-editor-1489090374.md) |
+| Spark Chat: AI Roleplay Freely | $8.82K | Currency Paywall | [Open](../apps/spark-chat-ai-roleplay-freely-6755032059.md) |
+| FaceAI: AI Photo Video Editor | $8.76K | No Free Trial - Soft Paywall | [Open](../apps/faceai-ai-photo-video-editor-6478564587.md) |
+| Photo Dance: AI Baby Dance | $8.62K | No Free Trial - Soft Paywall | [Open](../apps/photo-dance-ai-baby-dance-6474650062.md) |
+| CloneAI - AI Video Generator | $8.26K | No Free Trial - Soft Paywall | [Open](../apps/cloneai-ai-video-generator-6444766851.md) |
+| Labbet: Photo & Video Editing | $8.25K | No Free Trial - Soft Paywall | [Open](../apps/labbet-photo-and-video-editing-1639572325.md) |
 | AI Photo Video Editor, Enhance | $8.08K | No Free Trial - Soft Paywall | [Open](../apps/ai-photo-video-editor-enhance-6447604690.md) |
 | Photo Collage - Collageable | $6.51K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-collageable-1085652055.md) |
 | Persona: AI Beauty Editor | $5.46K | No Free Trial - Soft Paywall | [Open](../apps/persona-ai-beauty-editor-1561622206.md) |

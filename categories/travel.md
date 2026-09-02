@@ -21,6 +21,7 @@ Travel apps use subscription paywalls to communicate value and convert users int
 | Timeshifter | $10.91K | No Free Trial - Soft Paywall | [Open](../apps/timeshifter-1380684374.md) |
 | iOverlander | $10.53K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/ioverlander-1486556203.md) |
 | Camera Connect - Home Security | $10.06K | No Free Trial - Soft Paywall | [Open](../apps/camera-connect-home-security-6450106931.md) |
+| Roadtrippers - Trip Planner | $8.60K | Free Trial - Soft Paywall | [Open](../apps/roadtrippers-trip-planner-944060491.md) |
 
 ## What to study
 

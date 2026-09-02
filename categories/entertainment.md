@@ -79,6 +79,7 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Acorn TV: Brilliant Mysteries | $9.35K | No Free Trial - Soft Paywall | [Open](../apps/acorn-tv-brilliant-mysteries-896014310.md) |
 | Colorfy: Coloring Book Games | $9.20K | Free Trial - Soft Paywall | [Open](../apps/colorfy-coloring-book-games-1009442510.md) |
 | Character AI: Chat, Talk, Text | $9.04K | No Free Trial - Soft Paywall | [Open](../apps/character-ai-chat-talk-text-1671705818.md) |
+| AMC+ \| TV Shows & Movies | $8.69K | Free Trial - Soft Paywall | [Open](../apps/amc-tv-shows-and-movies-1578728899.md) |
 
 ## What to study
 

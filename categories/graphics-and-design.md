@@ -17,6 +17,7 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | Home AI - AI Interior Design | $19.68K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/home-ai-ai-interior-design-6464476667.md) |
 | ‎AI Remodel — Interior Design | $12.29K | No Free Trial - Soft Paywall | [Open](../apps/ai-remodel-interior-design-6477533581.md) |
 | Kling AI: AI Image&Video Maker | $12.07K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/kling-ai-ai-image-and-video-maker-6738049229.md) |
+| Magic Poser - Art Pose Tool | $8.03K | Free Trial - Soft Paywall | [Open](../apps/magic-poser-art-pose-tool-1141755970.md) |
 
 ## What to study
 

@@ -28,6 +28,7 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | PocketGuard・Budget Planner App | $9.85K | Free Trial - Soft Paywall | [Open](../apps/pocketguard-budget-planner-app-949414211.md) |
 | Freebie Invoice Maker | $9.78K | No Free Trial - Soft Paywall | [Open](../apps/freebie-invoice-maker-1590349103.md) |
 | Dollarwise: Budget & Tracking | $9.19K | Free Trial - Soft Paywall | [Open](../apps/dollarwise-budget-and-tracking-6739215932.md) |
+| Profit AI - Trading Assistant | $8.53K | No Free Trial - Hard Paywall | [Open](../apps/profit-ai-trading-assistant-6743035682.md) |
 
 ## What to study
 

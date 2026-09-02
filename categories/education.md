@@ -185,6 +185,13 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Cat & Kitty, Vet Game for Kids | $9.49K | Free Trial - Soft Paywall | [Open](../apps/cat-and-kitty-vet-game-for-kids-6466280007.md) |
 | Question.AI-Math Calculator | $9.38K | No Free Trial - Soft Paywall | [Open](../apps/question-ai-math-calculator-6449486871.md) |
 | Skillsta: Life Skills Trainer | $9.04K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/skillsta-life-skills-trainer-6504999353.md) |
+| Shopping & Supermarket Games | $8.89K | Free Trial - Soft Paywall | [Open](../apps/shopping-and-supermarket-games-6449359928.md) |
+| 10 Minute Spanish | $8.84K | Free Trial - Hard Paywall | [Open](../apps/10-minute-spanish-1569155922.md) |
+| GogoMath: Build Math Skills | $8.41K | Free Trial - Soft Paywall | [Open](../apps/gogomath-build-math-skills-1484021523.md) |
+| Multiplication Games For Kids. | $8.34K | Free Trial - Soft Paywall | [Open](../apps/multiplication-games-for-kids-1504116464.md) |
+| LetterSchool - Learn to Write! | $8.28K | Free Trial - Soft Paywall | [Open](../apps/letterschool-learn-to-write-481067676.md) |
+| Cretapedia: Science Learning | $8.20K | Free Trial - Soft Paywall | [Open](../apps/cretapedia-science-learning-6446936735.md) |
+| My Baby Unicorn | $8.01K | Free Trial - Hard Paywall | [Open](../apps/my-baby-unicorn-1442079205.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

@@ -93,6 +93,9 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Swipewipe: Photo Cleaner | $9.39K | Free Trial - Soft Paywall | [Open](../apps/swipewipe-photo-cleaner-1583884012.md) |
 | UClear: Phone Manage Master | $9.04K | Free Trial - Soft Paywall | [Open](../apps/uclear-phone-manage-master-6746554109.md) |
 | Hours Tracker: Time Calculator | $9.02K | Free Trial - Soft Paywall | [Open](../apps/hours-tracker-time-calculator-1468092377.md) |
+| LookNum: Family GPS Tracker | $8.78K | No Free Trial - Soft Paywall | [Open](../apps/looknum-family-gps-tracker-6743624532.md) |
+| MaskAI | $8.39K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/maskai-6758434181.md) |
+| AI Security: Storage Privacy | $8.09K | Free Trial - Soft Paywall | [Open](../apps/ai-security-storage-privacy-6479976058.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

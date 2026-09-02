@@ -6,7 +6,7 @@ category: "Photo & Video"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
 mrr: "$1.01M"
-rating: 4.78
+rating: 4.77
 versions_count: 2
 offers:
   - period: "month"
@@ -85,7 +85,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.78 |
+| App Store rating | 4.77 |
 | Category rank | #13 |
 | Estimated MRR | $1.01M |
 | Avg daily revenue | $61.29K |
