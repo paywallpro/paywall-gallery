@@ -1,5 +1,5 @@
 ---
-app_name: "Taimi: LGBTQ+ Dating & Meet Up"
+app_name: "Taimi LGBTQ+ Dating & Chat App"
 app_id: 1282966364
 developer: "Social Impact Inc."
 category: "Social Networking"
@@ -17,10 +17,10 @@ offers:
     prices: ["$56.99/$36.99/$94.99"]
 onboarding_count: 0
 walkthrough_count: 10
-app_detail_url: "https://www.paywallpro.app/apps/Taimi:-LGBTQ%2B-Dating-&-Meet-Up-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+app_detail_url: "https://www.paywallpro.app/apps/Taimi-LGBTQ%2B-Dating-&-Chat-App-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
-# Taimi: LGBTQ+ Dating & Meet Up Paywall Analysis
+# Taimi LGBTQ+ Dating & Chat App Paywall Analysis
 
 Category: Social Networking
 Estimated MRR: $653.64K
@@ -30,11 +30,11 @@ Captured Version: 5.1.385
 Version Release Date: 2026-03-13
 
 View full case on PaywallPro:
-<a href="https://www.paywallpro.app/apps/Taimi:-LGBTQ%2B-Dating-&-Meet-Up-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/Taimi-LGBTQ%2B-Dating-&-Chat-App-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
-Taimi: LGBTQ+ Dating & Meet Up is a Social Networking app by Social Impact Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+Taimi LGBTQ+ Dating & Chat App is a Social Networking app by Social Impact Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the Social Networking category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Taimi: LGBTQ+ Dating & Meet Up uses the No Free Trial - Soft Paywall pattern in the Social Networking category.
+- Taimi LGBTQ+ Dating & Chat App uses the No Free Trial - Soft Paywall pattern in the Social Networking category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents week, month, quarter option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Social Networking app packages subscription value for its users.
@@ -51,16 +51,16 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 Paywalls in the Social Networking category need to communicate value quickly and make the subscription decision easy to understand.
 
-This Taimi: LGBTQ+ Dating & Meet Up paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+This Taimi LGBTQ+ Dating & Chat App paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
 
 For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
 
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/Taimi:-LGBTQ%2B-Dating-&-Meet-Up-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/taimi-lgbtq-dating-and-meet-up-1282966364/cover.webp" width="220" alt="Taimi: LGBTQ+ Dating & Meet Up paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/Taimi:-LGBTQ%2B-Dating-&-Meet-Up-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/taimi-lgbtq-dating-and-meet-up-1282966364/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
-  <a href="https://www.paywallpro.app/apps/Taimi:-LGBTQ%2B-Dating-&-Meet-Up-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/taimi-lgbtq-dating-and-meet-up-1282966364/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/Taimi-LGBTQ%2B-Dating-&-Chat-App-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/taimi-lgbtq-dating-and-chat-app-1282966364/cover.webp" width="220" alt="Taimi LGBTQ+ Dating & Chat App paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/Taimi-LGBTQ%2B-Dating-&-Chat-App-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/taimi-lgbtq-dating-and-chat-app-1282966364/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/Taimi-LGBTQ%2B-Dating-&-Chat-App-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/taimi-lgbtq-dating-and-chat-app-1282966364/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -99,7 +99,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 ## What Builders Can Learn
 
-- How Taimi: LGBTQ+ Dating & Meet Up frames subscription value for users in the Social Networking category.
+- How Taimi LGBTQ+ Dating & Chat App frames subscription value for users in the Social Networking category.
 - How the app structures pricing options and subscription periods.
 - How the paywall uses visual hierarchy to guide the purchase decision.
 - How trials, discounts, or offer sets are used to reduce purchase friction.
@@ -120,7 +120,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-<a href="https://www.paywallpro.app/apps/Taimi:-LGBTQ%2B-Dating-&-Meet-Up-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/Taimi-LGBTQ%2B-Dating-&-Chat-App-us?id=152&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

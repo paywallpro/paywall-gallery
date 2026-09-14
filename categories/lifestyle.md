@@ -97,6 +97,8 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | GeoZilla Phone Location Finder | $8.72K | No Free Trial - Soft Paywall | [Open](../apps/geozilla-phone-location-finder-981856216.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 | Erigo - Explore, Enjoy & Find | $8.22K | No Free Trial - Soft Paywall | [Open](../apps/erigo-explore-enjoy-and-find-6745004649.md) |
+| Jacquie Lawson Advent Calendar | $7.98K | No Free Trial - Soft Paywall | [Open](../apps/jacquie-lawson-advent-calendar-6745843326.md) |
+| Security Camera - Home Camera | $7.25K | No Free Trial - Soft Paywall | [Open](../apps/security-camera-home-camera-6743783722.md) |
 
 ## What to study
 

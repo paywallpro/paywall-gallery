@@ -96,6 +96,9 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | LookNum: Family GPS Tracker | $8.78K | No Free Trial - Soft Paywall | [Open](../apps/looknum-family-gps-tracker-6743624532.md) |
 | MaskAI | $8.39K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/maskai-6758434181.md) |
 | AI Security: Storage Privacy | $8.09K | Free Trial - Soft Paywall | [Open](../apps/ai-security-storage-privacy-6479976058.md) |
+| Mobile Antihacker Defence | $7.59K | Free Trial - Soft Paywall | [Open](../apps/mobile-antihacker-defence-6748454215.md) |
+| AAA VPN - AI Smart Proxy | $7.53K | Free Trial - Soft Paywall | [Open](../apps/aaa-vpn-ai-smart-proxy-6737266974.md) |
+| Swipe Cleaner - Clean Storage | $7.47K | Free Trial - Soft Paywall | [Open](../apps/swipe-cleaner-clean-storage-6466397867.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

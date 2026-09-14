@@ -13,6 +13,8 @@ Books apps use subscription paywalls to communicate value and convert users into
 | Everand: Audiobooks & Ebooks | $20.10K | Free Trial - Soft Paywall | [Open](../apps/everand-audiobooks-and-ebooks-542557212.md) |
 | AnyStories-Top Novels & Books | $20.02K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/anystories-top-novels-and-books-1500217654.md) |
 | Novellair | $12.20K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/novellair-6448085430.md) |
+| Wattpad - Read & Write Stories | $7.91K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/wattpad-read-and-write-stories-306310789.md) |
+| Dreame - Read Best Romance | $7.85K | Currency Paywall | [Open](../apps/dreame-read-best-romance-1421091911.md) |
 
 ## What to study
 

@@ -95,6 +95,12 @@ Productivity apps often convert users by selling time savings, professional outp
 | Strong Cleaner: Free up space | $8.51K | Free Trial - Soft Paywall | [Open](../apps/strong-cleaner-free-up-space-1564636915.md) |
 | Spark Mail: AI Email Assistant | $8.15K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/spark-mail-ai-email-assistant-997102246.md) |
 | MEGA: Encrypted Cloud Storage | $8.05K | No Free Trial - Soft Paywall | [Open](../apps/mega-encrypted-cloud-storage-706857885.md) |
+| Opal: Screen Time Control | $7.99K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/opal-screen-time-control-1497465230.md) |
+| iTranslate Translator | $7.80K | Free Trial - Soft Paywall | [Open](../apps/itranslate-translator-288113403.md) |
+| ClearPico:Clean Up Storage | $7.65K | Free Trial - Soft Paywall | [Open](../apps/clearpico-clean-up-storage-6745245606.md) |
+| Tally: The Anything Tracker | $7.61K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/tally-the-anything-tracker-1090990601.md) |
+| Focus Hero: Goals & Habits | $7.58K | Free Trial - Soft Paywall | [Open](../apps/focus-hero-goals-and-habits-6465700009.md) |
+| Docusign - Upload & Sign Docs | $7.57K | No Free Trial - Soft Paywall | [Open](../apps/docusign-upload-and-sign-docs-474990205.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

@@ -192,6 +192,17 @@ Education apps use subscription paywalls to communicate value and convert users 
 | LetterSchool - Learn to Write! | $8.28K | Free Trial - Soft Paywall | [Open](../apps/letterschool-learn-to-write-481067676.md) |
 | Cretapedia: Science Learning | $8.20K | Free Trial - Soft Paywall | [Open](../apps/cretapedia-science-learning-6446936735.md) |
 | My Baby Unicorn | $8.01K | Free Trial - Hard Paywall | [Open](../apps/my-baby-unicorn-1442079205.md) |
+| BrainPOP Jr. | $7.82K | Free Trial - Soft Paywall | [Open](../apps/brainpop-jr-536371867.md) |
+| Tynker: Coding for Kids | $7.67K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/tynker-coding-for-kids-805869467.md) |
+| First Grade Learning Games | $7.67K | Free Trial - Soft Paywall | [Open](../apps/first-grade-learning-games-530703273.md) |
+| MathTango: Math Games for Kids | $7.64K | Free Trial - Soft Paywall | [Open](../apps/mathtango-math-games-for-kids-6475483877.md) |
+| Dr. Panda Town Tales: New Life | $7.64K | No Free Trial - Soft Paywall | [Open](../apps/dr-panda-town-tales-new-life-1184826289.md) |
+| 2+ Year Old Games for Toddlers | $7.61K | Free Trial - Soft Paywall | [Open](../apps/2-year-old-games-for-toddlers-6477275538.md) |
+| Fluvsies - A Fluff to Luv | $7.53K | Free Trial - Soft Paywall | [Open](../apps/fluvsies-a-fluff-to-luv-1504667963.md) |
+| Fourth Grade Learning Games | $7.38K | Free Trial - Soft Paywall | [Open](../apps/fourth-grade-learning-games-658561085.md) |
+| CoComelon: Learn ABCs and 123s | $7.32K | No Free Trial - Soft Paywall | [Open](../apps/cocomelon-learn-abcs-and-123s-6498924680.md) |
+| Numberblocks World | $7.29K | Free Trial - Soft Paywall | [Open](../apps/numberblocks-world-1520827387.md) |
+| Dave and Ava Learn and Play | $7.17K | Free Trial - Soft Paywall | [Open](../apps/dave-and-ava-learn-and-play-1310568078.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

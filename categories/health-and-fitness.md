@@ -113,7 +113,11 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | 75 Hard | $8.34K | No Free Trial - Soft Paywall | [Open](../apps/75-hard-1502228408.md) |
 | Dancebit: Home Dance Workouts | $8.33K | No Free Trial - Soft Paywall | [Open](../apps/dancebit-home-dance-workouts-1542181484.md) |
+| BetterSleep: Relax and Sleep | $7.87K | Free Trial - Soft Paywall | [Open](../apps/bettersleep-relax-and-sleep-314498713.md) |
+| iCardiac: Heart Rate & Health | $7.58K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/icardiac-heart-rate-and-health-6468660073.md) |
+| AccuRate Heart Rate Monitor | $7.42K | Free Trial - Soft Paywall | [Open](../apps/accurate-heart-rate-monitor-1600041931.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |
+| MWH: Pilates Sculpt Strength | $7.27K | Free Trial - Soft Paywall | [Open](../apps/mwh-pilates-sculpt-strength-1488181674.md) |
 | LazyFit: Workout For Beginners | $7.07K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/lazyfit-workout-for-beginners-1669413773.md) |
 | Welltory: Health, Heart Rate | $3.96K | No Free Trial - Soft Paywall | [Open](../apps/welltory-health-heart-rate-1074367771.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |

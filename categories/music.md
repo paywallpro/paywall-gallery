@@ -88,6 +88,10 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Calm Radio - Music to Relax | $8.28K | No Free Trial - Soft Paywall | [Open](../apps/calm-radio-music-to-relax-918425515.md) |
 | Banger for Artists: AI Music | $8.25K | No Free Trial - Soft Paywall | [Open](../apps/banger-for-artists-ai-music-6477824849.md) |
 | Soundtrap: Music Making Studio | $8.20K | Free Trial - Soft Paywall | [Open](../apps/soundtrap-music-making-studio-991031323.md) |
+| AI Cover & Songs: Music AI | $7.98K | No Free Trial - Soft Paywall | [Open](../apps/ai-cover-and-songs-music-ai-6450151014.md) |
+| MD Vinyl Music App | $7.87K | Free Trial - Soft Paywall | [Open](../apps/md-vinyl-music-app-1606306441.md) |
+| RINGTONE MAKER #1 for iPhone | $7.76K | Free Trial - Soft Paywall | [Open](../apps/ringtone-maker-1-for-iphone-380908399.md) |
+| Audio Editor - Music editor | $7.31K | Free Trial - Soft Paywall | [Open](../apps/audio-editor-music-editor-1493256837.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 
 ## What to study

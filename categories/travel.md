@@ -22,6 +22,7 @@ Travel apps use subscription paywalls to communicate value and convert users int
 | iOverlander | $10.53K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/ioverlander-1486556203.md) |
 | Camera Connect - Home Security | $10.06K | No Free Trial - Soft Paywall | [Open](../apps/camera-connect-home-security-6450106931.md) |
 | Roadtrippers - Trip Planner | $8.60K | Free Trial - Soft Paywall | [Open](../apps/roadtrippers-trip-planner-944060491.md) |
+| Scan WiFi & Bluetooth Devices | $7.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scan-wifi-and-bluetooth-devices-1604590358.md) |
 
 ## What to study
 

@@ -141,6 +141,11 @@ Photo and video apps often rely on creative control, premium features, editing c
 | CloneAI - AI Video Generator | $8.26K | No Free Trial - Soft Paywall | [Open](../apps/cloneai-ai-video-generator-6444766851.md) |
 | Labbet: Photo & Video Editing | $8.25K | No Free Trial - Soft Paywall | [Open](../apps/labbet-photo-and-video-editing-1639572325.md) |
 | AI Photo Video Editor, Enhance | $8.08K | No Free Trial - Soft Paywall | [Open](../apps/ai-photo-video-editor-enhance-6447604690.md) |
+| Layout for Instagram・Inpreview | $7.93K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/layout-for-instagram-inpreview-1171686996.md) |
+| ArtFlow-AI Video Image Maker | $7.92K | No Free Trial - Soft Paywall | [Open](../apps/artflow-ai-video-image-maker-6479007024.md) |
+| Motionleap: 3D Photo Animator | $7.68K | No Free Trial - Soft Paywall | [Open](../apps/motionleap-3d-photo-animator-1381206010.md) |
+| UNSCRIPTED Photography Poses | $7.33K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/unscripted-photography-poses-1438843099.md) |
+| BIGVU Teleprompter Captions AI | $7.25K | Free Trial - Soft Paywall | [Open](../apps/bigvu-teleprompter-captions-ai-1124958568.md) |
 | Photo Collage - Collageable | $6.51K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-collageable-1085652055.md) |
 | Persona: AI Beauty Editor | $5.46K | No Free Trial - Soft Paywall | [Open](../apps/persona-ai-beauty-editor-1561622206.md) |
 | Reels Maker for Instagram BEAT | $5.34K | No Free Trial - Soft Paywall | [Open](../apps/reels-maker-for-instagram-beat-6443517019.md) |

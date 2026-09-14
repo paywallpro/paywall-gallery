@@ -18,6 +18,7 @@ Food & Drink apps use subscription paywalls to communicate value and convert use
 | Epicurious | $13.38K | Free Trial - Soft Paywall | [Open](../apps/epicurious-312101965.md) |
 | CellarTracker: #1 Wine Tracker | $12.69K | Free Trial - Soft Paywall | [Open](../apps/cellartracker-1-wine-tracker-6446102275.md) |
 | Mealime Meal Plans & Recipes | $10.34K | No Free Trial - Soft Paywall | [Open](../apps/mealime-meal-plans-and-recipes-1079999103.md) |
+| Recipe Keeper | $7.25K | No Free Trial - Soft Paywall | [Open](../apps/recipe-keeper-974683711.md) |
 
 ## What to study
 

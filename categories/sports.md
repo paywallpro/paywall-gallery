@@ -56,6 +56,8 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | B1G+: Watch College Sports | $8.46K | No Free Trial - Soft Paywall | [Open](../apps/b1g-watch-college-sports-474679690.md) |
 | Juice Reel: Bet Tracker & Tips | $8.36K | Currency Paywall, Free Trial - Soft Paywall | [Open](../apps/juice-reel-bet-tracker-and-tips-1527960097.md) |
 | Heja | $8.09K | No Free Trial - Soft Paywall | [Open](../apps/heja-1157335714.md) |
+| WIN Reality: SwingAI+SmartPark | $7.89K | Free Trial - Soft Paywall | [Open](../apps/win-reality-swingai-smartpark-1600148173.md) |
+| WNBA: Live Games & Scores | $7.62K | No Free Trial - Soft Paywall | [Open](../apps/wnba-live-games-and-scores-641992398.md) |
 | Outlier: Smart Sports Betting | $6.17K | Free Trial - Soft Paywall | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |
 | HuntStand: GPS Maps & Tools | $1.37K | No Free Trial - Soft Paywall | [Open](../apps/huntstand-gps-maps-and-tools-778772892.md) |

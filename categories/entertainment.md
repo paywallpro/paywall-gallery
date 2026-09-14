@@ -80,6 +80,9 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Colorfy: Coloring Book Games | $9.20K | Free Trial - Soft Paywall | [Open](../apps/colorfy-coloring-book-games-1009442510.md) |
 | Character AI: Chat, Talk, Text | $9.04K | No Free Trial - Soft Paywall | [Open](../apps/character-ai-chat-talk-text-1671705818.md) |
 | AMC+ \| TV Shows & Movies | $8.69K | Free Trial - Soft Paywall | [Open](../apps/amc-tv-shows-and-movies-1578728899.md) |
+| RedShort | $7.86K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/redshort-6471819118.md) |
+| Enjoy - AI Town | $7.45K | No Free Trial - Soft Paywall | [Open](../apps/enjoy-ai-town-6468901311.md) |
+| Vampire Novels-Endless Stories | $7.21K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/vampire-novels-endless-stories-6467381689.md) |
 
 ## What to study
 

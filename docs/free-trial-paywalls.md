@@ -41,7 +41,7 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Fambase: Live & Group Chat | Utilities | [Open](../apps/fambase-live-and-group-chat-1580059320.md) |
 | ClassDojo | Education | [Open](../apps/classdojo-552602056.md) |
 | Hallow: Prayer & Meditation | Reference | [Open](../apps/hallow-prayer-and-meditation-1405323394.md) |
-| Taimi: LGBTQ+ Dating & Meet Up | Social Networking | [Open](../apps/taimi-lgbtq-dating-and-meet-up-1282966364.md) |
+| Taimi LGBTQ+ Dating & Chat App | Social Networking | [Open](../apps/taimi-lgbtq-dating-and-chat-app-1282966364.md) |
 | Zoom Workplace | Business | [Open](../apps/zoom-workplace-546505307.md) |
 | Joi - Live Stream | Social Networking | [Open](../apps/joi-live-stream-1497699883.md) |
 | Speak: Language Learning | Education | [Open](../apps/speak-language-learning-1286609883.md) |
@@ -1180,8 +1180,57 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Magic Poser - Art Pose Tool | Graphics & Design | [Open](../apps/magic-poser-art-pose-tool-1141755970.md) |
 | My Baby Unicorn | Education | [Open](../apps/my-baby-unicorn-1442079205.md) |
 | azcentral | News | [Open](../apps/azcentral-815248536.md) |
+| Opal: Screen Time Control | Productivity | [Open](../apps/opal-screen-time-control-1497465230.md) |
+| AI Cover & Songs: Music AI | Music | [Open](../apps/ai-cover-and-songs-music-ai-6450151014.md) |
+| Jacquie Lawson Advent Calendar | Lifestyle | [Open](../apps/jacquie-lawson-advent-calendar-6745843326.md) |
+| Layout for Instagram・Inpreview | Photo & Video | [Open](../apps/layout-for-instagram-inpreview-1171686996.md) |
+| ArtFlow-AI Video Image Maker | Photo & Video | [Open](../apps/artflow-ai-video-image-maker-6479007024.md) |
+| Wattpad - Read & Write Stories | Books | [Open](../apps/wattpad-read-and-write-stories-306310789.md) |
+| WIN Reality: SwingAI+SmartPark | Sports | [Open](../apps/win-reality-swingai-smartpark-1600148173.md) |
+| MD Vinyl Music App | Music | [Open](../apps/md-vinyl-music-app-1606306441.md) |
+| BetterSleep: Relax and Sleep | Health & Fitness | [Open](../apps/bettersleep-relax-and-sleep-314498713.md) |
+| RedShort | Entertainment | [Open](../apps/redshort-6471819118.md) |
+| BrainPOP Jr. | Education | [Open](../apps/brainpop-jr-536371867.md) |
+| iTranslate Translator | Productivity | [Open](../apps/itranslate-translator-288113403.md) |
+| RINGTONE MAKER #1 for iPhone | Music | [Open](../apps/ringtone-maker-1-for-iphone-380908399.md) |
+| Scan WiFi & Bluetooth Devices | Travel | [Open](../apps/scan-wifi-and-bluetooth-devices-1604590358.md) |
+| Pixelcut AI Photo Editor | Graphics & Design | [Open](../apps/pixelcut-ai-photo-editor-1534785237.md) |
+| Motionleap: 3D Photo Animator | Photo & Video | [Open](../apps/motionleap-3d-photo-animator-1381206010.md) |
+| Tynker: Coding for Kids | Education | [Open](../apps/tynker-coding-for-kids-805869467.md) |
+| First Grade Learning Games | Education | [Open](../apps/first-grade-learning-games-530703273.md) |
+| ClearPico:Clean Up Storage | Productivity | [Open](../apps/clearpico-clean-up-storage-6745245606.md) |
+| MathTango: Math Games for Kids | Education | [Open](../apps/mathtango-math-games-for-kids-6475483877.md) |
+| Dr. Panda Town Tales: New Life | Education | [Open](../apps/dr-panda-town-tales-new-life-1184826289.md) |
+| WNBA: Live Games & Scores | Sports | [Open](../apps/wnba-live-games-and-scores-641992398.md) |
+| 2+ Year Old Games for Toddlers | Education | [Open](../apps/2-year-old-games-for-toddlers-6477275538.md) |
+| Tally: The Anything Tracker | Productivity | [Open](../apps/tally-the-anything-tracker-1090990601.md) |
+| Mobile Antihacker Defence | Utilities | [Open](../apps/mobile-antihacker-defence-6748454215.md) |
+| iCardiac: Heart Rate & Health | Health & Fitness | [Open](../apps/icardiac-heart-rate-and-health-6468660073.md) |
+| Focus Hero: Goals & Habits | Productivity | [Open](../apps/focus-hero-goals-and-habits-6465700009.md) |
+| Docusign - Upload & Sign Docs | Productivity | [Open](../apps/docusign-upload-and-sign-docs-474990205.md) |
+| Fluvsies - A Fluff to Luv | Education | [Open](../apps/fluvsies-a-fluff-to-luv-1504667963.md) |
+| AAA VPN - AI Smart Proxy | Utilities | [Open](../apps/aaa-vpn-ai-smart-proxy-6737266974.md) |
+| Faithe: Bible Videos & Study | Reference | [Open](../apps/faithe-bible-videos-and-study-6736618823.md) |
+| Swipe Cleaner - Clean Storage | Utilities | [Open](../apps/swipe-cleaner-clean-storage-6466397867.md) |
+| Enjoy - AI Town | Entertainment | [Open](../apps/enjoy-ai-town-6468901311.md) |
+| Cincinnati.com: The Enquirer | News | [Open](../apps/cincinnati-com-the-enquirer-814555930.md) |
 | Repost+ for Instagram . | Social Networking | [Open](../apps/repost-for-instagram-1477820240.md) |
+| AccuRate Heart Rate Monitor | Health & Fitness | [Open](../apps/accurate-heart-rate-monitor-1600041931.md) |
+| Fourth Grade Learning Games | Education | [Open](../apps/fourth-grade-learning-games-658561085.md) |
+| UNSCRIPTED Photography Poses | Photo & Video | [Open](../apps/unscripted-photography-poses-1438843099.md) |
+| Shaadi.com Matrimony App | Social Networking | [Open](../apps/shaadi-com-matrimony-app-480093204.md) |
+| CoComelon: Learn ABCs and 123s | Education | [Open](../apps/cocomelon-learn-abcs-and-123s-6498924680.md) |
 | InPulse - Heart Rate Monitor | Health & Fitness | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |
+| Audio Editor - Music editor | Music | [Open](../apps/audio-editor-music-editor-1493256837.md) |
+| Numberblocks World | Education | [Open](../apps/numberblocks-world-1520827387.md) |
+| MWH: Pilates Sculpt Strength | Health & Fitness | [Open](../apps/mwh-pilates-sculpt-strength-1488181674.md) |
+| Recipe Keeper | Food & Drink | [Open](../apps/recipe-keeper-974683711.md) |
+| Security Camera - Home Camera | Lifestyle | [Open](../apps/security-camera-home-camera-6743783722.md) |
+| BIGVU Teleprompter Captions AI | Photo & Video | [Open](../apps/bigvu-teleprompter-captions-ai-1124958568.md) |
+| SilverSingles: 50+ Dating | Social Networking | [Open](../apps/silversingles-50-dating-6448954405.md) |
+| Brushes for Procreate | Graphics & Design | [Open](../apps/brushes-for-procreate-1507750565.md) |
+| Vampire Novels-Endless Stories | Entertainment | [Open](../apps/vampire-novels-endless-stories-6467381689.md) |
+| Dave and Ava Learn and Play | Education | [Open](../apps/dave-and-ava-learn-and-play-1310568078.md) |
 | 1Password: Password Manager | Productivity | [Open](../apps/1password-password-manager-1511601750.md) |
 | LazyFit: Workout For Beginners | Health & Fitness | [Open](../apps/lazyfit-workout-for-beginners-1669413773.md) |
 | Photo Collage - Collageable | Photo & Video | [Open](../apps/photo-collage-collageable-1085652055.md) |

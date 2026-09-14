@@ -54,6 +54,7 @@ News apps use subscription paywalls to communicate value and convert users into 
 | El Nuevo Día | $8.19K | No Free Trial - Soft Paywall | [Open](../apps/el-nuevo-d-a-459481464.md) |
 | Milwaukee Journal Sentinel | $8.09K | No Free Trial - Soft Paywall | [Open](../apps/milwaukee-journal-sentinel-526882300.md) |
 | azcentral | $8.00K | No Free Trial - Soft Paywall | [Open](../apps/azcentral-815248536.md) |
+| Cincinnati.com: The Enquirer | $7.44K | No Free Trial - Soft Paywall | [Open](../apps/cincinnati-com-the-enquirer-814555930.md) |
 
 ## What to study
 

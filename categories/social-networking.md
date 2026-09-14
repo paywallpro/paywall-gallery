@@ -11,7 +11,7 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Telegram Messenger | $2.13M | No Free Trial - Soft Paywall | [Open](../apps/telegram-messenger-686449807.md) |
 | Yubo: Chat Meet & Make Friends | $807.31K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/yubo-chat-meet-and-make-friends-1038653883.md) |
 | Text Me - Phone Call + Texting | $727.67K | No Free Trial - Soft Paywall | [Open](../apps/text-me-phone-call-texting-514485964.md) |
-| Taimi: LGBTQ+ Dating & Meet Up | $653.64K | No Free Trial - Soft Paywall | [Open](../apps/taimi-lgbtq-dating-and-meet-up-1282966364.md) |
+| Taimi LGBTQ+ Dating & Chat App | $653.64K | No Free Trial - Soft Paywall | [Open](../apps/taimi-lgbtq-dating-and-chat-app-1282966364.md) |
 | Joi - Live Stream | $640.86K | Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/joi-live-stream-1497699883.md) |
 | Marco Polo - Video Messenger | $321.44K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/marco-polo-video-messenger-912561374.md) |
 | Life360: Family Safety & GPS | $308.52K | Free Trial - Soft Paywall | [Open](../apps/life360-family-safety-and-gps-384830320.md) |
@@ -83,6 +83,8 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | MatchPub: Live 1:1 Video Chat | $8.75K | Currency Paywall | [Open](../apps/matchpub-live-1-1-video-chat-1562311685.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
+| Shaadi.com Matrimony App | $7.32K | No Free Trial - Soft Paywall | [Open](../apps/shaadi-com-matrimony-app-480093204.md) |
+| SilverSingles: 50+ Dating | $7.25K | No Free Trial - Soft Paywall | [Open](../apps/silversingles-50-dating-6448954405.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |
 
 ## What to study
