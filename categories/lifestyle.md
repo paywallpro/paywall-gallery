@@ -99,6 +99,7 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Erigo - Explore, Enjoy & Find | $8.22K | No Free Trial - Soft Paywall | [Open](../apps/erigo-explore-enjoy-and-find-6745004649.md) |
 | Jacquie Lawson Advent Calendar | $7.98K | No Free Trial - Soft Paywall | [Open](../apps/jacquie-lawson-advent-calendar-6745843326.md) |
 | Security Camera - Home Camera | $7.25K | No Free Trial - Soft Paywall | [Open](../apps/security-camera-home-camera-6743783722.md) |
+| Coloring Book for Adults - App | $7.05K | No Free Trial - Soft Paywall | [Open](../apps/coloring-book-for-adults-app-1355384062.md) |
 
 ## What to study
 

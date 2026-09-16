@@ -203,6 +203,13 @@ Education apps use subscription paywalls to communicate value and convert users 
 | CoComelon: Learn ABCs and 123s | $7.32K | No Free Trial - Soft Paywall | [Open](../apps/cocomelon-learn-abcs-and-123s-6498924680.md) |
 | Numberblocks World | $7.29K | Free Trial - Soft Paywall | [Open](../apps/numberblocks-world-1520827387.md) |
 | Dave and Ava Learn and Play | $7.17K | Free Trial - Soft Paywall | [Open](../apps/dave-and-ava-learn-and-play-1310568078.md) |
+| Dog & Puppy, Vet Game for Kids | $6.96K | Free Trial - Soft Paywall | [Open](../apps/dog-and-puppy-vet-game-for-kids-1669223306.md) |
+| Toddler Learning Games for 2+ | $6.89K | No Free Trial - Soft Paywall | [Open](../apps/toddler-learning-games-for-2-1058295660.md) |
+| Car Game for Kids & Toddlers | $6.80K | Free Trial - Soft Paywall | [Open](../apps/car-game-for-kids-and-toddlers-1384105520.md) |
+| LeapFrog Academy™ Learning | $6.80K | No Free Trial - Soft Paywall | [Open](../apps/leapfrog-academy-learning-1169264888.md) |
+| Endless Reader | $6.66K | No Free Trial - Soft Paywall | [Open](../apps/endless-reader-722910739.md) |
+| Blossom - Plant Care Guide | $6.49K | Free Trial - Soft Paywall | [Open](../apps/blossom-plant-care-guide-1487453649.md) |
+| Splash Mini: Multiplication | $6.19K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/splash-mini-multiplication-449564960.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

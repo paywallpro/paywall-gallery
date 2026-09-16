@@ -118,7 +118,13 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | AccuRate Heart Rate Monitor | $7.42K | Free Trial - Soft Paywall | [Open](../apps/accurate-heart-rate-monitor-1600041931.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |
 | MWH: Pilates Sculpt Strength | $7.27K | Free Trial - Soft Paywall | [Open](../apps/mwh-pilates-sculpt-strength-1488181674.md) |
+| Carbon - Macro Coach & Tracker | $7.08K | No Free Trial - Soft Paywall | [Open](../apps/carbon-macro-coach-and-tracker-1437820611.md) |
 | LazyFit: Workout For Beginners | $7.07K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/lazyfit-workout-for-beginners-1669413773.md) |
+| Feelsy I ASMR Slime Simulator | $6.75K | Free Trial - Hard Paywall | [Open](../apps/feelsy-i-asmr-slime-simulator-1584784222.md) |
+| ShutEye®: Sleep Tracker, Sound | $6.62K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/shuteye-sleep-tracker-sound-1490078804.md) |
+| Think Dirty – Shop Clean | $6.49K | No Free Trial - Soft Paywall | [Open](../apps/think-dirty-shop-clean-687176839.md) |
+| WalkFit: Steps counter | $6.41K | No Free Trial - Soft Paywall | [Open](../apps/walkfit-steps-counter-1457956232.md) |
+| Liven: AI Life Coach | $6.21K | Free Trial - Soft Paywall | [Open](../apps/liven-ai-life-coach-6450840109.md) |
 | Welltory: Health, Heart Rate | $3.96K | No Free Trial - Soft Paywall | [Open](../apps/welltory-health-heart-rate-1074367771.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |

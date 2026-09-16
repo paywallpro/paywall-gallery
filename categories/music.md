@@ -92,6 +92,8 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | MD Vinyl Music App | $7.87K | Free Trial - Soft Paywall | [Open](../apps/md-vinyl-music-app-1606306441.md) |
 | RINGTONE MAKER #1 for iPhone | $7.76K | Free Trial - Soft Paywall | [Open](../apps/ringtone-maker-1-for-iphone-380908399.md) |
 | Audio Editor - Music editor | $7.31K | Free Trial - Soft Paywall | [Open](../apps/audio-editor-music-editor-1493256837.md) |
+| b Buds+   HEADPHONES CONNECT | $6.80K | Free Trial - Hard Paywall | [Open](../apps/b-buds-headphones-connect-904615010.md) |
+| The Metronome by Soundbrenner | $6.59K | Free Trial - Soft Paywall | [Open](../apps/the-metronome-by-soundbrenner-1048954353.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 
 ## What to study

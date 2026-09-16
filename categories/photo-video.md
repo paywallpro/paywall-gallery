@@ -146,7 +146,13 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Motionleap: 3D Photo Animator | $7.68K | No Free Trial - Soft Paywall | [Open](../apps/motionleap-3d-photo-animator-1381206010.md) |
 | UNSCRIPTED Photography Poses | $7.33K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/unscripted-photography-poses-1438843099.md) |
 | BIGVU Teleprompter Captions AI | $7.25K | Free Trial - Soft Paywall | [Open](../apps/bigvu-teleprompter-captions-ai-1124958568.md) |
+| Momo: AI Photo & Video Maker | $7.12K | No Free Trial - Soft Paywall | [Open](../apps/momo-ai-photo-and-video-maker-1658822260.md) |
+| Temply: AI Video & Reels Maker | $6.95K | Free Trial - Soft Paywall | [Open](../apps/temply-ai-video-and-reels-maker-1538145481.md) |
+| Magisto Video Editor & Maker | $6.77K | Free Trial - Soft Paywall | [Open](../apps/magisto-video-editor-and-maker-486781045.md) |
+| Face Filters - AI Photo Trends | $6.71K | No Free Trial - Soft Paywall | [Open](../apps/face-filters-ai-photo-trends-6467492158.md) |
+| Action Figure Maker: AI Figure | $6.63K | No Free Trial - Soft Paywall | [Open](../apps/action-figure-maker-ai-figure-6743466046.md) |
 | Photo Collage - Collageable | $6.51K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-collageable-1085652055.md) |
+| AI Mirror: AI Photo Editor | $6.21K | Free Trial - Soft Paywall | [Open](../apps/ai-mirror-ai-photo-editor-6444888896.md) |
 | Persona: AI Beauty Editor | $5.46K | No Free Trial - Soft Paywall | [Open](../apps/persona-ai-beauty-editor-1561622206.md) |
 | Reels Maker for Instagram BEAT | $5.34K | No Free Trial - Soft Paywall | [Open](../apps/reels-maker-for-instagram-beat-6443517019.md) |
 | FaceAi: Face Swap Any Video | $4.12K | No Free Trial - Soft Paywall | [Open](../apps/faceai-face-swap-any-video-6470990632.md) |

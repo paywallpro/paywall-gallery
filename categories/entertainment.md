@@ -83,6 +83,12 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | RedShort | $7.86K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/redshort-6471819118.md) |
 | Enjoy - AI Town | $7.45K | No Free Trial - Soft Paywall | [Open](../apps/enjoy-ai-town-6468901311.md) |
 | Vampire Novels-Endless Stories | $7.21K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/vampire-novels-endless-stories-6467381689.md) |
+| My Little Pony: Harmony Quest | $7.14K | No Free Trial - Soft Paywall | [Open](../apps/my-little-pony-harmony-quest-1072380719.md) |
+| HoneyReels | $7.04K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/honeyreels-6477434409.md) |
+| Dropout | $6.94K | Free Trial - Soft Paywall | [Open](../apps/dropout-1380833056.md) |
+| JoyReels - Enjoy Short Dramas | $6.81K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/joyreels-enjoy-short-dramas-6465895541.md) |
+| iDrama – Short Dramas & Reels | $6.47K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/idrama-short-dramas-and-reels-6741501595.md) |
+| Hallmark+ | $6.17K | Free Trial - Soft Paywall | [Open](../apps/hallmark-472567577.md) |
 
 ## What to study
 

@@ -58,6 +58,9 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | Heja | $8.09K | No Free Trial - Soft Paywall | [Open](../apps/heja-1157335714.md) |
 | WIN Reality: SwingAI+SmartPark | $7.89K | Free Trial - Soft Paywall | [Open](../apps/win-reality-swingai-smartpark-1600148173.md) |
 | WNBA: Live Games & Scores | $7.62K | No Free Trial - Soft Paywall | [Open](../apps/wnba-live-games-and-scores-641992398.md) |
+| Sofascore: Live Sports Scores | $6.98K | Free Trial - Soft Paywall | [Open](../apps/sofascore-live-sports-scores-1176147574.md) |
+| Tour Tracker Pro Cycling | $6.85K | Free Trial - Soft Paywall | [Open](../apps/tour-tracker-pro-cycling-638270049.md) |
+| Wrestle AI | $6.23K | No Free Trial - Hard Paywall, Free Trial - Hard Paywall | [Open](../apps/wrestle-ai-6751189075.md) |
 | Outlier: Smart Sports Betting | $6.17K | Free Trial - Soft Paywall | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |
 | HuntStand: GPS Maps & Tools | $1.37K | No Free Trial - Soft Paywall | [Open](../apps/huntstand-gps-maps-and-tools-778772892.md) |

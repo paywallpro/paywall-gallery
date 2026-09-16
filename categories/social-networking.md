@@ -85,6 +85,8 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | Shaadi.com Matrimony App | $7.32K | No Free Trial - Soft Paywall | [Open](../apps/shaadi-com-matrimony-app-480093204.md) |
 | SilverSingles: 50+ Dating | $7.25K | No Free Trial - Soft Paywall | [Open](../apps/silversingles-50-dating-6448954405.md) |
+| Followers Tracker - Reports | $6.71K | No Free Trial - Soft Paywall | [Open](../apps/followers-tracker-reports-1571096208.md) |
+| Reports Unfollowers Followers+ | $6.59K | No Free Trial - Soft Paywall | [Open](../apps/reports-unfollowers-followers-1499924074.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |
 
 ## What to study

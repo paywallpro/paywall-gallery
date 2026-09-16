@@ -9,6 +9,7 @@ Magazines & Newspapers apps use subscription paywalls to communicate value and c
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
 | ZINIO - Magazine Newsstand | $9.55K | No Free Trial - Soft Paywall | [Open](../apps/zinio-magazine-newsstand-364297166.md) |
+| Word Among Us Mass Edition | $6.53K | Free Trial - Soft Paywall | [Open](../apps/word-among-us-mass-edition-548665259.md) |
 
 ## What to study
 

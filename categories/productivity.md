@@ -102,7 +102,10 @@ Productivity apps often convert users by selling time savings, professional outp
 | Focus Hero: Goals & Habits | $7.58K | Free Trial - Soft Paywall | [Open](../apps/focus-hero-goals-and-habits-6465700009.md) |
 | Docusign - Upload & Sign Docs | $7.57K | No Free Trial - Soft Paywall | [Open](../apps/docusign-upload-and-sign-docs-474990205.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
+| Chat Smith: AI Chatbot & Agent | $7.00K | Free Trial - Soft Paywall | [Open](../apps/chat-smith-ai-chatbot-and-agent-1559479889.md) |
+| Translator GO: AI Translate | $6.71K | No Free Trial - Soft Paywall | [Open](../apps/translator-go-ai-translate-1570134612.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
+| PDF Converter - Word to PDF | $6.29K | Free Trial - Soft Paywall | [Open](../apps/pdf-converter-word-to-pdf-1515133401.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |
 | Forms for Google Docs | $2.82K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
 

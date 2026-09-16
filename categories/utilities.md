@@ -99,6 +99,10 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Mobile Antihacker Defence | $7.59K | Free Trial - Soft Paywall | [Open](../apps/mobile-antihacker-defence-6748454215.md) |
 | AAA VPN - AI Smart Proxy | $7.53K | Free Trial - Soft Paywall | [Open](../apps/aaa-vpn-ai-smart-proxy-6737266974.md) |
 | Swipe Cleaner - Clean Storage | $7.47K | Free Trial - Soft Paywall | [Open](../apps/swipe-cleaner-clean-storage-6466397867.md) |
+| SmartScanner-AI Measure&Count | $6.86K | Free Trial - Soft Paywall | [Open](../apps/smartscanner-ai-measure-and-count-1663170838.md) |
+| Scan QR Code. | $6.65K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scan-qr-code-1639136627.md) |
+| Remote for Firestick & Fire TV | $6.31K | Free Trial - Soft Paywall | [Open](../apps/remote-for-firestick-and-fire-tv-1467189269.md) |
+| Memorra Cleaner | $6.24K | Free Trial - Soft Paywall | [Open](../apps/memorra-cleaner-6751276609.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

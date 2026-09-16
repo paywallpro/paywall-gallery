@@ -59,6 +59,10 @@ Business apps often convert users by selling professional growth, productivity, 
 | ScanNow: Convert PDF, JPG, Doc | $9.19K | No Free Trial - Soft Paywall | [Open](../apps/scannow-convert-pdf-jpg-doc-1633616591.md) |
 | SmartLine Second Phone Number | $9.09K | No Free Trial - Hard Paywall | [Open](../apps/smartline-second-phone-number-1161533637.md) |
 | Hours Tracker: Time Tracking | $8.15K | No Free Trial - Soft Paywall | [Open](../apps/hours-tracker-time-tracking-336456412.md) |
+| PDF Hero - PDF Editor & Reader | $7.04K | Free Trial - Soft Paywall | [Open](../apps/pdf-hero-pdf-editor-and-reader-1512973255.md) |
+| Air Printer App: Smart Print | $7.01K | Free Trial - Hard Paywall | [Open](../apps/air-printer-app-smart-print-6461213041.md) |
+| Scan to PDF: Converter Scanner | $6.69K | Free Trial - Soft Paywall | [Open](../apps/scan-to-pdf-converter-scanner-1180773759.md) |
+| PDF Scanner App: Scanner Lens | $6.35K | Free Trial - Soft Paywall | [Open](../apps/pdf-scanner-app-scanner-lens-1486287909.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 
 ## What to study

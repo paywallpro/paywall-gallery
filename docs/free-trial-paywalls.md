@@ -1232,10 +1232,60 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Vampire Novels-Endless Stories | Entertainment | [Open](../apps/vampire-novels-endless-stories-6467381689.md) |
 | Dave and Ava Learn and Play | Education | [Open](../apps/dave-and-ava-learn-and-play-1310568078.md) |
 | 1Password: Password Manager | Productivity | [Open](../apps/1password-password-manager-1511601750.md) |
+| My Little Pony: Harmony Quest | Entertainment | [Open](../apps/my-little-pony-harmony-quest-1072380719.md) |
+| Momo: AI Photo & Video Maker | Photo & Video | [Open](../apps/momo-ai-photo-and-video-maker-1658822260.md) |
+| Carbon - Macro Coach & Tracker | Health & Fitness | [Open](../apps/carbon-macro-coach-and-tracker-1437820611.md) |
 | LazyFit: Workout For Beginners | Health & Fitness | [Open](../apps/lazyfit-workout-for-beginners-1669413773.md) |
+| Coloring Book for Adults - App | Lifestyle | [Open](../apps/coloring-book-for-adults-app-1355384062.md) |
+| HoneyReels | Entertainment | [Open](../apps/honeyreels-6477434409.md) |
+| PDF Hero - PDF Editor & Reader | Business | [Open](../apps/pdf-hero-pdf-editor-and-reader-1512973255.md) |
+| Air Printer App: Smart Print | Business | [Open](../apps/air-printer-app-smart-print-6461213041.md) |
+| Chat Smith: AI Chatbot & Agent | Productivity | [Open](../apps/chat-smith-ai-chatbot-and-agent-1559479889.md) |
+| Sofascore: Live Sports Scores | Sports | [Open](../apps/sofascore-live-sports-scores-1176147574.md) |
+| Dog & Puppy, Vet Game for Kids | Education | [Open](../apps/dog-and-puppy-vet-game-for-kids-1669223306.md) |
+| Temply: AI Video & Reels Maker | Photo & Video | [Open](../apps/temply-ai-video-and-reels-maker-1538145481.md) |
+| Dropout | Entertainment | [Open](../apps/dropout-1380833056.md) |
+| Toddler Learning Games for 2+ | Education | [Open](../apps/toddler-learning-games-for-2-1058295660.md) |
+| Glow Baby Tracker & Growth App | Medical | [Open](../apps/glow-baby-tracker-and-growth-app-1077177456.md) |
+| SmartScanner-AI Measure&Count | Utilities | [Open](../apps/smartscanner-ai-measure-and-count-1663170838.md) |
+| Tour Tracker Pro Cycling | Sports | [Open](../apps/tour-tracker-pro-cycling-638270049.md) |
+| JoyReels - Enjoy Short Dramas | Entertainment | [Open](../apps/joyreels-enjoy-short-dramas-6465895541.md) |
+| b Buds+   HEADPHONES CONNECT | Music | [Open](../apps/b-buds-headphones-connect-904615010.md) |
+| Car Game for Kids & Toddlers | Education | [Open](../apps/car-game-for-kids-and-toddlers-1384105520.md) |
+| LeapFrog Academy™ Learning | Education | [Open](../apps/leapfrog-academy-learning-1169264888.md) |
+| Magisto Video Editor & Maker | Photo & Video | [Open](../apps/magisto-video-editor-and-maker-486781045.md) |
+| Feelsy I ASMR Slime Simulator | Health & Fitness | [Open](../apps/feelsy-i-asmr-slime-simulator-1584784222.md) |
+| Followers Tracker - Reports | Social Networking | [Open](../apps/followers-tracker-reports-1571096208.md) |
+| Face Filters - AI Photo Trends | Photo & Video | [Open](../apps/face-filters-ai-photo-trends-6467492158.md) |
+| Translator GO: AI Translate | Productivity | [Open](../apps/translator-go-ai-translate-1570134612.md) |
+| Scan to PDF: Converter Scanner | Business | [Open](../apps/scan-to-pdf-converter-scanner-1180773759.md) |
+| Endless Reader | Education | [Open](../apps/endless-reader-722910739.md) |
+| PriceCharting: TCG, Games+ | Reference | [Open](../apps/pricecharting-tcg-games-6452190948.md) |
+| Scan QR Code. | Utilities | [Open](../apps/scan-qr-code-1639136627.md) |
+| Action Figure Maker: AI Figure | Photo & Video | [Open](../apps/action-figure-maker-ai-figure-6743466046.md) |
+| ShutEye®: Sleep Tracker, Sound | Health & Fitness | [Open](../apps/shuteye-sleep-tracker-sound-1490078804.md) |
+| Reports Unfollowers Followers+ | Social Networking | [Open](../apps/reports-unfollowers-followers-1499924074.md) |
+| The Metronome by Soundbrenner | Music | [Open](../apps/the-metronome-by-soundbrenner-1048954353.md) |
+| Word Among Us Mass Edition | Magazines & Newspapers | [Open](../apps/word-among-us-mass-edition-548665259.md) |
 | Photo Collage - Collageable | Photo & Video | [Open](../apps/photo-collage-collageable-1085652055.md) |
+| Think Dirty – Shop Clean | Health & Fitness | [Open](../apps/think-dirty-shop-clean-687176839.md) |
+| Blossom - Plant Care Guide | Education | [Open](../apps/blossom-plant-care-guide-1487453649.md) |
+| NovelBar | Books | [Open](../apps/novelbar-6453157225.md) |
+| iDrama – Short Dramas & Reels | Entertainment | [Open](../apps/idrama-short-dramas-and-reels-6741501595.md) |
+| Spoke Route Planner | Navigation | [Open](../apps/spoke-route-planner-1198232244.md) |
 | Bark - Parental Controls | Productivity | [Open](../apps/bark-parental-controls-1477619146.md) |
+| WalkFit: Steps counter | Health & Fitness | [Open](../apps/walkfit-steps-counter-1457956232.md) |
+| Translate One: AI Translator | Reference | [Open](../apps/translate-one-ai-translator-6736970537.md) |
+| PDF Scanner App: Scanner Lens | Business | [Open](../apps/pdf-scanner-app-scanner-lens-1486287909.md) |
+| Remote for Firestick & Fire TV | Utilities | [Open](../apps/remote-for-firestick-and-fire-tv-1467189269.md) |
+| PDF Converter - Word to PDF | Productivity | [Open](../apps/pdf-converter-word-to-pdf-1515133401.md) |
+| Memorra Cleaner | Utilities | [Open](../apps/memorra-cleaner-6751276609.md) |
+| Wrestle AI | Sports | [Open](../apps/wrestle-ai-6751189075.md) |
+| Liven: AI Life Coach | Health & Fitness | [Open](../apps/liven-ai-life-coach-6450840109.md) |
+| AI Mirror: AI Photo Editor | Photo & Video | [Open](../apps/ai-mirror-ai-photo-editor-6444888896.md) |
+| Splash Mini: Multiplication | Education | [Open](../apps/splash-mini-multiplication-449564960.md) |
 | Outlier: Smart Sports Betting | Sports | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |
+| Hallmark+ | Entertainment | [Open](../apps/hallmark-472567577.md) |
 | CoinSnap: Coin Identifier | Reference | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 | Persona: AI Beauty Editor | Photo & Video | [Open](../apps/persona-ai-beauty-editor-1561622206.md) |
 | Reels Maker for Instagram BEAT | Photo & Video | [Open](../apps/reels-maker-for-instagram-beat-6443517019.md) |

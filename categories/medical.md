@@ -30,6 +30,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | Clarity: CBT Self Help Journal | $12.19K | Free Trial - Soft Paywall | [Open](../apps/clarity-cbt-self-help-journal-1010391170.md) |
 | Christian Hypnobirthing | $12.18K | Free Trial - Soft Paywall | [Open](../apps/christian-hypnobirthing-1362809276.md) |
 | PillEye – tablet, pill counter | $8.99K | Free Trial - Soft Paywall | [Open](../apps/pilleye-tablet-pill-counter-1537039316.md) |
+| Glow Baby Tracker & Growth App | $6.87K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/glow-baby-tracker-and-growth-app-1077177456.md) |
 
 ## What to study
 
