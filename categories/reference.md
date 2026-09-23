@@ -35,6 +35,9 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Faithe: Bible Videos & Study | $7.48K | Free Trial - Soft Paywall | [Open](../apps/faithe-bible-videos-and-study-6736618823.md) |
 | PriceCharting: TCG, Games+ | $6.65K | Free Trial - Soft Paywall | [Open](../apps/pricecharting-tcg-games-6452190948.md) |
 | Translate One: AI Translator | $6.40K | Free Trial - Soft Paywall | [Open](../apps/translate-one-ai-translator-6736970537.md) |
+| Pencil Bible: Journal & Study | $6.16K | No Free Trial - Soft Paywall | [Open](../apps/pencil-bible-journal-and-study-1612587185.md) |
+| PlantAI: Identifier & Diagnose | $5.92K | Free Trial - Soft Paywall | [Open](../apps/plantai-identifier-and-diagnose-1664437810.md) |
+| Bible App - Read & Study Daily | $5.80K | Free Trial - Soft Paywall | [Open](../apps/bible-app-read-and-study-daily-332615624.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 
 ## What to study

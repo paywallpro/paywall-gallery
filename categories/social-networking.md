@@ -87,6 +87,9 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | SilverSingles: 50+ Dating | $7.25K | No Free Trial - Soft Paywall | [Open](../apps/silversingles-50-dating-6448954405.md) |
 | Followers Tracker - Reports | $6.71K | No Free Trial - Soft Paywall | [Open](../apps/followers-tracker-reports-1571096208.md) |
 | Reports Unfollowers Followers+ | $6.59K | No Free Trial - Soft Paywall | [Open](../apps/reports-unfollowers-followers-1499924074.md) |
+| CoscosApp | $6.05K | No Free Trial - Soft Paywall | [Open](../apps/coscosapp-6651824332.md) |
+| Stir: Single Parent Dating App | $5.99K | No Free Trial - Soft Paywall | [Open](../apps/stir-single-parent-dating-app-1576261708.md) |
+| Ashei - Meet, Chat & Connect | $5.75K | No Free Trial - Soft Paywall | [Open](../apps/ashei-meet-chat-and-connect-6752246872.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |
 
 ## What to study

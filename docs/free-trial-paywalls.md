@@ -1286,7 +1286,54 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Splash Mini: Multiplication | Education | [Open](../apps/splash-mini-multiplication-449564960.md) |
 | Outlier: Smart Sports Betting | Sports | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |
 | Hallmark+ | Entertainment | [Open](../apps/hallmark-472567577.md) |
+| Mevo Studio | Photo & Video | [Open](../apps/mevo-studio-1503021034.md) |
+| Pencil Bible: Journal & Study | Reference | [Open](../apps/pencil-bible-journal-and-study-1612587185.md) |
+| PREVIEW: Planner for Instagram | Photo & Video | [Open](../apps/preview-planner-for-instagram-1126609754.md) |
+| QBN | Lifestyle | [Open](../apps/qbn-6648793413.md) |
+| 2023 Top Ringtones & Wallpaper | Music | [Open](../apps/2023-top-ringtones-and-wallpaper-1583909451.md) |
+| Gaia GPS: Mobile Trail Maps | Navigation | [Open](../apps/gaia-gps-mobile-trail-maps-1201979492.md) |
+| Windy.app — Wind, Tides, Radar | Weather | [Open](../apps/windy-app-wind-tides-radar-997079492.md) |
+| AI Photo Cleaner - Cleanup Kit | Utilities | [Open](../apps/ai-photo-cleaner-cleanup-kit-6752330944.md) |
+| Tattoo AI - Tattoo Design | Graphics & Design | [Open](../apps/tattoo-ai-tattoo-design-6479689893.md) |
+| Metronome Pro - Beat & Tempo | Music | [Open](../apps/metronome-pro-beat-and-tempo-1439767245.md) |
+| Sleep Well: Snore & Sleep Talk | Health & Fitness | [Open](../apps/sleep-well-snore-and-sleep-talk-6578446085.md) |
+| CoscosApp | Social Networking | [Open](../apps/coscosapp-6651824332.md) |
+| FAX from iPhone: Fax App | Business | [Open](../apps/fax-from-iphone-fax-app-1563922708.md) |
+| GIO - Photo & Video Generator | Photo & Video | [Open](../apps/gio-photo-and-video-generator-6449296449.md) |
+| Stir: Single Parent Dating App | Social Networking | [Open](../apps/stir-single-parent-dating-app-1576261708.md) |
+| Volume Booster - EQ Amplifier | Music | [Open](../apps/volume-booster-eq-amplifier-6447246237.md) |
+| AI Chat Assistant – ChatNow | Productivity | [Open](../apps/ai-chat-assistant-chatnow-1667518571.md) |
+| The Great Courses | Education | [Open](../apps/the-great-courses-1017813651.md) |
+| PlantAI: Identifier & Diagnose | Reference | [Open](../apps/plantai-identifier-and-diagnose-1664437810.md) |
+| Zumba - Dance Fitness Workout | Health & Fitness | [Open](../apps/zumba-dance-fitness-workout-6447769025.md) |
+| Cake Cooking Games for Kids 2+ | Education | [Open](../apps/cake-cooking-games-for-kids-2-6447835025.md) |
+| Math AI Homework Helper,Solver | Education | [Open](../apps/math-ai-homework-helper-solver-1565102390.md) |
+| Song Finder : Music Identifier | Music | [Open](../apps/song-finder-music-identifier-1625902735.md) |
+| Noom Weight Loss, Food Tracker | Health & Fitness | [Open](../apps/noom-weight-loss-food-tracker-634598719.md) |
+| WePlay - Game and Party | Entertainment | [Open](../apps/weplay-game-and-party-1580330718.md) |
+| Color Therapy Coloring Number | Books | [Open](../apps/color-therapy-coloring-number-1031002863.md) |
+| NYSORA Nerve Blocks | Medical | [Open](../apps/nysora-nerve-blocks-912563749.md) |
+| Preschool Games for Toddler 2+ | Education | [Open](../apps/preschool-games-for-toddler-2-1176053552.md) |
+| Drum Pad Machine - Beat Maker | Music | [Open](../apps/drum-pad-machine-beat-maker-1057968965.md) |
+| Bible App - Read & Study Daily | Reference | [Open](../apps/bible-app-read-and-study-daily-332615624.md) |
+| Bug Identifier: AI Insect id | Education | [Open](../apps/bug-identifier-ai-insect-id-1588031278.md) |
+| Water Eject° | Music | [Open](../apps/water-eject-6453523330.md) |
+| Ashei - Meet, Chat & Connect | Social Networking | [Open](../apps/ashei-meet-chat-and-connect-6752246872.md) |
+| Kids Car Games: Police Car Fun | Education | [Open](../apps/kids-car-games-police-car-fun-1442848046.md) |
+| Plant Identifier, Care: Planty | Education | [Open](../apps/plant-identifier-care-planty-1603599822.md) |
 | CoinSnap: Coin Identifier | Reference | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
+| Muscle Booster Workout Tracker | Health & Fitness | [Open](../apps/muscle-booster-workout-tracker-1446447749.md) |
+| Drama Pops - Reel Shorts TV | Entertainment | [Open](../apps/drama-pops-reel-shorts-tv-6503891345.md) |
+| Milestone - Book Summaries | Education | [Open](../apps/milestone-book-summaries-6479528346.md) |
+| Kids Videos, Educational Games | Education | [Open](../apps/kids-videos-educational-games-1537964112.md) |
+| Camera Math Solver - UpStudy | Education | [Open](../apps/camera-math-solver-upstudy-1532857459.md) |
+| Dance AI - Video Generator | Photo & Video | [Open](../apps/dance-ai-video-generator-6758041184.md) |
+| Aimi AI: Chat With Soulful AI | Entertainment | [Open](../apps/aimi-ai-chat-with-soulful-ai-6754311950.md) |
+| MyRadar Accurate Weather Radar | Weather | [Open](../apps/myradar-accurate-weather-radar-322439990.md) |
+| Yi iot | Utilities | [Open](../apps/yi-iot-1375812275.md) |
+| Authenticator App | Productivity | [Open](../apps/authenticator-app-1538761576.md) |
+| Emoji Merge: Mix Sticker Maker | Utilities | [Open](../apps/emoji-merge-mix-sticker-maker-6479406786.md) |
+| Securora | Productivity | [Open](../apps/securora-6745794759.md) |
 | Persona: AI Beauty Editor | Photo & Video | [Open](../apps/persona-ai-beauty-editor-1561622206.md) |
 | Reels Maker for Instagram BEAT | Photo & Video | [Open](../apps/reels-maker-for-instagram-beat-6443517019.md) |
 | LastPass Password Manager | Productivity | [Open](../apps/lastpass-password-manager-324613447.md) |

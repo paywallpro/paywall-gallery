@@ -15,6 +15,7 @@ Navigation apps use subscription paywalls to communicate value and convert users
 | onX Offroad: Trail Maps & GPS | $11.46K | Free Trial - Soft Paywall | [Open](../apps/onx-offroad-trail-maps-and-gps-1475112177.md) |
 | Geocaching® | $8.79K | No Free Trial - Soft Paywall | [Open](../apps/geocaching-329541503.md) |
 | Spoke Route Planner | $6.44K | Free Trial - Soft Paywall | [Open](../apps/spoke-route-planner-1198232244.md) |
+| Gaia GPS: Mobile Trail Maps | $6.11K | Free Trial - Soft Paywall | [Open](../apps/gaia-gps-mobile-trail-maps-1201979492.md) |
 
 ## What to study
 

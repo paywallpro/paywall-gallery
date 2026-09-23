@@ -16,6 +16,8 @@ Books apps use subscription paywalls to communicate value and convert users into
 | Wattpad - Read & Write Stories | $7.91K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/wattpad-read-and-write-stories-306310789.md) |
 | Dreame - Read Best Romance | $7.85K | Currency Paywall | [Open](../apps/dreame-read-best-romance-1421091911.md) |
 | NovelBar | $6.48K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/novelbar-6453157225.md) |
+| Color Therapy Coloring Number | $5.83K | Free Trial - Soft Paywall | [Open](../apps/color-therapy-coloring-number-1031002863.md) |
+| Tapas – Comics and Novels | $5.73K | Currency Paywall | [Open](../apps/tapas-comics-and-novels-578836126.md) |
 
 ## What to study
 

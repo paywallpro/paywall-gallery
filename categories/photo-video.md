@@ -153,6 +153,10 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Action Figure Maker: AI Figure | $6.63K | No Free Trial - Soft Paywall | [Open](../apps/action-figure-maker-ai-figure-6743466046.md) |
 | Photo Collage - Collageable | $6.51K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-collageable-1085652055.md) |
 | AI Mirror: AI Photo Editor | $6.21K | Free Trial - Soft Paywall | [Open](../apps/ai-mirror-ai-photo-editor-6444888896.md) |
+| Mevo Studio | $6.16K | Free Trial - Soft Paywall | [Open](../apps/mevo-studio-1503021034.md) |
+| PREVIEW: Planner for Instagram | $6.15K | No Free Trial - Soft Paywall | [Open](../apps/preview-planner-for-instagram-1126609754.md) |
+| GIO - Photo & Video Generator | $5.99K | No Free Trial - Soft Paywall | [Open](../apps/gio-photo-and-video-generator-6449296449.md) |
+| Dance AI - Video Generator | $5.63K | No Free Trial - Soft Paywall | [Open](../apps/dance-ai-video-generator-6758041184.md) |
 | Persona: AI Beauty Editor | $5.46K | No Free Trial - Soft Paywall | [Open](../apps/persona-ai-beauty-editor-1561622206.md) |
 | Reels Maker for Instagram BEAT | $5.34K | No Free Trial - Soft Paywall | [Open](../apps/reels-maker-for-instagram-beat-6443517019.md) |
 | FaceAi: Face Swap Any Video | $4.12K | No Free Trial - Soft Paywall | [Open](../apps/faceai-face-swap-any-video-6470990632.md) |

@@ -103,6 +103,9 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Scan QR Code. | $6.65K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scan-qr-code-1639136627.md) |
 | Remote for Firestick & Fire TV | $6.31K | Free Trial - Soft Paywall | [Open](../apps/remote-for-firestick-and-fire-tv-1467189269.md) |
 | Memorra Cleaner | $6.24K | Free Trial - Soft Paywall | [Open](../apps/memorra-cleaner-6751276609.md) |
+| AI Photo Cleaner - Cleanup Kit | $6.09K | Free Trial - Soft Paywall | [Open](../apps/ai-photo-cleaner-cleanup-kit-6752330944.md) |
+| Yi iot | $5.61K | No Free Trial - Soft Paywall | [Open](../apps/yi-iot-1375812275.md) |
+| Emoji Merge: Mix Sticker Maker | $5.60K | Free Trial - Soft Paywall | [Open](../apps/emoji-merge-mix-sticker-maker-6479406786.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

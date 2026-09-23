@@ -89,6 +89,11 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | JoyReels - Enjoy Short Dramas | $6.81K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/joyreels-enjoy-short-dramas-6465895541.md) |
 | iDrama – Short Dramas & Reels | $6.47K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/idrama-short-dramas-and-reels-6741501595.md) |
 | Hallmark+ | $6.17K | Free Trial - Soft Paywall | [Open](../apps/hallmark-472567577.md) |
+| GoodFM - Dramas & Audiobooks | $5.92K | Currency Paywall | [Open](../apps/goodfm-dramas-and-audiobooks-1580704659.md) |
+| WePlay - Game and Party | $5.85K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/weplay-game-and-party-1580330718.md) |
+| Drama Pops - Reel Shorts TV | $5.68K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/drama-pops-reel-shorts-tv-6503891345.md) |
+| Aimi AI: Chat With Soulful AI | $5.63K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/aimi-ai-chat-with-soulful-ai-6754311950.md) |
+| Lolipop - AI Chat Story | $5.60K | Currency Paywall | [Open](../apps/lolipop-ai-chat-story-6742091078.md) |
 
 ## What to study
 

@@ -31,6 +31,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | Christian Hypnobirthing | $12.18K | Free Trial - Soft Paywall | [Open](../apps/christian-hypnobirthing-1362809276.md) |
 | PillEye – tablet, pill counter | $8.99K | Free Trial - Soft Paywall | [Open](../apps/pilleye-tablet-pill-counter-1537039316.md) |
 | Glow Baby Tracker & Growth App | $6.87K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/glow-baby-tracker-and-growth-app-1077177456.md) |
+| NYSORA Nerve Blocks | $5.82K | No Free Trial - Soft Paywall | [Open](../apps/nysora-nerve-blocks-912563749.md) |
 
 ## What to study
 

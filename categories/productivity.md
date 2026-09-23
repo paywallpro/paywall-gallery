@@ -106,6 +106,9 @@ Productivity apps often convert users by selling time savings, professional outp
 | Translator GO: AI Translate | $6.71K | No Free Trial - Soft Paywall | [Open](../apps/translator-go-ai-translate-1570134612.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | PDF Converter - Word to PDF | $6.29K | Free Trial - Soft Paywall | [Open](../apps/pdf-converter-word-to-pdf-1515133401.md) |
+| AI Chat Assistant – ChatNow | $5.98K | Free Trial - Soft Paywall | [Open](../apps/ai-chat-assistant-chatnow-1667518571.md) |
+| Authenticator App | $5.60K | Free Trial - Soft Paywall | [Open](../apps/authenticator-app-1538761576.md) |
+| Securora | $5.57K | Free Trial - Soft Paywall | [Open](../apps/securora-6745794759.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |
 | Forms for Google Docs | $2.82K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
 

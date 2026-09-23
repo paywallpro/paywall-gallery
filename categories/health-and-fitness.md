@@ -125,6 +125,10 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Think Dirty – Shop Clean | $6.49K | No Free Trial - Soft Paywall | [Open](../apps/think-dirty-shop-clean-687176839.md) |
 | WalkFit: Steps counter | $6.41K | No Free Trial - Soft Paywall | [Open](../apps/walkfit-steps-counter-1457956232.md) |
 | Liven: AI Life Coach | $6.21K | Free Trial - Soft Paywall | [Open](../apps/liven-ai-life-coach-6450840109.md) |
+| Sleep Well: Snore & Sleep Talk | $6.05K | Free Trial - Soft Paywall | [Open](../apps/sleep-well-snore-and-sleep-talk-6578446085.md) |
+| Zumba - Dance Fitness Workout | $5.89K | Free Trial - Soft Paywall | [Open](../apps/zumba-dance-fitness-workout-6447769025.md) |
+| Noom Weight Loss, Food Tracker | $5.85K | Free Trial - Soft Paywall | [Open](../apps/noom-weight-loss-food-tracker-634598719.md) |
+| Muscle Booster Workout Tracker | $5.69K | No Free Trial - Soft Paywall | [Open](../apps/muscle-booster-workout-tracker-1446447749.md) |
 | Welltory: Health, Heart Rate | $3.96K | No Free Trial - Soft Paywall | [Open](../apps/welltory-health-heart-rate-1074367771.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |

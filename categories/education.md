@@ -210,6 +210,16 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Endless Reader | $6.66K | No Free Trial - Soft Paywall | [Open](../apps/endless-reader-722910739.md) |
 | Blossom - Plant Care Guide | $6.49K | Free Trial - Soft Paywall | [Open](../apps/blossom-plant-care-guide-1487453649.md) |
 | Splash Mini: Multiplication | $6.19K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/splash-mini-multiplication-449564960.md) |
+| The Great Courses | $5.98K | Free Trial - Soft Paywall | [Open](../apps/the-great-courses-1017813651.md) |
+| Cake Cooking Games for Kids 2+ | $5.88K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/cake-cooking-games-for-kids-2-6447835025.md) |
+| Math AI Homework Helper,Solver | $5.86K | Free Trial - Soft Paywall | [Open](../apps/math-ai-homework-helper-solver-1565102390.md) |
+| Preschool Games for Toddler 2+ | $5.82K | No Free Trial - Soft Paywall | [Open](../apps/preschool-games-for-toddler-2-1176053552.md) |
+| Bug Identifier: AI Insect id | $5.78K | Free Trial - Soft Paywall | [Open](../apps/bug-identifier-ai-insect-id-1588031278.md) |
+| Kids Car Games: Police Car Fun | $5.74K | No Free Trial - Soft Paywall | [Open](../apps/kids-car-games-police-car-fun-1442848046.md) |
+| Plant Identifier, Care: Planty | $5.71K | Free Trial - Soft Paywall | [Open](../apps/plant-identifier-care-planty-1603599822.md) |
+| Milestone - Book Summaries | $5.67K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/milestone-book-summaries-6479528346.md) |
+| Kids Videos, Educational Games | $5.65K | Free Trial - Soft Paywall | [Open](../apps/kids-videos-educational-games-1537964112.md) |
+| Camera Math Solver - UpStudy | $5.65K | Free Trial - Soft Paywall | [Open](../apps/camera-math-solver-upstudy-1532857459.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

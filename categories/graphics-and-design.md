@@ -20,6 +20,7 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | Magic Poser - Art Pose Tool | $8.03K | Free Trial - Soft Paywall | [Open](../apps/magic-poser-art-pose-tool-1141755970.md) |
 | Pixelcut AI Photo Editor | $7.70K | Free Trial - Soft Paywall | [Open](../apps/pixelcut-ai-photo-editor-1534785237.md) |
 | Brushes for Procreate | $7.23K | No Free Trial - Soft Paywall | [Open](../apps/brushes-for-procreate-1507750565.md) |
+| Tattoo AI - Tattoo Design | $6.08K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/tattoo-ai-tattoo-design-6479689893.md) |
 
 ## What to study
 

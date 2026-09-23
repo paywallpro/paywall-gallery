@@ -94,6 +94,12 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Audio Editor - Music editor | $7.31K | Free Trial - Soft Paywall | [Open](../apps/audio-editor-music-editor-1493256837.md) |
 | b Buds+   HEADPHONES CONNECT | $6.80K | Free Trial - Hard Paywall | [Open](../apps/b-buds-headphones-connect-904615010.md) |
 | The Metronome by Soundbrenner | $6.59K | Free Trial - Soft Paywall | [Open](../apps/the-metronome-by-soundbrenner-1048954353.md) |
+| 2023 Top Ringtones & Wallpaper | $6.12K | Free Trial - Soft Paywall | [Open](../apps/2023-top-ringtones-and-wallpaper-1583909451.md) |
+| Metronome Pro - Beat & Tempo | $6.08K | Free Trial - Soft Paywall | [Open](../apps/metronome-pro-beat-and-tempo-1439767245.md) |
+| Volume Booster - EQ Amplifier | $5.99K | Free Trial - Soft Paywall | [Open](../apps/volume-booster-eq-amplifier-6447246237.md) |
+| Song Finder : Music Identifier | $5.86K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/song-finder-music-identifier-1625902735.md) |
+| Drum Pad Machine - Beat Maker | $5.82K | Free Trial - Soft Paywall | [Open](../apps/drum-pad-machine-beat-maker-1057968965.md) |
+| Water Eject° | $5.76K | No Free Trial - Soft Paywall | [Open](../apps/water-eject-6453523330.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 
 ## What to study
