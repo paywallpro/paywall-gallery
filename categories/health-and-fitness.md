@@ -129,6 +129,9 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Zumba - Dance Fitness Workout | $5.89K | Free Trial - Soft Paywall | [Open](../apps/zumba-dance-fitness-workout-6447769025.md) |
 | Noom Weight Loss, Food Tracker | $5.85K | Free Trial - Soft Paywall | [Open](../apps/noom-weight-loss-food-tracker-634598719.md) |
 | Muscle Booster Workout Tracker | $5.69K | No Free Trial - Soft Paywall | [Open](../apps/muscle-booster-workout-tracker-1446447749.md) |
+| Studio KSL by Katrina Scott | $5.55K | Free Trial - Soft Paywall | [Open](../apps/studio-ksl-by-katrina-scott-6740766431.md) |
+| Sleep Cycle - Tracker & Sounds | $5.24K | Free Trial - Hard Paywall | [Open](../apps/sleep-cycle-tracker-and-sounds-320606217.md) |
+| I am - Daily Affirmations | $5.11K | Free Trial - Soft Paywall | [Open](../apps/i-am-daily-affirmations-874656917.md) |
 | Welltory: Health, Heart Rate | $3.96K | No Free Trial - Soft Paywall | [Open](../apps/welltory-health-heart-rate-1074367771.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |

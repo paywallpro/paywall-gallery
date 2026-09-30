@@ -109,6 +109,12 @@ Productivity apps often convert users by selling time savings, professional outp
 | AI Chat Assistant – ChatNow | $5.98K | Free Trial - Soft Paywall | [Open](../apps/ai-chat-assistant-chatnow-1667518571.md) |
 | Authenticator App | $5.60K | Free Trial - Soft Paywall | [Open](../apps/authenticator-app-1538761576.md) |
 | Securora | $5.57K | Free Trial - Soft Paywall | [Open](../apps/securora-6745794759.md) |
+| Trimbox: Email Cleaner | $5.52K | Free Trial - Hard Paywall | [Open](../apps/trimbox-email-cleaner-6466923521.md) |
+| SmartGuard:Storage Cleaner | $5.49K | Free Trial - Soft Paywall | [Open](../apps/smartguard-storage-cleaner-6651830603.md) |
+| Smart Noter - AI Note Taker | $5.46K | Free Trial - Soft Paywall | [Open](../apps/smart-noter-ai-note-taker-6739575916.md) |
+| AI Chatbot - Nova | $5.46K | Free Trial - Soft Paywall | [Open](../apps/ai-chatbot-nova-1669007652.md) |
+| Beside (M1): AI Receptionist | $5.37K | Free Trial - Soft Paywall | [Open](../apps/beside-m1-ai-receptionist-6453521926.md) |
+| Turbo VPN Private Browser | $5.12K | Free Trial - Soft Paywall | [Open](../apps/turbo-vpn-private-browser-1365309175.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |
 | Forms for Google Docs | $2.82K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
 

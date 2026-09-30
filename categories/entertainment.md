@@ -94,6 +94,14 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Drama Pops - Reel Shorts TV | $5.68K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/drama-pops-reel-shorts-tv-6503891345.md) |
 | Aimi AI: Chat With Soulful AI | $5.63K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/aimi-ai-chat-with-soulful-ai-6754311950.md) |
 | Lolipop - AI Chat Story | $5.60K | Currency Paywall | [Open](../apps/lolipop-ai-chat-story-6742091078.md) |
+| Channel - AI Videos and Chat | $5.37K | Free Trial - Soft Paywall | [Open](../apps/channel-ai-videos-and-chat-6481246035.md) |
+| MoboReels: Short Drama Series | $5.33K | Free Trial - Soft Paywall | [Open](../apps/moboreels-short-drama-series-6450243852.md) |
+| Funny Prank Sounds & Joy Toys | $5.24K | Free Trial - Soft Paywall | [Open](../apps/funny-prank-sounds-and-joy-toys-6476749941.md) |
+| Skins Battle Royale for FBR | $5.22K | Free Trial - Hard Paywall | [Open](../apps/skins-battle-royale-for-fbr-6529521759.md) |
+| MGM+ | $5.20K | Free Trial - Soft Paywall | [Open](../apps/mgm-1387514950.md) |
+| D&D Beyond | $5.10K | No Free Trial - Soft Paywall | [Open](../apps/d-and-d-beyond-1501810129.md) |
+| Addons for Minecraft | $5.08K | Free Trial - Soft Paywall | [Open](../apps/addons-for-minecraft-1170340094.md) |
+| ETV Win | $5.01K | No Free Trial - Soft Paywall | [Open](../apps/etv-win-1245077673.md) |
 
 ## What to study
 

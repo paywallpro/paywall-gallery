@@ -62,6 +62,11 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | Tour Tracker Pro Cycling | $6.85K | Free Trial - Soft Paywall | [Open](../apps/tour-tracker-pro-cycling-638270049.md) |
 | Wrestle AI | $6.23K | No Free Trial - Hard Paywall, Free Trial - Hard Paywall | [Open](../apps/wrestle-ai-6751189075.md) |
 | Outlier: Smart Sports Betting | $6.17K | Free Trial - Soft Paywall | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |
+| 4APP Sports | $5.42K | No Free Trial - Soft Paywall | [Open](../apps/4app-sports-1551925155.md) |
+| Midco Sports Plus | $5.07K | No Free Trial - Soft Paywall | [Open](../apps/midco-sports-plus-1522574425.md) |
+| Fantasy Football Draft Kit UDK | $5.05K | No Free Trial - Soft Paywall | [Open](../apps/fantasy-football-draft-kit-udk-1439385193.md) |
+| FishAngler: Fishing App | $5.04K | No Free Trial - Soft Paywall | [Open](../apps/fishangler-fishing-app-1073941118.md) |
+| Scuba Diving Computer Oceanic+ | $5.00K | No Free Trial - Soft Paywall | [Open](../apps/scuba-diving-computer-oceanic-1610517133.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |
 | HuntStand: GPS Maps & Tools | $1.37K | No Free Trial - Soft Paywall | [Open](../apps/huntstand-gps-maps-and-tools-778772892.md) |
 | Real - Sports | $976 | No Free Trial - Soft Paywall | [Open](../apps/real-sports-1514546162.md) |

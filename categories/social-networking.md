@@ -90,6 +90,8 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | CoscosApp | $6.05K | No Free Trial - Soft Paywall | [Open](../apps/coscosapp-6651824332.md) |
 | Stir: Single Parent Dating App | $5.99K | No Free Trial - Soft Paywall | [Open](../apps/stir-single-parent-dating-app-1576261708.md) |
 | Ashei - Meet, Chat & Connect | $5.75K | No Free Trial - Soft Paywall | [Open](../apps/ashei-meet-chat-and-connect-6752246872.md) |
+| TanTan - Asian Dating App | $5.47K | No Free Trial - Soft Paywall | [Open](../apps/tantan-asian-dating-app-861891048.md) |
+| Rewatch LIVE: Save Live Stream | $5.00K | No Free Trial - Soft Paywall | [Open](../apps/rewatch-live-save-live-stream-6475189565.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |
 
 ## What to study

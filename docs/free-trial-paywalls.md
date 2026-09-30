@@ -1334,8 +1334,58 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Authenticator App | Productivity | [Open](../apps/authenticator-app-1538761576.md) |
 | Emoji Merge: Mix Sticker Maker | Utilities | [Open](../apps/emoji-merge-mix-sticker-maker-6479406786.md) |
 | Securora | Productivity | [Open](../apps/securora-6745794759.md) |
+| Keily-Create AI Stroy | Lifestyle | [Open](../apps/keily-create-ai-stroy-6754167179.md) |
+| Cosplay: Future Baby Generator | Photo & Video | [Open](../apps/cosplay-future-baby-generator-1673241595.md) |
+| Second Grade Learning Games | Education | [Open](../apps/second-grade-learning-games-603712499.md) |
+| Studio KSL by Katrina Scott | Health & Fitness | [Open](../apps/studio-ksl-by-katrina-scott-6740766431.md) |
+| Trimbox: Email Cleaner | Productivity | [Open](../apps/trimbox-email-cleaner-6466923521.md) |
+| Filmora: AI Video Editor&Maker | Photo & Video | [Open](../apps/filmora-ai-video-editor-and-maker-1019382747.md) |
+| SmartGuard:Storage Cleaner | Productivity | [Open](../apps/smartguard-storage-cleaner-6651830603.md) |
+| AI DJ - Mashup Maker Vocal | Music | [Open](../apps/ai-dj-mashup-maker-vocal-6743394019.md) |
+| TanTan - Asian Dating App | Social Networking | [Open](../apps/tantan-asian-dating-app-861891048.md) |
 | Persona: AI Beauty Editor | Photo & Video | [Open](../apps/persona-ai-beauty-editor-1561622206.md) |
+| Worship Backing Tracks | Music | [Open](../apps/worship-backing-tracks-1241843183.md) |
+| Smart Noter - AI Note Taker | Productivity | [Open](../apps/smart-noter-ai-note-taker-6739575916.md) |
+| AI Chatbot - Nova | Productivity | [Open](../apps/ai-chatbot-nova-1669007652.md) |
+| DJ it! Virtual Music Mixer app | Music | [Open](../apps/dj-it-virtual-music-mixer-app-1470224073.md) |
+| AI Baby Generator - TinyFaces | Photo & Video | [Open](../apps/ai-baby-generator-tinyfaces-1597747893.md) |
+| Lawfully Case Tracker | Utilities | [Open](../apps/lawfully-case-tracker-1435063223.md) |
+| HuntWise: A Better Hunting App | Navigation | [Open](../apps/huntwise-a-better-hunting-app-645518545.md) |
+| DMV Genie: Permit Test 2026 | Education | [Open](../apps/dmv-genie-permit-test-2026-513850893.md) |
+| 4APP Sports | Sports | [Open](../apps/4app-sports-1551925155.md) |
+| Beside (M1): AI Receptionist | Productivity | [Open](../apps/beside-m1-ai-receptionist-6453521926.md) |
+| Channel - AI Videos and Chat | Entertainment | [Open](../apps/channel-ai-videos-and-chat-6481246035.md) |
+| Kids Autism Games - AutiSpark | Education | [Open](../apps/kids-autism-games-autispark-1498731271.md) |
+| Merriam-Webster Dictionary | Reference | [Open](../apps/merriam-webster-dictionary-399452287.md) |
 | Reels Maker for Instagram BEAT | Photo & Video | [Open](../apps/reels-maker-for-instagram-beat-6443517019.md) |
+| MoboReels: Short Drama Series | Entertainment | [Open](../apps/moboreels-short-drama-series-6450243852.md) |
+| QR Code Scanner & AI Generator | Utilities | [Open](../apps/qr-code-scanner-and-ai-generator-6486535102.md) |
+| Phone Tracker: Locate Device | Utilities | [Open](../apps/phone-tracker-locate-device-6752253049.md) |
+| Sleep Cycle - Tracker & Sounds | Health & Fitness | [Open](../apps/sleep-cycle-tracker-and-sounds-320606217.md) |
+| Funny Prank Sounds & Joy Toys | Entertainment | [Open](../apps/funny-prank-sounds-and-joy-toys-6476749941.md) |
+| Plant Identifier - PlantMe | Education | [Open](../apps/plant-identifier-plantme-1532875668.md) |
+| Skins Battle Royale for FBR | Entertainment | [Open](../apps/skins-battle-royale-for-fbr-6529521759.md) |
+| MGM+ | Entertainment | [Open](../apps/mgm-1387514950.md) |
+| Cleaner Master Pro-Cleanup App | Utilities | [Open](../apps/cleaner-master-pro-cleanup-app-6739254215.md) |
+| Noji - Flashcards study app | Education | [Open](../apps/noji-flashcards-study-app-1573585542.md) |
+| Piano by Yousician | Education | [Open](../apps/piano-by-yousician-1469033443.md) |
+| Invoice & Estimate Maker | Business | [Open](../apps/invoice-and-estimate-maker-1271353929.md) |
+| Kids Drawing Games & Coloring | Education | [Open](../apps/kids-drawing-games-and-coloring-1436397693.md) |
+| Turbo VPN Private Browser | Productivity | [Open](../apps/turbo-vpn-private-browser-1365309175.md) |
+| I am - Daily Affirmations | Health & Fitness | [Open](../apps/i-am-daily-affirmations-874656917.md) |
+| Audio Editor : Audiolab | Music | [Open](../apps/audio-editor-audiolab-6446192816.md) |
+| Visto: AI Video Photo Creator | Photo & Video | [Open](../apps/visto-ai-video-photo-creator-6745590012.md) |
+| D&D Beyond | Entertainment | [Open](../apps/d-and-d-beyond-1501810129.md) |
+| Addons for Minecraft | Entertainment | [Open](../apps/addons-for-minecraft-1170340094.md) |
+| Midco Sports Plus | Sports | [Open](../apps/midco-sports-plus-1522574425.md) |
+| Police Scanner + | News | [Open](../apps/police-scanner-498408628.md) |
+| Fantasy Football Draft Kit UDK | Sports | [Open](../apps/fantasy-football-draft-kit-udk-1439385193.md) |
+| FishAngler: Fishing App | Sports | [Open](../apps/fishangler-fishing-app-1073941118.md) |
+| Bebi: Baby Games for Preschool | Education | [Open](../apps/bebi-baby-games-for-preschool-1474248135.md) |
+| ETV Win | Entertainment | [Open](../apps/etv-win-1245077673.md) |
+| GO Raid Party | Utilities | [Open](../apps/go-raid-party-1525921773.md) |
+| Scuba Diving Computer Oceanic+ | Sports | [Open](../apps/scuba-diving-computer-oceanic-1610517133.md) |
+| Rewatch LIVE: Save Live Stream | Social Networking | [Open](../apps/rewatch-live-save-live-stream-6475189565.md) |
 | LastPass Password Manager | Productivity | [Open](../apps/lastpass-password-manager-324613447.md) |
 | QR Reader for iPhone | Utilities | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | FaceAi: Face Swap Any Video | Photo & Video | [Open](../apps/faceai-face-swap-any-video-6470990632.md) |

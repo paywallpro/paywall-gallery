@@ -64,6 +64,7 @@ Business apps often convert users by selling professional growth, productivity, 
 | Scan to PDF: Converter Scanner | $6.69K | Free Trial - Soft Paywall | [Open](../apps/scan-to-pdf-converter-scanner-1180773759.md) |
 | PDF Scanner App: Scanner Lens | $6.35K | Free Trial - Soft Paywall | [Open](../apps/pdf-scanner-app-scanner-lens-1486287909.md) |
 | FAX from iPhone: Fax App | $5.99K | No Free Trial - Soft Paywall | [Open](../apps/fax-from-iphone-fax-app-1563922708.md) |
+| Invoice & Estimate Maker | $5.15K | No Free Trial - Soft Paywall | [Open](../apps/invoice-and-estimate-maker-1271353929.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 
 ## What to study

@@ -55,6 +55,7 @@ News apps use subscription paywalls to communicate value and convert users into 
 | Milwaukee Journal Sentinel | $8.09K | No Free Trial - Soft Paywall | [Open](../apps/milwaukee-journal-sentinel-526882300.md) |
 | azcentral | $8.00K | No Free Trial - Soft Paywall | [Open](../apps/azcentral-815248536.md) |
 | Cincinnati.com: The Enquirer | $7.44K | No Free Trial - Soft Paywall | [Open](../apps/cincinnati-com-the-enquirer-814555930.md) |
+| Police Scanner + | $5.07K | Free Trial - Soft Paywall | [Open](../apps/police-scanner-498408628.md) |
 
 ## What to study
 

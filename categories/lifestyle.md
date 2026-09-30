@@ -101,6 +101,7 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Security Camera - Home Camera | $7.25K | No Free Trial - Soft Paywall | [Open](../apps/security-camera-home-camera-6743783722.md) |
 | Coloring Book for Adults - App | $7.05K | No Free Trial - Soft Paywall | [Open](../apps/coloring-book-for-adults-app-1355384062.md) |
 | QBN | $6.14K | No Free Trial - Soft Paywall | [Open](../apps/qbn-6648793413.md) |
+| Keily-Create AI Stroy | $5.56K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/keily-create-ai-stroy-6754167179.md) |
 
 ## What to study
 

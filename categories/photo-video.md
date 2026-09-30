@@ -157,8 +157,12 @@ Photo and video apps often rely on creative control, premium features, editing c
 | PREVIEW: Planner for Instagram | $6.15K | No Free Trial - Soft Paywall | [Open](../apps/preview-planner-for-instagram-1126609754.md) |
 | GIO - Photo & Video Generator | $5.99K | No Free Trial - Soft Paywall | [Open](../apps/gio-photo-and-video-generator-6449296449.md) |
 | Dance AI - Video Generator | $5.63K | No Free Trial - Soft Paywall | [Open](../apps/dance-ai-video-generator-6758041184.md) |
+| Cosplay: Future Baby Generator | $5.56K | Free Trial - Soft Paywall | [Open](../apps/cosplay-future-baby-generator-1673241595.md) |
+| Filmora: AI Video Editor&Maker | $5.50K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/filmora-ai-video-editor-and-maker-1019382747.md) |
 | Persona: AI Beauty Editor | $5.46K | No Free Trial - Soft Paywall | [Open](../apps/persona-ai-beauty-editor-1561622206.md) |
+| AI Baby Generator - TinyFaces | $5.44K | No Free Trial - Soft Paywall | [Open](../apps/ai-baby-generator-tinyfaces-1597747893.md) |
 | Reels Maker for Instagram BEAT | $5.34K | No Free Trial - Soft Paywall | [Open](../apps/reels-maker-for-instagram-beat-6443517019.md) |
+| Visto: AI Video Photo Creator | $5.10K | No Free Trial - Soft Paywall | [Open](../apps/visto-ai-video-photo-creator-6745590012.md) |
 | FaceAi: Face Swap Any Video | $4.12K | No Free Trial - Soft Paywall | [Open](../apps/faceai-face-swap-any-video-6470990632.md) |
 
 ## What to study

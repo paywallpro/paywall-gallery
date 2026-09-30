@@ -39,6 +39,7 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | PlantAI: Identifier & Diagnose | $5.92K | Free Trial - Soft Paywall | [Open](../apps/plantai-identifier-and-diagnose-1664437810.md) |
 | Bible App - Read & Study Daily | $5.80K | Free Trial - Soft Paywall | [Open](../apps/bible-app-read-and-study-daily-332615624.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
+| Merriam-Webster Dictionary | $5.34K | Free Trial - Soft Paywall | [Open](../apps/merriam-webster-dictionary-399452287.md) |
 
 ## What to study
 

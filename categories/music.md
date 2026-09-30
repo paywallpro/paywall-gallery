@@ -100,6 +100,10 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Song Finder : Music Identifier | $5.86K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/song-finder-music-identifier-1625902735.md) |
 | Drum Pad Machine - Beat Maker | $5.82K | Free Trial - Soft Paywall | [Open](../apps/drum-pad-machine-beat-maker-1057968965.md) |
 | Water Eject° | $5.76K | No Free Trial - Soft Paywall | [Open](../apps/water-eject-6453523330.md) |
+| AI DJ - Mashup Maker Vocal | $5.48K | No Free Trial - Soft Paywall | [Open](../apps/ai-dj-mashup-maker-vocal-6743394019.md) |
+| Worship Backing Tracks | $5.46K | Free Trial - Soft Paywall | [Open](../apps/worship-backing-tracks-1241843183.md) |
+| DJ it! Virtual Music Mixer app | $5.45K | Free Trial - Soft Paywall | [Open](../apps/dj-it-virtual-music-mixer-app-1470224073.md) |
+| Audio Editor : Audiolab | $5.11K | Free Trial - Soft Paywall | [Open](../apps/audio-editor-audiolab-6446192816.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 
 ## What to study

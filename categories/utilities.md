@@ -106,6 +106,11 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | AI Photo Cleaner - Cleanup Kit | $6.09K | Free Trial - Soft Paywall | [Open](../apps/ai-photo-cleaner-cleanup-kit-6752330944.md) |
 | Yi iot | $5.61K | No Free Trial - Soft Paywall | [Open](../apps/yi-iot-1375812275.md) |
 | Emoji Merge: Mix Sticker Maker | $5.60K | Free Trial - Soft Paywall | [Open](../apps/emoji-merge-mix-sticker-maker-6479406786.md) |
+| Lawfully Case Tracker | $5.43K | Currency Paywall, Free Trial - Soft Paywall | [Open](../apps/lawfully-case-tracker-1435063223.md) |
+| QR Code Scanner & AI Generator | $5.31K | Free Trial - Soft Paywall | [Open](../apps/qr-code-scanner-and-ai-generator-6486535102.md) |
+| Phone Tracker: Locate Device | $5.26K | No Free Trial - Soft Paywall | [Open](../apps/phone-tracker-locate-device-6752253049.md) |
+| Cleaner Master Pro-Cleanup App | $5.17K | Free Trial - Soft Paywall | [Open](../apps/cleaner-master-pro-cleanup-app-6739254215.md) |
+| GO Raid Party | $5.01K | No Free Trial - Soft Paywall | [Open](../apps/go-raid-party-1525921773.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

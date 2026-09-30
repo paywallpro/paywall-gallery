@@ -220,6 +220,14 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Milestone - Book Summaries | $5.67K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/milestone-book-summaries-6479528346.md) |
 | Kids Videos, Educational Games | $5.65K | Free Trial - Soft Paywall | [Open](../apps/kids-videos-educational-games-1537964112.md) |
 | Camera Math Solver - UpStudy | $5.65K | Free Trial - Soft Paywall | [Open](../apps/camera-math-solver-upstudy-1532857459.md) |
+| Second Grade Learning Games | $5.56K | Free Trial - Soft Paywall | [Open](../apps/second-grade-learning-games-603712499.md) |
+| DMV Genie: Permit Test 2026 | $5.42K | Free Trial - Soft Paywall | [Open](../apps/dmv-genie-permit-test-2026-513850893.md) |
+| Kids Autism Games - AutiSpark | $5.35K | Free Trial - Soft Paywall | [Open](../apps/kids-autism-games-autispark-1498731271.md) |
+| Plant Identifier - PlantMe | $5.22K | Free Trial - Soft Paywall | [Open](../apps/plant-identifier-plantme-1532875668.md) |
+| Noji - Flashcards study app | $5.17K | No Free Trial - Soft Paywall | [Open](../apps/noji-flashcards-study-app-1573585542.md) |
+| Piano by Yousician | $5.15K | Free Trial - Soft Paywall | [Open](../apps/piano-by-yousician-1469033443.md) |
+| Kids Drawing Games & Coloring | $5.14K | Free Trial - Soft Paywall | [Open](../apps/kids-drawing-games-and-coloring-1436397693.md) |
+| Bebi: Baby Games for Preschool | $5.02K | Free Trial - Soft Paywall | [Open](../apps/bebi-baby-games-for-preschool-1474248135.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study
