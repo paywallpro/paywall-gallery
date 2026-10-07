@@ -92,6 +92,8 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Ashei - Meet, Chat & Connect | $5.75K | No Free Trial - Soft Paywall | [Open](../apps/ashei-meet-chat-and-connect-6752246872.md) |
 | TanTan - Asian Dating App | $5.47K | No Free Trial - Soft Paywall | [Open](../apps/tantan-asian-dating-app-861891048.md) |
 | Rewatch LIVE: Save Live Stream | $5.00K | No Free Trial - Soft Paywall | [Open](../apps/rewatch-live-save-live-stream-6475189565.md) |
+| SLYNUMBER | $4.95K | No Free Trial - Soft Paywall | [Open](../apps/slynumber-1634197601.md) |
+| Yuzu: Asian Dating & Friends | $4.50K | No Free Trial - Soft Paywall | [Open](../apps/yuzu-asian-dating-and-friends-1669115248.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |
 
 ## What to study

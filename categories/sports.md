@@ -67,6 +67,9 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | Fantasy Football Draft Kit UDK | $5.05K | No Free Trial - Soft Paywall | [Open](../apps/fantasy-football-draft-kit-udk-1439385193.md) |
 | FishAngler: Fishing App | $5.04K | No Free Trial - Soft Paywall | [Open](../apps/fishangler-fishing-app-1073941118.md) |
 | Scuba Diving Computer Oceanic+ | $5.00K | No Free Trial - Soft Paywall | [Open](../apps/scuba-diving-computer-oceanic-1610517133.md) |
+| Ace Trace - Shot Tracker | $4.71K | Free Trial - Soft Paywall | [Open](../apps/ace-trace-shot-tracker-1570844427.md) |
+| Yahoo Fantasy Sports: NFL, MLB | $4.62K | No Free Trial - Soft Paywall | [Open](../apps/yahoo-fantasy-sports-nfl-mlb-328415391.md) |
+| HomeCourt: Basketball Training | $4.61K | Free Trial - Soft Paywall | [Open](../apps/homecourt-basketball-training-1258520424.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |
 | HuntStand: GPS Maps & Tools | $1.37K | No Free Trial - Soft Paywall | [Open](../apps/huntstand-gps-maps-and-tools-778772892.md) |
 | Real - Sports | $976 | No Free Trial - Soft Paywall | [Open](../apps/real-sports-1514546162.md) |

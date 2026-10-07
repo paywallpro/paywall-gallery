@@ -104,6 +104,10 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Worship Backing Tracks | $5.46K | Free Trial - Soft Paywall | [Open](../apps/worship-backing-tracks-1241843183.md) |
 | DJ it! Virtual Music Mixer app | $5.45K | Free Trial - Soft Paywall | [Open](../apps/dj-it-virtual-music-mixer-app-1470224073.md) |
 | Audio Editor : Audiolab | $5.11K | Free Trial - Soft Paywall | [Open](../apps/audio-editor-audiolab-6446192816.md) |
+| Udio: AI Music Maker & Studio | $5.00K | No Free Trial - Soft Paywall | [Open](../apps/udio-ai-music-maker-and-studio-6511211165.md) |
+| Guitar Tuner - GuitarTunio | $4.84K | Free Trial - Soft Paywall | [Open](../apps/guitar-tuner-guitartunio-1448661287.md) |
+| must.fm for Spotify Stats | $4.80K | Free Trial - Hard Paywall | [Open](../apps/must-fm-for-spotify-stats-6444621447.md) |
+| Sound Player : Unlimited Music | $4.78K | No Free Trial - Soft Paywall | [Open](../apps/sound-player-unlimited-music-6740703431.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 
 ## What to study

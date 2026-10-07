@@ -115,7 +115,17 @@ Productivity apps often convert users by selling time savings, professional outp
 | AI Chatbot - Nova | $5.46K | Free Trial - Soft Paywall | [Open](../apps/ai-chatbot-nova-1669007652.md) |
 | Beside (M1): AI Receptionist | $5.37K | Free Trial - Soft Paywall | [Open](../apps/beside-m1-ai-receptionist-6453521926.md) |
 | Turbo VPN Private Browser | $5.12K | Free Trial - Soft Paywall | [Open](../apps/turbo-vpn-private-browser-1365309175.md) |
+| FoxNote - AI Note Taker | $5.00K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/foxnote-ai-note-taker-6742171260.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |
+| Shared Family Calendar: FamCal | $4.97K | Free Trial - Soft Paywall | [Open](../apps/shared-family-calendar-famcal-1098999871.md) |
+| SpeakApp AI: Voice Notes | $4.89K | Free Trial - Soft Paywall | [Open](../apps/speakapp-ai-voice-notes-6468764490.md) |
+| Scriptation: PDF for Film & TV | $4.87K | Free Trial - Soft Paywall | [Open](../apps/scriptation-pdf-for-film-and-tv-1094587086.md) |
+| MalwareDefender VPN PRO | $4.87K | No Free Trial - Soft Paywall | [Open](../apps/malwaredefender-vpn-pro-6504996976.md) |
+| Teleprompter | $4.73K | No Free Trial - Soft Paywall | [Open](../apps/teleprompter-941620509.md) |
+| MaxCleaner AI: Free Up Space | $4.69K | No Free Trial - Soft Paywall | [Open](../apps/maxcleaner-ai-free-up-space-6746647977.md) |
+| Cleaner Suite:Clean up Storage | $4.65K | Free Trial - Soft Paywall | [Open](../apps/cleaner-suite-clean-up-storage-6502891802.md) |
+| Evernote Scannable | $4.59K | Free Trial - Soft Paywall | [Open](../apps/evernote-scannable-883338188.md) |
+| Smart Web Radar | $4.47K | Free Trial - Soft Paywall | [Open](../apps/smart-web-radar-1633962564.md) |
 | Forms for Google Docs | $2.82K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
 
 ## What to study

@@ -132,6 +132,11 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Studio KSL by Katrina Scott | $5.55K | Free Trial - Soft Paywall | [Open](../apps/studio-ksl-by-katrina-scott-6740766431.md) |
 | Sleep Cycle - Tracker & Sounds | $5.24K | Free Trial - Hard Paywall | [Open](../apps/sleep-cycle-tracker-and-sounds-320606217.md) |
 | I am - Daily Affirmations | $5.11K | Free Trial - Soft Paywall | [Open](../apps/i-am-daily-affirmations-874656917.md) |
+| Endel: Focus & Sleep Sounds | $4.86K | Free Trial - Soft Paywall | [Open](../apps/endel-focus-and-sleep-sounds-1346247457.md) |
+| Clue Period & Cycle Tracker | $4.74K | Free Trial - Soft Paywall | [Open](../apps/clue-period-and-cycle-tracker-657189652.md) |
+| Melba: Couples & Intimacy | $4.72K | Free Trial - Soft Paywall | [Open](../apps/melba-couples-and-intimacy-1617445144.md) |
+| FINESSE: Workout Programs | $4.53K | No Free Trial - Soft Paywall | [Open](../apps/finesse-workout-programs-6751916496.md) |
+| 1st Phorm | $4.45K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/1st-phorm-1445819600.md) |
 | Welltory: Health, Heart Rate | $3.96K | No Free Trial - Soft Paywall | [Open](../apps/welltory-health-heart-rate-1074367771.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |

@@ -228,6 +228,11 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Piano by Yousician | $5.15K | Free Trial - Soft Paywall | [Open](../apps/piano-by-yousician-1469033443.md) |
 | Kids Drawing Games & Coloring | $5.14K | Free Trial - Soft Paywall | [Open](../apps/kids-drawing-games-and-coloring-1436397693.md) |
 | Bebi: Baby Games for Preschool | $5.02K | Free Trial - Soft Paywall | [Open](../apps/bebi-baby-games-for-preschool-1474248135.md) |
+| Hopscotch-Programming for kids | $4.81K | Free Trial - Soft Paywall | [Open](../apps/hopscotch-programming-for-kids-617098629.md) |
+| Kids ABC Phonics Tracing Games | $4.47K | Free Trial - Soft Paywall | [Open](../apps/kids-abc-phonics-tracing-games-1482752587.md) |
+| AI Plant Identifier・Care－Lily | $4.45K | Free Trial - Hard Paywall | [Open](../apps/ai-plant-identifier-care-lily-1570145257.md) |
+| Third Grade Learning Games | $4.40K | Free Trial - Soft Paywall | [Open](../apps/third-grade-learning-games-644836476.md) |
+| Sight Words & Phonics Reading | $4.40K | Free Trial - Soft Paywall | [Open](../apps/sight-words-and-phonics-reading-878724595.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

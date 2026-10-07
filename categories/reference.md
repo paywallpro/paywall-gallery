@@ -40,6 +40,8 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Bible App - Read & Study Daily | $5.80K | Free Trial - Soft Paywall | [Open](../apps/bible-app-read-and-study-daily-332615624.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 | Merriam-Webster Dictionary | $5.34K | Free Trial - Soft Paywall | [Open](../apps/merriam-webster-dictionary-399452287.md) |
+| My Translator - AI Translate | $4.66K | Free Trial - Soft Paywall | [Open](../apps/my-translator-ai-translate-6738385447.md) |
+| VinylSnap: Scan & Value Record | $4.52K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/vinylsnap-scan-and-value-record-6748595105.md) |
 
 ## What to study
 

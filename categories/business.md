@@ -65,6 +65,9 @@ Business apps often convert users by selling professional growth, productivity, 
 | PDF Scanner App: Scanner Lens | $6.35K | Free Trial - Soft Paywall | [Open](../apps/pdf-scanner-app-scanner-lens-1486287909.md) |
 | FAX from iPhone: Fax App | $5.99K | No Free Trial - Soft Paywall | [Open](../apps/fax-from-iphone-fax-app-1563922708.md) |
 | Invoice & Estimate Maker | $5.15K | No Free Trial - Soft Paywall | [Open](../apps/invoice-and-estimate-maker-1271353929.md) |
+| Authenticator App ⁸ | $4.97K | Free Trial - Soft Paywall | [Open](../apps/authenticator-app-6744388310.md) |
+| Tap & Print: Smart Printer App | $4.61K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/tap-and-print-smart-printer-app-1329476705.md) |
+| Printer App: Smart Print App | $4.52K | Free Trial - Soft Paywall | [Open](../apps/printer-app-smart-print-app-1661905836.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 
 ## What to study

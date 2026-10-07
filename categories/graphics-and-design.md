@@ -21,6 +21,8 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | Pixelcut AI Photo Editor | $7.70K | Free Trial - Soft Paywall | [Open](../apps/pixelcut-ai-photo-editor-1534785237.md) |
 | Brushes for Procreate | $7.23K | No Free Trial - Soft Paywall | [Open](../apps/brushes-for-procreate-1507750565.md) |
 | Tattoo AI - Tattoo Design | $6.08K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/tattoo-ai-tattoo-design-6479689893.md) |
+| Reface: AI Face Swap & Editor | $4.61K | No Free Trial - Soft Paywall | [Open](../apps/reface-ai-face-swap-and-editor-1488782587.md) |
+| AR Drawing: Sketch & Paint | $4.55K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/ar-drawing-sketch-and-paint-6448484908.md) |
 
 ## What to study
 

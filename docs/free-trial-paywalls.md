@@ -1386,8 +1386,56 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | GO Raid Party | Utilities | [Open](../apps/go-raid-party-1525921773.md) |
 | Scuba Diving Computer Oceanic+ | Sports | [Open](../apps/scuba-diving-computer-oceanic-1610517133.md) |
 | Rewatch LIVE: Save Live Stream | Social Networking | [Open](../apps/rewatch-live-save-live-stream-6475189565.md) |
+| FoxNote - AI Note Taker | Productivity | [Open](../apps/foxnote-ai-note-taker-6742171260.md) |
+| Udio: AI Music Maker & Studio | Music | [Open](../apps/udio-ai-music-maker-and-studio-6511211165.md) |
+| Authenticator App ⁸ | Business | [Open](../apps/authenticator-app-6744388310.md) |
 | LastPass Password Manager | Productivity | [Open](../apps/lastpass-password-manager-324613447.md) |
+| Shared Family Calendar: FamCal | Productivity | [Open](../apps/shared-family-calendar-famcal-1098999871.md) |
+| SLYNUMBER | Social Networking | [Open](../apps/slynumber-1634197601.md) |
+| SpeakApp AI: Voice Notes | Productivity | [Open](../apps/speakapp-ai-voice-notes-6468764490.md) |
+| Scriptation: PDF for Film & TV | Productivity | [Open](../apps/scriptation-pdf-for-film-and-tv-1094587086.md) |
+| MalwareDefender VPN PRO | Productivity | [Open](../apps/malwaredefender-vpn-pro-6504996976.md) |
+| Endel: Focus & Sleep Sounds | Health & Fitness | [Open](../apps/endel-focus-and-sleep-sounds-1346247457.md) |
+| Time Warp: Scan Filter & Emoji | Utilities | [Open](../apps/time-warp-scan-filter-and-emoji-6451967962.md) |
+| Guitar Tuner - GuitarTunio | Music | [Open](../apps/guitar-tuner-guitartunio-1448661287.md) |
+| Hopscotch-Programming for kids | Education | [Open](../apps/hopscotch-programming-for-kids-617098629.md) |
+| must.fm for Spotify Stats | Music | [Open](../apps/must-fm-for-spotify-stats-6444621447.md) |
+| Sound Player : Unlimited Music | Music | [Open](../apps/sound-player-unlimited-music-6740703431.md) |
+| Clue Period & Cycle Tracker | Health & Fitness | [Open](../apps/clue-period-and-cycle-tracker-657189652.md) |
+| Teleprompter | Productivity | [Open](../apps/teleprompter-941620509.md) |
+| Melba: Couples & Intimacy | Health & Fitness | [Open](../apps/melba-couples-and-intimacy-1617445144.md) |
+| Ace Trace - Shot Tracker | Sports | [Open](../apps/ace-trace-shot-tracker-1570844427.md) |
+| MaxCleaner AI: Free Up Space | Productivity | [Open](../apps/maxcleaner-ai-free-up-space-6746647977.md) |
+| My Translator - AI Translate | Reference | [Open](../apps/my-translator-ai-translate-6738385447.md) |
+| ShortsWave: Watch Drama Series | Entertainment | [Open](../apps/shortswave-watch-drama-series-6478104173.md) |
+| Cleaner Suite:Clean up Storage | Productivity | [Open](../apps/cleaner-suite-clean-up-storage-6502891802.md) |
+| Medium: Read & Write Stories | News | [Open](../apps/medium-read-and-write-stories-828256236.md) |
+| Manta - Manga, Manhwa, Novels | Books | [Open](../apps/manta-manga-manhwa-novels-1536116642.md) |
+| Yahoo Fantasy Sports: NFL, MLB | Sports | [Open](../apps/yahoo-fantasy-sports-nfl-mlb-328415391.md) |
+| Reface: AI Face Swap & Editor | Graphics & Design | [Open](../apps/reface-ai-face-swap-and-editor-1488782587.md) |
+| HomeCourt: Basketball Training | Sports | [Open](../apps/homecourt-basketball-training-1258520424.md) |
+| Cleaner AI: Photo Cleanup | Utilities | [Open](../apps/cleaner-ai-photo-cleanup-6502456017.md) |
+| Tap & Print: Smart Printer App | Business | [Open](../apps/tap-and-print-smart-printer-app-1329476705.md) |
+| Evernote Scannable | Productivity | [Open](../apps/evernote-scannable-883338188.md) |
+| vidIQ for YouTube & Instagram | Photo & Video | [Open](../apps/vidiq-for-youtube-and-instagram-1458235345.md) |
+| Wine-Searcher | Food & Drink | [Open](../apps/wine-searcher-599836194.md) |
+| AR Drawing: Sketch & Paint | Graphics & Design | [Open](../apps/ar-drawing-sketch-and-paint-6448484908.md) |
+| FINESSE: Workout Programs | Health & Fitness | [Open](../apps/finesse-workout-programs-6751916496.md) |
+| VinylSnap: Scan & Value Record | Reference | [Open](../apps/vinylsnap-scan-and-value-record-6748595105.md) |
+| Printer App: Smart Print App | Business | [Open](../apps/printer-app-smart-print-app-1661905836.md) |
+| AdProtector | Utilities | [Open](../apps/adprotector-6449463060.md) |
+| Yuzu: Asian Dating & Friends | Social Networking | [Open](../apps/yuzu-asian-dating-and-friends-1669115248.md) |
+| Home Security Camera ™ | Utilities | [Open](../apps/home-security-camera-6504337101.md) |
+| Kids ABC Phonics Tracing Games | Education | [Open](../apps/kids-abc-phonics-tracing-games-1482752587.md) |
+| Smart Web Radar | Productivity | [Open](../apps/smart-web-radar-1633962564.md) |
 | QR Reader for iPhone | Utilities | [Open](../apps/qr-reader-for-iphone-368494609.md) |
+| RealCall - Spam Call Blocker | Utilities | [Open](../apps/realcall-spam-call-blocker-1615561965.md) |
+| AI Plant Identifier・Care－Lily | Education | [Open](../apps/ai-plant-identifier-care-lily-1570145257.md) |
+| 1st Phorm | Health & Fitness | [Open](../apps/1st-phorm-1445819600.md) |
+| VideoGPT - AI Video Generator | Photo & Video | [Open](../apps/videogpt-ai-video-generator-6451396274.md) |
+| Aureel - Ai Video Generator | Photo & Video | [Open](../apps/aureel-ai-video-generator-6749286049.md) |
+| Third Grade Learning Games | Education | [Open](../apps/third-grade-learning-games-644836476.md) |
+| Sight Words & Phonics Reading | Education | [Open](../apps/sight-words-and-phonics-reading-878724595.md) |
 | FaceAi: Face Swap Any Video | Photo & Video | [Open](../apps/faceai-face-swap-any-video-6470990632.md) |
 | Welltory: Health, Heart Rate | Health & Fitness | [Open](../apps/welltory-health-heart-rate-1074367771.md) |
 | AI Song Generator - Zona | Music | [Open](../apps/ai-song-generator-zona-6499261254.md) |

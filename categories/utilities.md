@@ -111,7 +111,12 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Phone Tracker: Locate Device | $5.26K | No Free Trial - Soft Paywall | [Open](../apps/phone-tracker-locate-device-6752253049.md) |
 | Cleaner Master Pro-Cleanup App | $5.17K | Free Trial - Soft Paywall | [Open](../apps/cleaner-master-pro-cleanup-app-6739254215.md) |
 | GO Raid Party | $5.01K | No Free Trial - Soft Paywall | [Open](../apps/go-raid-party-1525921773.md) |
+| Time Warp: Scan Filter & Emoji | $4.85K | Free Trial - Soft Paywall | [Open](../apps/time-warp-scan-filter-and-emoji-6451967962.md) |
+| Cleaner AI: Photo Cleanup | $4.61K | Free Trial - Soft Paywall | [Open](../apps/cleaner-ai-photo-cleanup-6502456017.md) |
+| AdProtector | $4.51K | Free Trial - Soft Paywall | [Open](../apps/adprotector-6449463060.md) |
+| Home Security Camera ™ | $4.48K | No Free Trial - Soft Paywall | [Open](../apps/home-security-camera-6504337101.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
+| RealCall - Spam Call Blocker | $4.45K | Free Trial - Soft Paywall | [Open](../apps/realcall-spam-call-blocker-1615561965.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 
 ## What to study

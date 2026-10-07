@@ -163,6 +163,9 @@ Photo and video apps often rely on creative control, premium features, editing c
 | AI Baby Generator - TinyFaces | $5.44K | No Free Trial - Soft Paywall | [Open](../apps/ai-baby-generator-tinyfaces-1597747893.md) |
 | Reels Maker for Instagram BEAT | $5.34K | No Free Trial - Soft Paywall | [Open](../apps/reels-maker-for-instagram-beat-6443517019.md) |
 | Visto: AI Video Photo Creator | $5.10K | No Free Trial - Soft Paywall | [Open](../apps/visto-ai-video-photo-creator-6745590012.md) |
+| vidIQ for YouTube & Instagram | $4.58K | Free Trial - Soft Paywall | [Open](../apps/vidiq-for-youtube-and-instagram-1458235345.md) |
+| VideoGPT - AI Video Generator | $4.43K | Free Trial - Soft Paywall | [Open](../apps/videogpt-ai-video-generator-6451396274.md) |
+| Aureel - Ai Video Generator | $4.42K | No Free Trial - Soft Paywall | [Open](../apps/aureel-ai-video-generator-6749286049.md) |
 | FaceAi: Face Swap Any Video | $4.12K | No Free Trial - Soft Paywall | [Open](../apps/faceai-face-swap-any-video-6470990632.md) |
 
 ## What to study

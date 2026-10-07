@@ -102,6 +102,9 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | D&D Beyond | $5.10K | No Free Trial - Soft Paywall | [Open](../apps/d-and-d-beyond-1501810129.md) |
 | Addons for Minecraft | $5.08K | Free Trial - Soft Paywall | [Open](../apps/addons-for-minecraft-1170340094.md) |
 | ETV Win | $5.01K | No Free Trial - Soft Paywall | [Open](../apps/etv-win-1245077673.md) |
+| Vigloo - Premier Short Dramas | $4.75K | Currency Paywall | [Open](../apps/vigloo-premier-short-dramas-6503421271.md) |
+| Playlet: Watch Short Dramas&TV | $4.68K | Currency Paywall | [Open](../apps/playlet-watch-short-dramas-and-tv-6469587141.md) |
+| ShortsWave: Watch Drama Series | $4.66K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/shortswave-watch-drama-series-6478104173.md) |
 
 ## What to study
 
