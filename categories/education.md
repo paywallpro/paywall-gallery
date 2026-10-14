@@ -233,6 +233,15 @@ Education apps use subscription paywalls to communicate value and convert users 
 | AI Plant Identifier・Care－Lily | $4.45K | Free Trial - Hard Paywall | [Open](../apps/ai-plant-identifier-care-lily-1570145257.md) |
 | Third Grade Learning Games | $4.40K | Free Trial - Soft Paywall | [Open](../apps/third-grade-learning-games-644836476.md) |
 | Sight Words & Phonics Reading | $4.40K | Free Trial - Soft Paywall | [Open](../apps/sight-words-and-phonics-reading-878724595.md) |
+| Games for Toddlers & Kids 2-5 | $4.36K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/games-for-toddlers-and-kids-2-5-1443715499.md) |
+| Animal Hospital — Baby Games | $4.33K | Free Trial - Soft Paywall | [Open](../apps/animal-hospital-baby-games-1670385689.md) |
+| Peak - Brain Training | $4.32K | Free Trial - Soft Paywall | [Open](../apps/peak-brain-training-806223188.md) |
+| Socratic Homework AI | $4.28K | Free Trial - Soft Paywall | [Open](../apps/socratic-homework-ai-6751516855.md) |
+| Ukulele by Yousician | $4.23K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/ukulele-by-yousician-1585618286.md) |
+| Learning Games for Toddlers 2+ | $4.15K | No Free Trial - Soft Paywall | [Open](../apps/learning-games-for-toddlers-2-1084997102.md) |
+| Dr. Panda - Learn & Play | $4.10K | No Free Trial - Soft Paywall | [Open](../apps/dr-panda-learn-and-play-1298971687.md) |
+| Aha Makeover-Beauty Salon Game | $3.92K | No Free Trial - Soft Paywall | [Open](../apps/aha-makeover-beauty-salon-game-6479289773.md) |
+| Fifth Grade Learning Games | $3.90K | Free Trial - Soft Paywall | [Open](../apps/fifth-grade-learning-games-695979594.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

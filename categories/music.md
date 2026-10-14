@@ -108,6 +108,7 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Guitar Tuner - GuitarTunio | $4.84K | Free Trial - Soft Paywall | [Open](../apps/guitar-tuner-guitartunio-1448661287.md) |
 | must.fm for Spotify Stats | $4.80K | Free Trial - Hard Paywall | [Open](../apps/must-fm-for-spotify-stats-6444621447.md) |
 | Sound Player : Unlimited Music | $4.78K | No Free Trial - Soft Paywall | [Open](../apps/sound-player-unlimited-music-6740703431.md) |
+| Headphones & Speaker connect + | $4.21K | No Free Trial - Soft Paywall | [Open](../apps/headphones-and-speaker-connect-1561322053.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 
 ## What to study

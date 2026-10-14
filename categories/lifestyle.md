@@ -102,6 +102,7 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Coloring Book for Adults - App | $7.05K | No Free Trial - Soft Paywall | [Open](../apps/coloring-book-for-adults-app-1355384062.md) |
 | QBN | $6.14K | No Free Trial - Soft Paywall | [Open](../apps/qbn-6648793413.md) |
 | Keily-Create AI Stroy | $5.56K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/keily-create-ai-stroy-6754167179.md) |
+| Morpholio Board - Moodboard | $3.95K | Free Trial - Soft Paywall | [Open](../apps/morpholio-board-moodboard-761867957.md) |
 
 ## What to study
 

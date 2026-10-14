@@ -57,6 +57,7 @@ News apps use subscription paywalls to communicate value and convert users into 
 | Cincinnati.com: The Enquirer | $7.44K | No Free Trial - Soft Paywall | [Open](../apps/cincinnati-com-the-enquirer-814555930.md) |
 | Police Scanner + | $5.07K | Free Trial - Soft Paywall | [Open](../apps/police-scanner-498408628.md) |
 | Medium: Read & Write Stories | $4.63K | No Free Trial - Soft Paywall | [Open](../apps/medium-read-and-write-stories-828256236.md) |
+| Espresso: World news in a shot | $4.06K | Free Trial - Soft Paywall | [Open](../apps/espresso-world-news-in-a-shot-896628003.md) |
 
 ## What to study
 

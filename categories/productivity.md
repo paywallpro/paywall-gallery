@@ -126,6 +126,10 @@ Productivity apps often convert users by selling time savings, professional outp
 | Cleaner Suite:Clean up Storage | $4.65K | Free Trial - Soft Paywall | [Open](../apps/cleaner-suite-clean-up-storage-6502891802.md) |
 | Evernote Scannable | $4.59K | Free Trial - Soft Paywall | [Open](../apps/evernote-scannable-883338188.md) |
 | Smart Web Radar | $4.47K | Free Trial - Soft Paywall | [Open](../apps/smart-web-radar-1633962564.md) |
+| Pencil Planner & Calendar Pro | $4.39K | Free Trial - Soft Paywall | [Open](../apps/pencil-planner-and-calendar-pro-1505638148.md) |
+| Brainwaves -- Binaural Beats | $4.30K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/brainwaves-binaural-beats-450655712.md) |
+| Chatbot AI Assistant - Genie | $4.13K | Free Trial - Soft Paywall | [Open](../apps/chatbot-ai-assistant-genie-1658377526.md) |
+| Chatbot AI: AI Chat Assistant | $4.11K | Free Trial - Soft Paywall | [Open](../apps/chatbot-ai-ai-chat-assistant-6745492622.md) |
 | Forms for Google Docs | $2.82K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
 
 ## What to study

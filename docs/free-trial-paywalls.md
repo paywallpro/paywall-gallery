@@ -1436,8 +1436,58 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Aureel - Ai Video Generator | Photo & Video | [Open](../apps/aureel-ai-video-generator-6749286049.md) |
 | Third Grade Learning Games | Education | [Open](../apps/third-grade-learning-games-644836476.md) |
 | Sight Words & Phonics Reading | Education | [Open](../apps/sight-words-and-phonics-reading-878724595.md) |
+| AltitudePlus+ | Entertainment | [Open](../apps/altitudeplus-6723892938.md) |
+| Pencil Planner & Calendar Pro | Productivity | [Open](../apps/pencil-planner-and-calendar-pro-1505638148.md) |
+| Deen Buddy: Quran Chat Muslim | Reference | [Open](../apps/deen-buddy-quran-chat-muslim-6740403566.md) |
+| 75 Days Challenge Tough & Soft | Health & Fitness | [Open](../apps/75-days-challenge-tough-and-soft-6450723685.md) |
+| UP Faith & Family | Entertainment | [Open](../apps/up-faith-and-family-859991237.md) |
+| Games for Toddlers & Kids 2-5 | Education | [Open](../apps/games-for-toddlers-and-kids-2-5-1443715499.md) |
+| Sutara: Buddhist Stories | Reference | [Open](../apps/sutara-buddhist-stories-6744972234.md) |
+| Animal Hospital — Baby Games | Education | [Open](../apps/animal-hospital-baby-games-1670385689.md) |
+| CoinIn: Coin Scan Identifier | Reference | [Open](../apps/coinin-coin-scan-identifier-1672111368.md) |
+| Food Calorie Tracker: BitePal | Health & Fitness | [Open](../apps/food-calorie-tracker-bitepal-6479529917.md) |
+| Peak - Brain Training | Education | [Open](../apps/peak-brain-training-806223188.md) |
+| Confide - Video Journal | Health & Fitness | [Open](../apps/confide-video-journal-6738400489.md) |
+| Brainwaves -- Binaural Beats | Productivity | [Open](../apps/brainwaves-binaural-beats-450655712.md) |
+| Authenticator · | Utilities | [Open](../apps/authenticator-1602061522.md) |
+| TransEase: Realtime Translator | Utilities | [Open](../apps/transease-realtime-translator-6504505434.md) |
+| Socratic Homework AI | Education | [Open](../apps/socratic-homework-ai-6751516855.md) |
+| Translate your Voice - Talk AI | Reference | [Open](../apps/translate-your-voice-talk-ai-6476104118.md) |
+| Kalos TV-Short Dramas & Reels | Entertainment | [Open](../apps/kalos-tv-short-dramas-and-reels-6463394851.md) |
+| Ukulele by Yousician | Education | [Open](../apps/ukulele-by-yousician-1585618286.md) |
+| Cleaner: AI Phone Cleanup Tool | Utilities | [Open](../apps/cleaner-ai-phone-cleanup-tool-6469581113.md) |
+| Stronglifts 5x5 Workout Plan | Health & Fitness | [Open](../apps/stronglifts-5x5-workout-plan-488580022.md) |
+| UpLife: CBT Therapy, Self Care | Health & Fitness | [Open](../apps/uplife-cbt-therapy-self-care-1534293422.md) |
+| Christmas Gift List Tracker | Shopping | [Open](../apps/christmas-gift-list-tracker-1444504033.md) |
+| Headphones & Speaker connect + | Music | [Open](../apps/headphones-and-speaker-connect-1561322053.md) |
+| iTranslate Converse | Travel | [Open](../apps/itranslate-converse-1241264761.md) |
+| AI Video Generator: FaceHub | Photo & Video | [Open](../apps/ai-video-generator-facehub-6448434999.md) |
+| DramaTV – Watch Drama Shorts | Entertainment | [Open](../apps/dramatv-watch-drama-shorts-6736356559.md) |
+| Learning Games for Toddlers 2+ | Education | [Open](../apps/learning-games-for-toddlers-2-1084997102.md) |
+| Trace Table - Light Box | Photo & Video | [Open](../apps/trace-table-light-box-1217037946.md) |
+| Bend: Stretching & Flexibility | Health & Fitness | [Open](../apps/bend-stretching-and-flexibility-1513988468.md) |
+| Chatbot AI Assistant - Genie | Productivity | [Open](../apps/chatbot-ai-assistant-genie-1658377526.md) |
+| TrailLink: Bike, Run, Walk | Health & Fitness | [Open](../apps/traillink-bike-run-walk-636875425.md) |
 | FaceAi: Face Swap Any Video | Photo & Video | [Open](../apps/faceai-face-swap-any-video-6470990632.md) |
+| Chatbot AI: AI Chat Assistant | Productivity | [Open](../apps/chatbot-ai-ai-chat-assistant-6745492622.md) |
+| Logo Maker _ AI Design Creator | Graphics & Design | [Open](../apps/logo-maker-ai-design-creator-1217017670.md) |
+| Dr. Panda - Learn & Play | Education | [Open](../apps/dr-panda-learn-and-play-1298971687.md) |
+| Evoto: Photo Editor & Retouch | Photo & Video | [Open](../apps/evoto-photo-editor-and-retouch-6596737043.md) |
+| Stocks Tracker:Real-time stock | Finance | [Open](../apps/stocks-tracker-real-time-stock-517166254.md) |
+| Espresso: World news in a shot | News | [Open](../apps/espresso-world-news-in-a-shot-896628003.md) |
+| Halo AI: Photo & Video Editor | Photo & Video | [Open](../apps/halo-ai-photo-and-video-editor-6740445587.md) |
+| Hypic - Photo Editor & AI Art | Photo & Video | [Open](../apps/hypic-photo-editor-and-ai-art-1644042837.md) |
+| Tools for Procreate | Graphics & Design | [Open](../apps/tools-for-procreate-1559271447.md) |
+| Headshot Pro AI: Perfect Photo | Photo & Video | [Open](../apps/headshot-pro-ai-perfect-photo-6478854403.md) |
 | Welltory: Health, Heart Rate | Health & Fitness | [Open](../apps/welltory-health-heart-rate-1074367771.md) |
+| Morpholio Board - Moodboard | Lifestyle | [Open](../apps/morpholio-board-moodboard-761867957.md) |
+| PDF Scanner AI: Scan Documents | Business | [Open](../apps/pdf-scanner-ai-scan-documents-1561802302.md) |
+| Aha Makeover-Beauty Salon Game | Education | [Open](../apps/aha-makeover-beauty-salon-game-6479289773.md) |
+| Gabby - Coaching & Meditation | Health & Fitness | [Open](../apps/gabby-coaching-and-meditation-1669192315.md) |
+| Obvio - cleaner app | Utilities | [Open](../apps/obvio-cleaner-app-6752488337.md) |
+| Fifth Grade Learning Games | Education | [Open](../apps/fifth-grade-learning-games-695979594.md) |
+| Rapsodo MLM | Sports | [Open](../apps/rapsodo-mlm-1449443488.md) |
+| Minno - Kids Bible Videos | Entertainment | [Open](../apps/minno-kids-bible-videos-705286113.md) |
 | AI Song Generator - Zona | Music | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 | ScanGuru: PDF Scanner App | Business | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 | GraceChat | Social Networking | [Open](../apps/gracechat-1658972379.md) |

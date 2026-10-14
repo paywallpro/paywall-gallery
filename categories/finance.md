@@ -29,6 +29,7 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | Freebie Invoice Maker | $9.78K | No Free Trial - Soft Paywall | [Open](../apps/freebie-invoice-maker-1590349103.md) |
 | Dollarwise: Budget & Tracking | $9.19K | Free Trial - Soft Paywall | [Open](../apps/dollarwise-budget-and-tracking-6739215932.md) |
 | Profit AI - Trading Assistant | $8.53K | No Free Trial - Hard Paywall | [Open](../apps/profit-ai-trading-assistant-6743035682.md) |
+| Stocks Tracker:Real-time stock | $4.08K | No Free Trial - Soft Paywall | [Open](../apps/stocks-tracker-real-time-stock-517166254.md) |
 
 ## What to study
 

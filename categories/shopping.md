@@ -14,6 +14,7 @@ Shopping apps use subscription paywalls to communicate value and convert users i
 | Package tracker: Parcels Hub | $35.25K | Free Trial - Soft Paywall | [Open](../apps/package-tracker-parcels-hub-1559261145.md) |
 | HotStock - in-stock alerts | $10.75K | No Free Trial - Soft Paywall | [Open](../apps/hotstock-in-stock-alerts-1257690900.md) |
 | Marketplace  Buy and sell | $9.26K | Free Trial - Soft Paywall | [Open](../apps/marketplace-buy-and-sell-1212024479.md) |
+| Christmas Gift List Tracker | $4.21K | Free Trial - Soft Paywall | [Open](../apps/christmas-gift-list-tracker-1444504033.md) |
 
 ## What to study
 

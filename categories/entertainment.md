@@ -105,6 +105,11 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Vigloo - Premier Short Dramas | $4.75K | Currency Paywall | [Open](../apps/vigloo-premier-short-dramas-6503421271.md) |
 | Playlet: Watch Short Dramas&TV | $4.68K | Currency Paywall | [Open](../apps/playlet-watch-short-dramas-and-tv-6469587141.md) |
 | ShortsWave: Watch Drama Series | $4.66K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/shortswave-watch-drama-series-6478104173.md) |
+| AltitudePlus+ | $4.40K | No Free Trial - Soft Paywall | [Open](../apps/altitudeplus-6723892938.md) |
+| UP Faith & Family | $4.38K | Free Trial - Soft Paywall | [Open](../apps/up-faith-and-family-859991237.md) |
+| Kalos TV-Short Dramas & Reels | $4.24K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/kalos-tv-short-dramas-and-reels-6463394851.md) |
+| DramaTV – Watch Drama Shorts | $4.15K | No Free Trial - Soft Paywall | [Open](../apps/dramatv-watch-drama-shorts-6736356559.md) |
+| Minno - Kids Bible Videos | $3.89K | Free Trial - Soft Paywall | [Open](../apps/minno-kids-bible-videos-705286113.md) |
 
 ## What to study
 

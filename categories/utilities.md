@@ -117,6 +117,10 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Home Security Camera ™ | $4.48K | No Free Trial - Soft Paywall | [Open](../apps/home-security-camera-6504337101.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | RealCall - Spam Call Blocker | $4.45K | Free Trial - Soft Paywall | [Open](../apps/realcall-spam-call-blocker-1615561965.md) |
+| Authenticator · | $4.29K | Free Trial - Soft Paywall | [Open](../apps/authenticator-1602061522.md) |
+| TransEase: Realtime Translator | $4.28K | Free Trial - Soft Paywall | [Open](../apps/transease-realtime-translator-6504505434.md) |
+| Cleaner: AI Phone Cleanup Tool | $4.23K | Free Trial - Soft Paywall | [Open](../apps/cleaner-ai-phone-cleanup-tool-6469581113.md) |
+| Obvio - cleaner app | $3.90K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/obvio-cleaner-app-6752488337.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 
 ## What to study

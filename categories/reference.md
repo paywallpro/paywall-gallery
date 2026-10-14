@@ -42,6 +42,10 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Merriam-Webster Dictionary | $5.34K | Free Trial - Soft Paywall | [Open](../apps/merriam-webster-dictionary-399452287.md) |
 | My Translator - AI Translate | $4.66K | Free Trial - Soft Paywall | [Open](../apps/my-translator-ai-translate-6738385447.md) |
 | VinylSnap: Scan & Value Record | $4.52K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/vinylsnap-scan-and-value-record-6748595105.md) |
+| Deen Buddy: Quran Chat Muslim | $4.39K | Free Trial - Soft Paywall | [Open](../apps/deen-buddy-quran-chat-muslim-6740403566.md) |
+| Sutara: Buddhist Stories | $4.34K | Free Trial - Hard Paywall | [Open](../apps/sutara-buddhist-stories-6744972234.md) |
+| CoinIn: Coin Scan Identifier | $4.32K | Free Trial - Soft Paywall | [Open](../apps/coinin-coin-scan-identifier-1672111368.md) |
+| Translate your Voice - Talk AI | $4.28K | Free Trial - Soft Paywall | [Open](../apps/translate-your-voice-talk-ai-6476104118.md) |
 
 ## What to study
 

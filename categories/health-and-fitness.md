@@ -137,7 +137,15 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Melba: Couples & Intimacy | $4.72K | Free Trial - Soft Paywall | [Open](../apps/melba-couples-and-intimacy-1617445144.md) |
 | FINESSE: Workout Programs | $4.53K | No Free Trial - Soft Paywall | [Open](../apps/finesse-workout-programs-6751916496.md) |
 | 1st Phorm | $4.45K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/1st-phorm-1445819600.md) |
+| 75 Days Challenge Tough & Soft | $4.38K | No Free Trial - Soft Paywall | [Open](../apps/75-days-challenge-tough-and-soft-6450723685.md) |
+| Food Calorie Tracker: BitePal | $4.32K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/food-calorie-tracker-bitepal-6479529917.md) |
+| Confide - Video Journal | $4.31K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/confide-video-journal-6738400489.md) |
+| Stronglifts 5x5 Workout Plan | $4.23K | Free Trial - Soft Paywall | [Open](../apps/stronglifts-5x5-workout-plan-488580022.md) |
+| UpLife: CBT Therapy, Self Care | $4.22K | No Free Trial - Soft Paywall | [Open](../apps/uplife-cbt-therapy-self-care-1534293422.md) |
+| Bend: Stretching & Flexibility | $4.13K | No Free Trial - Soft Paywall | [Open](../apps/bend-stretching-and-flexibility-1513988468.md) |
+| TrailLink: Bike, Run, Walk | $4.13K | No Free Trial - Soft Paywall | [Open](../apps/traillink-bike-run-walk-636875425.md) |
 | Welltory: Health, Heart Rate | $3.96K | No Free Trial - Soft Paywall | [Open](../apps/welltory-health-heart-rate-1074367771.md) |
+| Gabby - Coaching & Meditation | $3.90K | Free Trial - Soft Paywall | [Open](../apps/gabby-coaching-and-meditation-1669192315.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |
 | Balance: Meditation & Sleep | $1.74K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/balance-meditation-and-sleep-1361356590.md) |

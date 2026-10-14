@@ -166,7 +166,13 @@ Photo and video apps often rely on creative control, premium features, editing c
 | vidIQ for YouTube & Instagram | $4.58K | Free Trial - Soft Paywall | [Open](../apps/vidiq-for-youtube-and-instagram-1458235345.md) |
 | VideoGPT - AI Video Generator | $4.43K | Free Trial - Soft Paywall | [Open](../apps/videogpt-ai-video-generator-6451396274.md) |
 | Aureel - Ai Video Generator | $4.42K | No Free Trial - Soft Paywall | [Open](../apps/aureel-ai-video-generator-6749286049.md) |
+| AI Video Generator: FaceHub | $4.18K | No Free Trial - Soft Paywall | [Open](../apps/ai-video-generator-facehub-6448434999.md) |
+| Trace Table - Light Box | $4.14K | Free Trial - Soft Paywall | [Open](../apps/trace-table-light-box-1217037946.md) |
 | FaceAi: Face Swap Any Video | $4.12K | No Free Trial - Soft Paywall | [Open](../apps/faceai-face-swap-any-video-6470990632.md) |
+| Evoto: Photo Editor & Retouch | $4.08K | No Free Trial - Soft Paywall | [Open](../apps/evoto-photo-editor-and-retouch-6596737043.md) |
+| Halo AI: Photo & Video Editor | $4.06K | Free Trial - Hard Paywall | [Open](../apps/halo-ai-photo-and-video-editor-6740445587.md) |
+| Hypic - Photo Editor & AI Art | $4.01K | Free Trial - Soft Paywall | [Open](../apps/hypic-photo-editor-and-ai-art-1644042837.md) |
+| Headshot Pro AI: Perfect Photo | $3.97K | No Free Trial - Soft Paywall | [Open](../apps/headshot-pro-ai-perfect-photo-6478854403.md) |
 
 ## What to study
 
