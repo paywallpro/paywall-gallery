@@ -242,6 +242,12 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Dr. Panda - Learn & Play | $4.10K | No Free Trial - Soft Paywall | [Open](../apps/dr-panda-learn-and-play-1298971687.md) |
 | Aha Makeover-Beauty Salon Game | $3.92K | No Free Trial - Soft Paywall | [Open](../apps/aha-makeover-beauty-salon-game-6479289773.md) |
 | Fifth Grade Learning Games | $3.90K | Free Trial - Soft Paywall | [Open](../apps/fifth-grade-learning-games-695979594.md) |
+| MathMaster: Math Solver & Help | $3.83K | Free Trial - Soft Paywall | [Open](../apps/mathmaster-math-solver-and-help-1546599293.md) |
+| NeuroBoost-IQ Enhance&CogniFit | $3.74K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/neuroboost-iq-enhance-and-cognifit-6742813819.md) |
+| Math Learning Games For Kids + | $3.70K | Free Trial - Soft Paywall | [Open](../apps/math-learning-games-for-kids-426907035.md) |
+| Kids Games for 2,3,4 Year Olds | $3.62K | No Free Trial - Soft Paywall | [Open](../apps/kids-games-for-2-3-4-year-olds-1052704329.md) |
+| My Town : Home - Family Games | $3.61K | No Free Trial - Soft Paywall | [Open](../apps/my-town-home-family-games-998176001.md) |
+| Speak English with Loora AI | $3.53K | No Free Trial - Soft Paywall | [Open](../apps/speak-english-with-loora-ai-1552708303.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

@@ -19,6 +19,8 @@ Books apps use subscription paywalls to communicate value and convert users into
 | Color Therapy Coloring Number | $5.83K | Free Trial - Soft Paywall | [Open](../apps/color-therapy-coloring-number-1031002863.md) |
 | Tapas – Comics and Novels | $5.73K | Currency Paywall | [Open](../apps/tapas-comics-and-novels-578836126.md) |
 | Manta - Manga, Manhwa, Novels | $4.62K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/manta-manga-manhwa-novels-1536116642.md) |
+| Fatednovel- Web novel & Story | $3.80K | Currency Paywall | [Open](../apps/fatednovel-web-novel-and-story-6447497607.md) |
+| Marvel Unlimited | $3.65K | Free Trial - Soft Paywall | [Open](../apps/marvel-unlimited-607205403.md) |
 
 ## What to study
 

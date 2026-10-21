@@ -121,6 +121,14 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | TransEase: Realtime Translator | $4.28K | Free Trial - Soft Paywall | [Open](../apps/transease-realtime-translator-6504505434.md) |
 | Cleaner: AI Phone Cleanup Tool | $4.23K | Free Trial - Soft Paywall | [Open](../apps/cleaner-ai-phone-cleanup-tool-6469581113.md) |
 | Obvio - cleaner app | $3.90K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/obvio-cleaner-app-6752488337.md) |
+| Fonts - AI Stickers | $3.88K | Free Trial - Soft Paywall | [Open](../apps/fonts-ai-stickers-1454061614.md) |
+| LogTen Pilot Logbook | $3.85K | No Free Trial - Soft Paywall | [Open](../apps/logten-pilot-logbook-837274884.md) |
+| GIF Maker - Memes & GIFs | $3.81K | Free Trial - Soft Paywall | [Open](../apps/gif-maker-memes-and-gifs-1215606098.md) |
+| Car Play Connect, Sync & Care | $3.78K | No Free Trial - Soft Paywall | [Open](../apps/car-play-connect-sync-and-care-1665625393.md) |
+| Space Cleaner: File Manager | $3.76K | No Free Trial - Soft Paywall | [Open](../apps/space-cleaner-file-manager-6504668266.md) |
+| Am I Secure? Forensic Scan | $3.75K | No Free Trial - Soft Paywall | [Open](../apps/am-i-secure-forensic-scan-6468312814.md) |
+| Second Phone Number -Texts App | $3.68K | No Free Trial - Soft Paywall | [Open](../apps/second-phone-number-texts-app-1189911819.md) |
+| Mullvad VPN | $3.67K | No Free Trial - Soft Paywall | [Open](../apps/mullvad-vpn-1488466513.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 
 ## What to study

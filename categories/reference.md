@@ -46,6 +46,10 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Sutara: Buddhist Stories | $4.34K | Free Trial - Hard Paywall | [Open](../apps/sutara-buddhist-stories-6744972234.md) |
 | CoinIn: Coin Scan Identifier | $4.32K | Free Trial - Soft Paywall | [Open](../apps/coinin-coin-scan-identifier-1672111368.md) |
 | Translate your Voice - Talk AI | $4.28K | Free Trial - Soft Paywall | [Open](../apps/translate-your-voice-talk-ai-6476104118.md) |
+| Kuli Kuli: Travel Translator | $3.88K | No Free Trial - Soft Paywall | [Open](../apps/kuli-kuli-travel-translator-6458146511.md) |
+| Ayatique: Quran Stories | $3.88K | No Free Trial - Hard Paywall | [Open](../apps/ayatique-quran-stories-6740481012.md) |
+| Oxford Dictionary & Thesaurus | $3.84K | No Free Trial - Soft Paywall | [Open](../apps/oxford-dictionary-and-thesaurus-978674211.md) |
+| Coin Identifier - CoinScan | $3.67K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coin-identifier-coinscan-6448908389.md) |
 
 ## What to study
 

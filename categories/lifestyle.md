@@ -103,6 +103,9 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | QBN | $6.14K | No Free Trial - Soft Paywall | [Open](../apps/qbn-6648793413.md) |
 | Keily-Create AI Stroy | $5.56K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/keily-create-ai-stroy-6754167179.md) |
 | Morpholio Board - Moodboard | $3.95K | Free Trial - Soft Paywall | [Open](../apps/morpholio-board-moodboard-761867957.md) |
+| Desire AI | $3.82K | No Free Trial - Soft Paywall | [Open](../apps/desire-ai-6743434502.md) |
+| PlantDaily: AI Plant Care | $3.58K | Free Trial - Soft Paywall | [Open](../apps/plantdaily-ai-plant-care-6698880428.md) |
+| Starla - Call the Universe | $3.54K | Free Trial - Soft Paywall | [Open](../apps/starla-call-the-universe-6741873786.md) |
 
 ## What to study
 

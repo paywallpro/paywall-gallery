@@ -71,6 +71,7 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | Yahoo Fantasy Sports: NFL, MLB | $4.62K | No Free Trial - Soft Paywall | [Open](../apps/yahoo-fantasy-sports-nfl-mlb-328415391.md) |
 | HomeCourt: Basketball Training | $4.61K | Free Trial - Soft Paywall | [Open](../apps/homecourt-basketball-training-1258520424.md) |
 | Rapsodo MLM | $3.89K | Free Trial - Soft Paywall | [Open](../apps/rapsodo-mlm-1449443488.md) |
+| Disc Golf Network | $3.68K | No Free Trial - Soft Paywall | [Open](../apps/disc-golf-network-1499887479.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |
 | HuntStand: GPS Maps & Tools | $1.37K | No Free Trial - Soft Paywall | [Open](../apps/huntstand-gps-maps-and-tools-778772892.md) |
 | Real - Sports | $976 | No Free Trial - Soft Paywall | [Open](../apps/real-sports-1514546162.md) |

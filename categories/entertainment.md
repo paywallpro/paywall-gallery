@@ -110,6 +110,11 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Kalos TV-Short Dramas & Reels | $4.24K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/kalos-tv-short-dramas-and-reels-6463394851.md) |
 | DramaTV – Watch Drama Shorts | $4.15K | No Free Trial - Soft Paywall | [Open](../apps/dramatv-watch-drama-shorts-6736356559.md) |
 | Minno - Kids Bible Videos | $3.89K | Free Trial - Soft Paywall | [Open](../apps/minno-kids-bible-videos-705286113.md) |
+| My Little Pony Rainbow Runners | $3.71K | No Free Trial - Soft Paywall | [Open](../apps/my-little-pony-rainbow-runners-1195841989.md) |
+| Race Craft - Kids Car Games | $3.66K | No Free Trial - Soft Paywall | [Open](../apps/race-craft-kids-car-games-1470056799.md) |
+| Transformers Rescue Bots Hero | $3.61K | No Free Trial - Soft Paywall | [Open](../apps/transformers-rescue-bots-hero-1072374524.md) |
+| Pixel Color: Paint by Number | $3.52K | Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/pixel-color-paint-by-number-1436858922.md) |
+| Tencent Video | $3.51K | No Free Trial - Soft Paywall | [Open](../apps/tencent-video-1492898204.md) |
 
 ## What to study
 

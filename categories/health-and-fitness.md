@@ -146,6 +146,12 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | TrailLink: Bike, Run, Walk | $4.13K | No Free Trial - Soft Paywall | [Open](../apps/traillink-bike-run-walk-636875425.md) |
 | Welltory: Health, Heart Rate | $3.96K | No Free Trial - Soft Paywall | [Open](../apps/welltory-health-heart-rate-1074367771.md) |
 | Gabby - Coaching & Meditation | $3.90K | Free Trial - Soft Paywall | [Open](../apps/gabby-coaching-and-meditation-1669192315.md) |
+| Pulsebit: Heart Rate Monitor | $3.86K | Free Trial - Soft Paywall | [Open](../apps/pulsebit-heart-rate-monitor-1581114201.md) |
+| Wim Hof Method: Breathwork | $3.77K | Free Trial - Soft Paywall | [Open](../apps/wim-hof-method-breathwork-890471578.md) |
+| Hevy - Workout Tracker Gym Log | $3.73K | No Free Trial - Soft Paywall | [Open](../apps/hevy-workout-tracker-gym-log-1458862350.md) |
+| Liftoff - Ranked Gym Workouts | $3.66K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/liftoff-ranked-gym-workouts-6448081563.md) |
+| StressWatch: AI Stress Monitor | $3.59K | No Free Trial - Soft Paywall | [Open](../apps/stresswatch-ai-stress-monitor-6444737095.md) |
+| RISE: Sleep Tracker | $3.52K | Free Trial - Hard Paywall, No Free Trial - Hard Paywall | [Open](../apps/rise-sleep-tracker-1453884781.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |
 | Balance: Meditation & Sleep | $1.74K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/balance-meditation-and-sleep-1361356590.md) |

@@ -130,6 +130,10 @@ Productivity apps often convert users by selling time savings, professional outp
 | Brainwaves -- Binaural Beats | $4.30K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/brainwaves-binaural-beats-450655712.md) |
 | Chatbot AI Assistant - Genie | $4.13K | Free Trial - Soft Paywall | [Open](../apps/chatbot-ai-assistant-genie-1658377526.md) |
 | Chatbot AI: AI Chat Assistant | $4.11K | Free Trial - Soft Paywall | [Open](../apps/chatbot-ai-ai-chat-assistant-6745492622.md) |
+| Speak & Translate - Translator | $3.76K | Free Trial - Soft Paywall | [Open](../apps/speak-and-translate-translator-804641004.md) |
+| Nova Cleaner: AI Clean Up | $3.76K | Free Trial - Soft Paywall | [Open](../apps/nova-cleaner-ai-clean-up-1525336933.md) |
+| Kilonotes-Notes & Mark up PDF | $3.68K | No Free Trial - Soft Paywall | [Open](../apps/kilonotes-notes-and-mark-up-pdf-1514322479.md) |
+| Mobile Scanner App - Scan PDF | $3.61K | Free Trial - Soft Paywall | [Open](../apps/mobile-scanner-app-scan-pdf-1461747901.md) |
 | Forms for Google Docs | $2.82K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
 
 ## What to study

@@ -1,0 +1,128 @@
+---
+app_name: "Kuli Kuli: Travel Translator"
+app_id: 6458146511
+developer: "If Tech"
+category: "Reference"
+paywall_type: "No Free Trial - Soft Paywall"
+pricing_model: "2 offer sets across week, month, one-time purchase"
+mrr: "$3.88K"
+rating: 4.54
+versions_count: 1
+offers:
+  - period: "week"
+    prices: ["$4.99"]
+  - period: "month"
+    prices: ["$14.99"]
+  - period: "one-time purchase"
+    prices: ["$29.99"]
+onboarding_count: 2
+walkthrough_count: 5
+app_detail_url: "https://www.paywallpro.app/apps/Kuli-Kuli:-Travel-Translator-us?id=2151053&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+---
+
+# Kuli Kuli: Travel Translator Paywall Analysis
+
+Category: Reference
+Estimated MRR: $3.88K
+Paywall Pattern: No Free Trial - Soft Paywall
+Pricing Model: 2 offer sets across week, month, one-time purchase
+Captured Version: 1.3.6
+Version Release Date: 2025-10-13
+
+View full case on PaywallPro:
+<a href="https://www.paywallpro.app/apps/Kuli-Kuli:-Travel-Translator-us?id=2151053&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
+
+## Snapshot
+
+Kuli Kuli: Travel Translator is a Reference app by If Tech. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+
+Its paywall is a useful reference for studying how apps in the Reference category present subscription value, structure pricing, use trials, and reduce purchase friction.
+
+The full PaywallPro page includes the complete screenshot set, version history, onboarding context, and deeper revenue signals.
+
+## Key Takeaways
+
+- Kuli Kuli: Travel Translator uses the No Free Trial - Soft Paywall pattern in the Reference category.
+- 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
+- The paywall presents week, month, one-time purchase option(s), which can help reveal how the app uses price anchoring and subscription framing.
+- The pricing structure shows how a leading Reference app packages subscription value for its users.
+
+## Why This Paywall Matters
+
+Paywalls in the Reference category need to communicate value quickly and make the subscription decision easy to understand.
+
+This Kuli Kuli: Travel Translator paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+
+For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
+
+## Screenshots
+
+<p align="center">
+  <a href="https://www.paywallpro.app/apps/Kuli-Kuli:-Travel-Translator-us?id=2151053&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/kuli-kuli-travel-translator-6458146511/cover.webp" width="220" alt="Kuli Kuli: Travel Translator paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/Kuli-Kuli:-Travel-Translator-us?id=2151053&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/kuli-kuli-travel-translator-6458146511/paywall-weekly-4-99.webp" width="220" alt="Weekly $4.99"></a>
+  <a href="https://www.paywallpro.app/apps/Kuli-Kuli:-Travel-Translator-us?id=2151053&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/kuli-kuli-travel-translator-6458146511/paywall-weekly-4-99-2.webp" width="220" alt="Weekly $4.99"></a>
+</p>
+
+## Paywall Pattern
+
+| Field | Value |
+|---|---|
+| Category | Reference |
+| Paywall type | No Free Trial - Soft Paywall |
+| Pricing model | 2 offer sets across week, month, one-time purchase |
+| Captured version | 1.3.6 |
+| Version release date | 2025-10-13 |
+
+This paywall uses the **No Free Trial - Soft Paywall** structure.
+
+This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
+
+## Pricing Structure
+
+| Offer | Week | Month | One-Time Purchase |
+|---|---:|---:|---:|
+| Offer 1 | Not shown | Not shown | $29.99 |
+| Offer 2 | $4.99 | $14.99 | $29.99 |
+
+## Monetization Signals
+
+| Metric | Value |
+|---|---:|
+| App Store rating | 4.54 |
+| Category rank | #68 |
+| Estimated MRR | $3.88K |
+| Avg daily revenue | $267.00 |
+| Avg daily downloads | 594 |
+| Avg daily ARPU | $0.45 |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 5 |
+| Full history available on PaywallPro | Yes |
+
+## What Builders Can Learn
+
+- How Kuli Kuli: Travel Translator frames subscription value for users in the Reference category.
+- How the app structures pricing options and subscription periods.
+- How the paywall uses visual hierarchy to guide the purchase decision.
+- How trials, discounts, or offer sets are used to reduce purchase friction.
+- How this paywall can inspire pricing, UX, or A/B testing ideas for similar apps.
+
+## Questions to Explore
+
+- Which plan or offer is visually prioritized?
+- Does the paywall lead with value, price, trial, urgency, or social proof?
+- Is the annual plan positioned as the best-value option?
+- How much cognitive load does the pricing section create?
+- What would you test if you were optimizing this paywall?
+- How does this paywall compare with other apps in the Reference category?
+
+## View More
+
+This is a limited public preview.
+
+For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
+
+<a href="https://www.paywallpro.app/apps/Kuli-Kuli:-Travel-Translator-us?id=2151053&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
+
+---
+
+Powered by PaywallPro.

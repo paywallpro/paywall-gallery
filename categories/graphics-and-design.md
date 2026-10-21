@@ -25,6 +25,7 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | AR Drawing: Sketch & Paint | $4.55K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/ar-drawing-sketch-and-paint-6448484908.md) |
 | Logo Maker _ AI Design Creator | $4.10K | Free Trial - Soft Paywall | [Open](../apps/logo-maker-ai-design-creator-1217017670.md) |
 | Tools for Procreate | $4.01K | No Free Trial - Soft Paywall | [Open](../apps/tools-for-procreate-1559271447.md) |
+| Arvin®: AI Product Photo Maker | $3.88K | No Free Trial - Soft Paywall | [Open](../apps/arvin-ai-product-photo-maker-6446556788.md) |
 
 ## What to study
 

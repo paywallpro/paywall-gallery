@@ -173,6 +173,8 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Halo AI: Photo & Video Editor | $4.06K | Free Trial - Hard Paywall | [Open](../apps/halo-ai-photo-and-video-editor-6740445587.md) |
 | Hypic - Photo Editor & AI Art | $4.01K | Free Trial - Soft Paywall | [Open](../apps/hypic-photo-editor-and-ai-art-1644042837.md) |
 | Headshot Pro AI: Perfect Photo | $3.97K | No Free Trial - Soft Paywall | [Open](../apps/headshot-pro-ai-perfect-photo-6478854403.md) |
+| 1 Second Everyday: Video Diary | $3.68K | Free Trial - Soft Paywall | [Open](../apps/1-second-everyday-video-diary-587823548.md) |
+| AI Photo Generator: ARTA | $3.50K | Free Trial - Soft Paywall | [Open](../apps/ai-photo-generator-arta-1642969698.md) |
 
 ## What to study
 

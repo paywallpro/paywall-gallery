@@ -1488,7 +1488,56 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Fifth Grade Learning Games | Education | [Open](../apps/fifth-grade-learning-games-695979594.md) |
 | Rapsodo MLM | Sports | [Open](../apps/rapsodo-mlm-1449443488.md) |
 | Minno - Kids Bible Videos | Entertainment | [Open](../apps/minno-kids-bible-videos-705286113.md) |
+| Kuli Kuli: Travel Translator | Reference | [Open](../apps/kuli-kuli-travel-translator-6458146511.md) |
+| Arvin®: AI Product Photo Maker | Graphics & Design | [Open](../apps/arvin-ai-product-photo-maker-6446556788.md) |
+| Fonts - AI Stickers | Utilities | [Open](../apps/fonts-ai-stickers-1454061614.md) |
+| Ayatique: Quran Stories | Reference | [Open](../apps/ayatique-quran-stories-6740481012.md) |
+| The Globe and Mail | News | [Open](../apps/the-globe-and-mail-429228415.md) |
+| Pulsebit: Heart Rate Monitor | Health & Fitness | [Open](../apps/pulsebit-heart-rate-monitor-1581114201.md) |
+| Tigo Live | Social Networking | [Open](../apps/tigo-live-1573193510.md) |
+| LogTen Pilot Logbook | Utilities | [Open](../apps/logten-pilot-logbook-837274884.md) |
+| NCLEX RN Mastery Exam - 2026 | Medical | [Open](../apps/nclex-rn-mastery-exam-2026-625614526.md) |
+| Oxford Dictionary & Thesaurus | Reference | [Open](../apps/oxford-dictionary-and-thesaurus-978674211.md) |
+| Eatr: Tasty Cooking Recipes | Food & Drink | [Open](../apps/eatr-tasty-cooking-recipes-6479693198.md) |
+| MathMaster: Math Solver & Help | Education | [Open](../apps/mathmaster-math-solver-and-help-1546599293.md) |
+| Messenger Duo for WhatsApp | Social Networking | [Open](../apps/messenger-duo-for-whatsapp-1312424138.md) |
+| Desire AI | Lifestyle | [Open](../apps/desire-ai-6743434502.md) |
+| GIF Maker - Memes & GIFs | Utilities | [Open](../apps/gif-maker-memes-and-gifs-1215606098.md) |
+| Car Play Connect, Sync & Care | Utilities | [Open](../apps/car-play-connect-sync-and-care-1665625393.md) |
+| Wim Hof Method: Breathwork | Health & Fitness | [Open](../apps/wim-hof-method-breathwork-890471578.md) |
+| Speak & Translate - Translator | Productivity | [Open](../apps/speak-and-translate-translator-804641004.md) |
+| Space Cleaner: File Manager | Utilities | [Open](../apps/space-cleaner-file-manager-6504668266.md) |
+| Nova Cleaner: AI Clean Up | Productivity | [Open](../apps/nova-cleaner-ai-clean-up-1525336933.md) |
+| Am I Secure? Forensic Scan | Utilities | [Open](../apps/am-i-secure-forensic-scan-6468312814.md) |
+| NeuroBoost-IQ Enhance&CogniFit | Education | [Open](../apps/neuroboost-iq-enhance-and-cognifit-6742813819.md) |
+| Hevy - Workout Tracker Gym Log | Health & Fitness | [Open](../apps/hevy-workout-tracker-gym-log-1458862350.md) |
+| My Little Pony Rainbow Runners | Entertainment | [Open](../apps/my-little-pony-rainbow-runners-1195841989.md) |
+| Math Learning Games For Kids + | Education | [Open](../apps/math-learning-games-for-kids-426907035.md) |
+| Second Phone Number -Texts App | Utilities | [Open](../apps/second-phone-number-texts-app-1189911819.md) |
+| 1 Second Everyday: Video Diary | Photo & Video | [Open](../apps/1-second-everyday-video-diary-587823548.md) |
+| Kilonotes-Notes & Mark up PDF | Productivity | [Open](../apps/kilonotes-notes-and-mark-up-pdf-1514322479.md) |
+| Disc Golf Network | Sports | [Open](../apps/disc-golf-network-1499887479.md) |
+| Mullvad VPN | Utilities | [Open](../apps/mullvad-vpn-1488466513.md) |
+| Coin Identifier - CoinScan | Reference | [Open](../apps/coin-identifier-coinscan-6448908389.md) |
+| Race Craft - Kids Car Games | Entertainment | [Open](../apps/race-craft-kids-car-games-1470056799.md) |
+| Liftoff - Ranked Gym Workouts | Health & Fitness | [Open](../apps/liftoff-ranked-gym-workouts-6448081563.md) |
+| Marvel Unlimited | Books | [Open](../apps/marvel-unlimited-607205403.md) |
+| New York Daily News | News | [Open](../apps/new-york-daily-news-354730788.md) |
+| Kids Games for 2,3,4 Year Olds | Education | [Open](../apps/kids-games-for-2-3-4-year-olds-1052704329.md) |
+| Mobile Scanner App - Scan PDF | Productivity | [Open](../apps/mobile-scanner-app-scan-pdf-1461747901.md) |
+| My Town : Home - Family Games | Education | [Open](../apps/my-town-home-family-games-998176001.md) |
+| Transformers Rescue Bots Hero | Entertainment | [Open](../apps/transformers-rescue-bots-hero-1072374524.md) |
+| The San Diego Union-Tribune | News | [Open](../apps/the-san-diego-union-tribune-1145952888.md) |
+| StressWatch: AI Stress Monitor | Health & Fitness | [Open](../apps/stresswatch-ai-stress-monitor-6444737095.md) |
+| PlantDaily: AI Plant Care | Lifestyle | [Open](../apps/plantdaily-ai-plant-care-6698880428.md) |
 | AI Song Generator - Zona | Music | [Open](../apps/ai-song-generator-zona-6499261254.md) |
+| Starla - Call the Universe | Lifestyle | [Open](../apps/starla-call-the-universe-6741873786.md) |
+| CARROT Weather: Alerts & Radar | Weather | [Open](../apps/carrot-weather-alerts-and-radar-961390574.md) |
+| Speak English with Loora AI | Education | [Open](../apps/speak-english-with-loora-ai-1552708303.md) |
+| RISE: Sleep Tracker | Health & Fitness | [Open](../apps/rise-sleep-tracker-1453884781.md) |
+| Pixel Color: Paint by Number | Entertainment | [Open](../apps/pixel-color-paint-by-number-1436858922.md) |
+| Tencent Video | Entertainment | [Open](../apps/tencent-video-1492898204.md) |
+| AI Photo Generator: ARTA | Photo & Video | [Open](../apps/ai-photo-generator-arta-1642969698.md) |
 | ScanGuru: PDF Scanner App | Business | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 | GraceChat | Social Networking | [Open](../apps/gracechat-1658972379.md) |
 | Forms for Google Docs | Productivity | [Open](../apps/forms-for-google-docs-1619382448.md) |

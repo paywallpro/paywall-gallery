@@ -13,6 +13,7 @@ Weather apps use subscription paywalls to communicate value and convert users in
 | Surfline: Wave & Surf Reports | $10.55K | Free Trial - Soft Paywall | [Open](../apps/surfline-wave-and-surf-reports-393782096.md) |
 | Windy.app — Wind, Tides, Radar | $6.10K | Free Trial - Soft Paywall | [Open](../apps/windy-app-wind-tides-radar-997079492.md) |
 | MyRadar Accurate Weather Radar | $5.61K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/myradar-accurate-weather-radar-322439990.md) |
+| CARROT Weather: Alerts & Radar | $3.53K | Free Trial - Soft Paywall | [Open](../apps/carrot-weather-alerts-and-radar-961390574.md) |
 
 ## What to study
 

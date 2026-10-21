@@ -58,6 +58,9 @@ News apps use subscription paywalls to communicate value and convert users into 
 | Police Scanner + | $5.07K | Free Trial - Soft Paywall | [Open](../apps/police-scanner-498408628.md) |
 | Medium: Read & Write Stories | $4.63K | No Free Trial - Soft Paywall | [Open](../apps/medium-read-and-write-stories-828256236.md) |
 | Espresso: World news in a shot | $4.06K | Free Trial - Soft Paywall | [Open](../apps/espresso-world-news-in-a-shot-896628003.md) |
+| The Globe and Mail | $3.87K | No Free Trial - Soft Paywall | [Open](../apps/the-globe-and-mail-429228415.md) |
+| New York Daily News | $3.65K | No Free Trial - Soft Paywall | [Open](../apps/new-york-daily-news-354730788.md) |
+| The San Diego Union-Tribune | $3.60K | No Free Trial - Soft Paywall | [Open](../apps/the-san-diego-union-tribune-1145952888.md) |
 
 ## What to study
 
