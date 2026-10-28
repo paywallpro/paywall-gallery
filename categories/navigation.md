@@ -17,6 +17,8 @@ Navigation apps use subscription paywalls to communicate value and convert users
 | Spoke Route Planner | $6.44K | Free Trial - Soft Paywall | [Open](../apps/spoke-route-planner-1198232244.md) |
 | Gaia GPS: Mobile Trail Maps | $6.11K | Free Trial - Soft Paywall | [Open](../apps/gaia-gps-mobile-trail-maps-1201979492.md) |
 | HuntWise: A Better Hunting App | $5.43K | Free Trial - Soft Paywall | [Open](../apps/huntwise-a-better-hunting-app-645518545.md) |
+| MapXplorer: GPS Navigation | $3.46K | Free Trial - Soft Paywall | [Open](../apps/mapxplorer-gps-navigation-6463052823.md) |
+| iMaps+ for Google Maps | $3.25K | Free Trial - Soft Paywall | [Open](../apps/imaps-for-google-maps-585801479.md) |
 
 ## What to study
 

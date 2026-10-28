@@ -2,7 +2,7 @@
 
 Languages: [English](README.md) | [简体中文](README.zh-CN.md)
 
-A public dataset of 1560 top iOS subscription app paywalls and onboarding flows, published by <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.
+A public dataset of 1610 top iOS subscription app paywalls and onboarding flows, published by <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.
 
 Explore screenshots, pricing models, paywall patterns, onboarding previews, and monetization signals from real subscription apps.
 
@@ -70,9 +70,9 @@ It is a curated subset of the PaywallPro database, designed to be:
 - Easy to browse, with human-readable summaries and preview screenshots
 - Useful for product research, pricing research, UX reference, and growth analysis
 
-Current public release: 1560 apps. We will keep adding 50 new apps every week.
+Current public release: 1610 apps. We will keep adding 50 new apps every week.
 
-The complete app index lives in [apps/index.md](apps/index.md). [Browse all 1560 apps](apps/index.md).
+The complete app index lives in [apps/index.md](apps/index.md). [Browse all 1610 apps](apps/index.md).
 
 ---
 
@@ -154,7 +154,7 @@ See [Data Dictionary](docs/data-dictionary.md) for field definitions.
 | YouTube | Photo & Video | $3.07M | No Free Trial - Soft Paywall | [Open](apps/youtube-544007664.md) |
 | Telegram Messenger | Social Networking | $2.13M | No Free Trial - Soft Paywall | [Open](apps/telegram-messenger-686449807.md) |
 | NFL | Sports | $2.04M | No Free Trial - Soft Paywall | [Open](apps/nfl-389781154.md) |
-| NYTimes: US and Global News | News | $1.48M | No Free Trial - Soft Paywall | [Open](apps/nytimes-us-and-global-news-284862083.md) |
+| NYTimes: US and World News | News | $1.48M | No Free Trial - Soft Paywall | [Open](apps/nytimes-us-and-world-news-284862083.md) |
 | MileIQ: Mileage Tracker & Log | Finance | $1.26M | Free Trial - Soft Paywall | [Open](apps/mileiq-mileage-tracker-and-log-578830929.md) |
 | Quizlet: More than Flashcards | Education | $1.16M | Free Trial - Soft Paywall | [Open](apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | $1.03M | Free Trial - Soft Paywall | [Open](apps/tidal-music-hifi-sound-913943275.md) |
@@ -172,7 +172,7 @@ See [Data Dictionary](docs/data-dictionary.md) for field definitions.
 | Text Me - Phone Call + Texting | Social Networking | $727.67K | No Free Trial - Soft Paywall | [Open](apps/text-me-phone-call-texting-514485964.md) |
 | Fambase: Live & Group Chat | Utilities | $726.99K | No Free Trial - Soft Paywall, Currency Paywall | [Open](apps/fambase-live-and-group-chat-1580059320.md) |
 
-The complete app index lives in [apps/index.md](apps/index.md). [Browse all 1560 apps](apps/index.md).
+The complete app index lives in [apps/index.md](apps/index.md). [Browse all 1610 apps](apps/index.md).
 
 ---
 

@@ -72,6 +72,8 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | HomeCourt: Basketball Training | $4.61K | Free Trial - Soft Paywall | [Open](../apps/homecourt-basketball-training-1258520424.md) |
 | Rapsodo MLM | $3.89K | Free Trial - Soft Paywall | [Open](../apps/rapsodo-mlm-1449443488.md) |
 | Disc Golf Network | $3.68K | No Free Trial - Soft Paywall | [Open](../apps/disc-golf-network-1499887479.md) |
+| BuckScore | $3.38K | Free Trial - Soft Paywall | [Open](../apps/buckscore-1423128708.md) |
+| Swimtopia | $3.14K | Free Trial - Soft Paywall | [Open](../apps/swimtopia-881521818.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |
 | HuntStand: GPS Maps & Tools | $1.37K | No Free Trial - Soft Paywall | [Open](../apps/huntstand-gps-maps-and-tools-778772892.md) |
 | Real - Sports | $976 | No Free Trial - Soft Paywall | [Open](../apps/real-sports-1514546162.md) |

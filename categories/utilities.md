@@ -129,6 +129,9 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Am I Secure? Forensic Scan | $3.75K | No Free Trial - Soft Paywall | [Open](../apps/am-i-secure-forensic-scan-6468312814.md) |
 | Second Phone Number -Texts App | $3.68K | No Free Trial - Soft Paywall | [Open](../apps/second-phone-number-texts-app-1189911819.md) |
 | Mullvad VPN | $3.67K | No Free Trial - Soft Paywall | [Open](../apps/mullvad-vpn-1488466513.md) |
+| Cleaner Neat: Clean Up Storage | $3.36K | No Free Trial - Soft Paywall | [Open](../apps/cleaner-neat-clean-up-storage-1463756032.md) |
+| Voice Recorder: AI Note Taker | $3.28K | Free Trial - Soft Paywall | [Open](../apps/voice-recorder-ai-note-taker-6503227362.md) |
+| Screen Mirroring \| Smart TV | $3.18K | No Free Trial - Soft Paywall | [Open](../apps/screen-mirroring-smart-tv-1586624313.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 
 ## What to study

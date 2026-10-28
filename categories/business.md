@@ -69,7 +69,9 @@ Business apps often convert users by selling professional growth, productivity, 
 | Tap & Print: Smart Printer App | $4.61K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/tap-and-print-smart-printer-app-1329476705.md) |
 | Printer App: Smart Print App | $4.52K | Free Trial - Soft Paywall | [Open](../apps/printer-app-smart-print-app-1661905836.md) |
 | PDF Scanner AI: Scan Documents | $3.94K | Free Trial - Soft Paywall | [Open](../apps/pdf-scanner-ai-scan-documents-1561802302.md) |
+| Smart Air Printer App & Scan | $3.36K | Free Trial - Soft Paywall | [Open](../apps/smart-air-printer-app-and-scan-1562653542.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
+| Call Recorder for iPhone ㅤ | $3.13K | Free Trial - Soft Paywall | [Open](../apps/call-recorder-for-iphone-1200776424.md) |
 
 ## What to study
 

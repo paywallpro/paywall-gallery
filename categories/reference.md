@@ -50,6 +50,8 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Ayatique: Quran Stories | $3.88K | No Free Trial - Hard Paywall | [Open](../apps/ayatique-quran-stories-6740481012.md) |
 | Oxford Dictionary & Thesaurus | $3.84K | No Free Trial - Soft Paywall | [Open](../apps/oxford-dictionary-and-thesaurus-978674211.md) |
 | Coin Identifier - CoinScan | $3.67K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coin-identifier-coinscan-6448908389.md) |
+| AR Translator: Translate Photo | $3.44K | Free Trial - Hard Paywall | [Open](../apps/ar-translator-translate-photo-1465903782.md) |
+| Sky Tonight - Stargazing Guide | $3.25K | Free Trial - Soft Paywall | [Open](../apps/sky-tonight-stargazing-guide-1570594940.md) |
 
 ## What to study
 

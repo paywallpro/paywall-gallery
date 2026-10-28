@@ -1,5 +1,5 @@
 ---
-app_name: "NYTimes: US and Global News"
+app_name: "NYTimes: US and World News"
 app_id: 284862083
 developer: "The New York Times Company"
 category: "News"
@@ -15,10 +15,10 @@ offers:
     prices: ["$49.99/$249.99", "$17.99/$49.99/$299.99"]
 onboarding_count: 6
 walkthrough_count: 7
-app_detail_url: "https://www.paywallpro.app/apps/NYTimes:-US-and-Global-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+app_detail_url: "https://www.paywallpro.app/apps/NYTimes:-US-and-World-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
-# NYTimes: US and Global News Paywall Analysis
+# NYTimes: US and World News Paywall Analysis
 
 Category: News
 Estimated MRR: $1.48M
@@ -28,11 +28,11 @@ Captured Version: 11.63.0
 Version Release Date: 2026-02-25
 
 View full case on PaywallPro:
-<a href="https://www.paywallpro.app/apps/NYTimes:-US-and-Global-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/NYTimes:-US-and-World-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
-NYTimes: US and Global News is a News app by The New York Times Company. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+NYTimes: US and World News is a News app by The New York Times Company. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the News category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- NYTimes: US and Global News uses the No Free Trial - Soft Paywall pattern in the News category.
+- NYTimes: US and World News uses the No Free Trial - Soft Paywall pattern in the News category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading News app packages subscription value for its users.
@@ -49,16 +49,16 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 Paywalls in the News category need to communicate value quickly and make the subscription decision easy to understand.
 
-This NYTimes: US and Global News paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+This NYTimes: US and World News paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
 
 For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
 
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/NYTimes:-US-and-Global-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/nytimes-us-and-global-news-284862083/cover.webp" width="220" alt="NYTimes: US and Global News paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/NYTimes:-US-and-Global-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/nytimes-us-and-global-news-284862083/paywall-monthly-1-49-5-99-3-99-29-99.webp" width="220" alt="Monthly $1.49/$5.99/$3.99/$29.99"></a>
-  <a href="https://www.paywallpro.app/apps/NYTimes:-US-and-Global-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/nytimes-us-and-global-news-284862083/paywall-monthly-1-49-5-99-3-99-29-99-2.webp" width="220" alt="Monthly $1.49/$5.99/$3.99/$29.99"></a>
+  <a href="https://www.paywallpro.app/apps/NYTimes:-US-and-World-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/nytimes-us-and-world-news-284862083/cover.webp" width="220" alt="NYTimes: US and World News paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/NYTimes:-US-and-World-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/nytimes-us-and-world-news-284862083/paywall-monthly-1-49-5-99-3-99-29-99.webp" width="220" alt="Monthly $1.49/$5.99/$3.99/$29.99"></a>
+  <a href="https://www.paywallpro.app/apps/NYTimes:-US-and-World-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/nytimes-us-and-world-news-284862083/paywall-monthly-1-49-5-99-3-99-29-99-2.webp" width="220" alt="Monthly $1.49/$5.99/$3.99/$29.99"></a>
 </p>
 
 ## Paywall Pattern
@@ -98,7 +98,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 ## What Builders Can Learn
 
-- How NYTimes: US and Global News frames subscription value for users in the News category.
+- How NYTimes: US and World News frames subscription value for users in the News category.
 - How the app structures pricing options and subscription periods.
 - How the paywall uses visual hierarchy to guide the purchase decision.
 - How trials, discounts, or offer sets are used to reduce purchase friction.
@@ -119,7 +119,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-<a href="https://www.paywallpro.app/apps/NYTimes:-US-and-Global-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/NYTimes:-US-and-World-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

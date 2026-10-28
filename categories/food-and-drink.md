@@ -21,6 +21,7 @@ Food & Drink apps use subscription paywalls to communicate value and convert use
 | Recipe Keeper | $7.25K | No Free Trial - Soft Paywall | [Open](../apps/recipe-keeper-974683711.md) |
 | Wine-Searcher | $4.55K | Free Trial - Soft Paywall | [Open](../apps/wine-searcher-599836194.md) |
 | Eatr: Tasty Cooking Recipes | $3.84K | No Free Trial - Soft Paywall | [Open](../apps/eatr-tasty-cooking-recipes-6479693198.md) |
+| Cocktail Flow - Drink Recipes | $3.20K | No Free Trial - Soft Paywall | [Open](../apps/cocktail-flow-drink-recipes-486811622.md) |
 
 ## What to study
 

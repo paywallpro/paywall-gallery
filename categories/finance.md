@@ -30,6 +30,7 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | Dollarwise: Budget & Tracking | $9.19K | Free Trial - Soft Paywall | [Open](../apps/dollarwise-budget-and-tracking-6739215932.md) |
 | Profit AI - Trading Assistant | $8.53K | No Free Trial - Hard Paywall | [Open](../apps/profit-ai-trading-assistant-6743035682.md) |
 | Stocks Tracker:Real-time stock | $4.08K | No Free Trial - Soft Paywall | [Open](../apps/stocks-tracker-real-time-stock-517166254.md) |
+| Cancel Subscriptions & Refund | $3.37K | No Free Trial - Soft Paywall | [Open](../apps/cancel-subscriptions-and-refund-6479920412.md) |
 
 ## What to study
 

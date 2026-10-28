@@ -134,6 +134,10 @@ Productivity apps often convert users by selling time savings, professional outp
 | Nova Cleaner: AI Clean Up | $3.76K | Free Trial - Soft Paywall | [Open](../apps/nova-cleaner-ai-clean-up-1525336933.md) |
 | Kilonotes-Notes & Mark up PDF | $3.68K | No Free Trial - Soft Paywall | [Open](../apps/kilonotes-notes-and-mark-up-pdf-1514322479.md) |
 | Mobile Scanner App - Scan PDF | $3.61K | Free Trial - Soft Paywall | [Open](../apps/mobile-scanner-app-scan-pdf-1461747901.md) |
+| Digital Planner – Task Journal | $3.26K | Free Trial - Soft Paywall | [Open](../apps/digital-planner-task-journal-1632352471.md) |
+| PDF Expert: Editor & Reader | $3.21K | Free Trial - Soft Paywall | [Open](../apps/pdf-expert-editor-and-reader-743974925.md) |
+| IFTTT - Automate work and home | $3.14K | No Free Trial - Soft Paywall | [Open](../apps/ifttt-automate-work-and-home-660944635.md) |
+| CyberGate | $3.13K | Free Trial - Soft Paywall | [Open](../apps/cybergate-6443507367.md) |
 | Forms for Google Docs | $2.82K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
 
 ## What to study

@@ -248,6 +248,13 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Kids Games for 2,3,4 Year Olds | $3.62K | No Free Trial - Soft Paywall | [Open](../apps/kids-games-for-2-3-4-year-olds-1052704329.md) |
 | My Town : Home - Family Games | $3.61K | No Free Trial - Soft Paywall | [Open](../apps/my-town-home-family-games-998176001.md) |
 | Speak English with Loora AI | $3.53K | No Free Trial - Soft Paywall | [Open](../apps/speak-english-with-loora-ai-1552708303.md) |
+| Hopster: ABC Games for Kids | $3.44K | Free Trial - Soft Paywall | [Open](../apps/hopster-abc-games-for-kids-689165391.md) |
+| Monster Math 2: Kids Math Game | $3.44K | Free Trial - Soft Paywall | [Open](../apps/monster-math-2-kids-math-game-1025450732.md) |
+| Plant Guru - Plant Care Guide | $3.43K | Free Trial - Soft Paywall | [Open](../apps/plant-guru-plant-care-guide-6469519481.md) |
+| Star Walk 2 Plus: Live Sky Map | $3.40K | No Free Trial - Soft Paywall | [Open](../apps/star-walk-2-plus-live-sky-map-1112481571.md) |
+| Baby Phone Game for Toddlers | $3.32K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/baby-phone-game-for-toddlers-1625077286.md) |
+| Learning games for Kid&Toddler | $3.26K | Free Trial - Soft Paywall | [Open](../apps/learning-games-for-kid-and-toddler-1567954947.md) |
+| Bright - English for beginners | $3.23K | Free Trial - Soft Paywall | [Open](../apps/bright-english-for-beginners-1258621855.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

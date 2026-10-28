@@ -115,6 +115,11 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Transformers Rescue Bots Hero | $3.61K | No Free Trial - Soft Paywall | [Open](../apps/transformers-rescue-bots-hero-1072374524.md) |
 | Pixel Color: Paint by Number | $3.52K | Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/pixel-color-paint-by-number-1436858922.md) |
 | Tencent Video | $3.51K | No Free Trial - Soft Paywall | [Open](../apps/tencent-video-1492898204.md) |
+| The Nyx Network | $3.45K | No Free Trial - Soft Paywall | [Open](../apps/the-nyx-network-6462672843.md) |
+| Passes | $3.29K | No Free Trial - Soft Paywall | [Open](../apps/passes-6736365906.md) |
+| Color by Number：Coloring Games | $3.28K | Free Trial - Soft Paywall | [Open](../apps/color-by-number-coloring-games-1317978215.md) |
+| Pure Flix | $3.12K | No Free Trial - Soft Paywall | [Open](../apps/pure-flix-995082390.md) |
+| Transformers Rescue Bots: Dash | $3.09K | No Free Trial - Soft Paywall | [Open](../apps/transformers-rescue-bots-dash-1198584568.md) |
 
 ## What to study
 

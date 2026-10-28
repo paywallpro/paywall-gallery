@@ -22,7 +22,7 @@ The strongest paywalls usually make the comparison easy to understand.
 |---|---|---|
 | YouTube | Photo & Video | [Open](../apps/youtube-544007664.md) |
 | NFL | Sports | [Open](../apps/nfl-389781154.md) |
-| NYTimes: US and Global News | News | [Open](../apps/nytimes-us-and-global-news-284862083.md) |
+| NYTimes: US and World News | News | [Open](../apps/nytimes-us-and-world-news-284862083.md) |
 | MileIQ: Mileage Tracker & Log | Finance | [Open](../apps/mileiq-mileage-tracker-and-log-578830929.md) |
 | Quizlet: More than Flashcards | Education | [Open](../apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | [Open](../apps/tidal-music-hifi-sound-913943275.md) |

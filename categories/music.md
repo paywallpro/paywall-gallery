@@ -110,6 +110,8 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Sound Player : Unlimited Music | $4.78K | No Free Trial - Soft Paywall | [Open](../apps/sound-player-unlimited-music-6740703431.md) |
 | Headphones & Speaker connect + | $4.21K | No Free Trial - Soft Paywall | [Open](../apps/headphones-and-speaker-connect-1561322053.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
+| AI Ringtones：Ringtone Maker | $3.44K | Free Trial - Soft Paywall | [Open](../apps/ai-ringtones-ringtone-maker-6740201074.md) |
+| KP - AI Music & Song Generator | $3.23K | No Free Trial - Soft Paywall | [Open](../apps/kp-ai-music-and-song-generator-6744406259.md) |
 
 ## What to study
 

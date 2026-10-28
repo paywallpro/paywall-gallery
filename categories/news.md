@@ -8,7 +8,7 @@ News apps use subscription paywalls to communicate value and convert users into 
 
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
-| NYTimes: US and Global News | $1.48M | No Free Trial - Soft Paywall | [Open](../apps/nytimes-us-and-global-news-284862083.md) |
+| NYTimes: US and World News | $1.48M | No Free Trial - Soft Paywall | [Open](../apps/nytimes-us-and-world-news-284862083.md) |
 | Citizen: Safety & Live Video | $416.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/citizen-safety-and-live-video-1039889567.md) |
 | Bloomberg: Business News Daily | $320.84K | No Free Trial - Soft Paywall | [Open](../apps/bloomberg-business-news-daily-281941097.md) |
 | Washington Post | $236.94K | No Free Trial - Soft Paywall | [Open](../apps/washington-post-352509417.md) |
@@ -61,6 +61,8 @@ News apps use subscription paywalls to communicate value and convert users into 
 | The Globe and Mail | $3.87K | No Free Trial - Soft Paywall | [Open](../apps/the-globe-and-mail-429228415.md) |
 | New York Daily News | $3.65K | No Free Trial - Soft Paywall | [Open](../apps/new-york-daily-news-354730788.md) |
 | The San Diego Union-Tribune | $3.60K | No Free Trial - Soft Paywall | [Open](../apps/the-san-diego-union-tribune-1145952888.md) |
+| The Week US: Daily Analysis | $3.34K | No Free Trial - Soft Paywall | [Open](../apps/the-week-us-daily-analysis-498216307.md) |
+| Podcast App & Player - Castbox | $3.13K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/podcast-app-and-player-castbox-1243410543.md) |
 
 ## What to study
 

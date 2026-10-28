@@ -33,6 +33,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | Glow Baby Tracker & Growth App | $6.87K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/glow-baby-tracker-and-growth-app-1077177456.md) |
 | NYSORA Nerve Blocks | $5.82K | No Free Trial - Soft Paywall | [Open](../apps/nysora-nerve-blocks-912563749.md) |
 | NCLEX RN Mastery Exam - 2026 | $3.85K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/nclex-rn-mastery-exam-2026-625614526.md) |
+| IMAIOS e-Anatomy | $3.47K | No Free Trial - Soft Paywall | [Open](../apps/imaios-e-anatomy-334876403.md) |
 
 ## What to study
 

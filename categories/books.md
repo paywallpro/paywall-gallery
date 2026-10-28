@@ -21,6 +21,9 @@ Books apps use subscription paywalls to communicate value and convert users into
 | Manta - Manga, Manhwa, Novels | $4.62K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/manta-manga-manhwa-novels-1536116642.md) |
 | Fatednovel- Web novel & Story | $3.80K | Currency Paywall | [Open](../apps/fatednovel-web-novel-and-story-6447497607.md) |
 | Marvel Unlimited | $3.65K | Free Trial - Soft Paywall | [Open](../apps/marvel-unlimited-607205403.md) |
+| WebNovel - Read Novels & Manga | $3.44K | Currency Paywall | [Open](../apps/webnovel-read-novels-and-manga-1234939196.md) |
+| Webfic-Make Reading Fantastic | $3.25K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/webfic-make-reading-fantastic-1517946671.md) |
+| KAI: Comic Maker Manga, Manhwa | $3.15K | No Free Trial - Soft Paywall | [Open](../apps/kai-comic-maker-manga-manhwa-6755991544.md) |
 
 ## What to study
 

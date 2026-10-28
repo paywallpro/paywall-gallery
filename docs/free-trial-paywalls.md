@@ -22,7 +22,7 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | YouTube | Photo & Video | [Open](../apps/youtube-544007664.md) |
 | Telegram Messenger | Social Networking | [Open](../apps/telegram-messenger-686449807.md) |
 | NFL | Sports | [Open](../apps/nfl-389781154.md) |
-| NYTimes: US and Global News | News | [Open](../apps/nytimes-us-and-global-news-284862083.md) |
+| NYTimes: US and World News | News | [Open](../apps/nytimes-us-and-world-news-284862083.md) |
 | MileIQ: Mileage Tracker & Log | Finance | [Open](../apps/mileiq-mileage-tracker-and-log-578830929.md) |
 | Quizlet: More than Flashcards | Education | [Open](../apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | [Open](../apps/tidal-music-hifi-sound-913943275.md) |
@@ -1538,8 +1538,57 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Pixel Color: Paint by Number | Entertainment | [Open](../apps/pixel-color-paint-by-number-1436858922.md) |
 | Tencent Video | Entertainment | [Open](../apps/tencent-video-1492898204.md) |
 | AI Photo Generator: ARTA | Photo & Video | [Open](../apps/ai-photo-generator-arta-1642969698.md) |
+| Cast Web Videos to TV - iWebTV | Photo & Video | [Open](../apps/cast-web-videos-to-tv-iwebtv-999462129.md) |
+| IMAIOS e-Anatomy | Medical | [Open](../apps/imaios-e-anatomy-334876403.md) |
+| MapXplorer: GPS Navigation | Navigation | [Open](../apps/mapxplorer-gps-navigation-6463052823.md) |
+| The Nyx Network | Entertainment | [Open](../apps/the-nyx-network-6462672843.md) |
+| Hopster: ABC Games for Kids | Education | [Open](../apps/hopster-abc-games-for-kids-689165391.md) |
+| AI Ringtones：Ringtone Maker | Music | [Open](../apps/ai-ringtones-ringtone-maker-6740201074.md) |
+| AR Translator: Translate Photo | Reference | [Open](../apps/ar-translator-translate-photo-1465903782.md) |
+| Monster Math 2: Kids Math Game | Education | [Open](../apps/monster-math-2-kids-math-game-1025450732.md) |
+| NOAA: Weather Radar & Forecast | Weather | [Open](../apps/noaa-weather-radar-and-forecast-6503937276.md) |
+| Plant Guru - Plant Care Guide | Education | [Open](../apps/plant-guru-plant-care-guide-6469519481.md) |
+| Star Walk 2 Plus: Live Sky Map | Education | [Open](../apps/star-walk-2-plus-live-sky-map-1112481571.md) |
+| BuckScore | Sports | [Open](../apps/buckscore-1423128708.md) |
+| Cancel Subscriptions & Refund | Finance | [Open](../apps/cancel-subscriptions-and-refund-6479920412.md) |
+| Luxy PRO: Elite & Quality Date | Social Networking | [Open](../apps/luxy-pro-elite-and-quality-date-1089481539.md) |
+| Smart Air Printer App & Scan | Business | [Open](../apps/smart-air-printer-app-and-scan-1562653542.md) |
+| Find My Friends: Phone Locator | Social Networking | [Open](../apps/find-my-friends-phone-locator-6744725106.md) |
+| Cleaner Neat: Clean Up Storage | Utilities | [Open](../apps/cleaner-neat-clean-up-storage-1463756032.md) |
+| Picsify: AI Photo&Video Editor | Photo & Video | [Open](../apps/picsify-ai-photo-and-video-editor-6443500995.md) |
 | ScanGuru: PDF Scanner App | Business | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
+| The Week US: Daily Analysis | News | [Open](../apps/the-week-us-daily-analysis-498216307.md) |
+| BodyWave: Health Tracker | Health & Fitness | [Open](../apps/bodywave-health-tracker-6479513000.md) |
+| Baby Phone Game for Toddlers | Education | [Open](../apps/baby-phone-game-for-toddlers-1625077286.md) |
+| Weight Loss Walking by Slimkit | Health & Fitness | [Open](../apps/weight-loss-walking-by-slimkit-950669893.md) |
+| GOWOD – Mobility & Stretching | Health & Fitness | [Open](../apps/gowod-mobility-and-stretching-1227834875.md) |
+| Passes | Entertainment | [Open](../apps/passes-6736365906.md) |
+| Color by Number：Coloring Games | Entertainment | [Open](../apps/color-by-number-coloring-games-1317978215.md) |
+| Voice Recorder: AI Note Taker | Utilities | [Open](../apps/voice-recorder-ai-note-taker-6503227362.md) |
+| Digital Planner – Task Journal | Productivity | [Open](../apps/digital-planner-task-journal-1632352471.md) |
+| Learning games for Kid&Toddler | Education | [Open](../apps/learning-games-for-kid-and-toddler-1567954947.md) |
+| Webfic-Make Reading Fantastic | Books | [Open](../apps/webfic-make-reading-fantastic-1517946671.md) |
+| DietAI: Calorie Counter & Diet | Health & Fitness | [Open](../apps/dietai-calorie-counter-and-diet-6451091585.md) |
+| Sky Tonight - Stargazing Guide | Reference | [Open](../apps/sky-tonight-stargazing-guide-1570594940.md) |
+| iMaps+ for Google Maps | Navigation | [Open](../apps/imaps-for-google-maps-585801479.md) |
+| KP - AI Music & Song Generator | Music | [Open](../apps/kp-ai-music-and-song-generator-6744406259.md) |
+| Bright - English for beginners | Education | [Open](../apps/bright-english-for-beginners-1258621855.md) |
+| Lens Buddy - Self Timer Camera | Photo & Video | [Open](../apps/lens-buddy-self-timer-camera-1289471945.md) |
+| PDF Expert: Editor & Reader | Productivity | [Open](../apps/pdf-expert-editor-and-reader-743974925.md) |
+| Cocktail Flow - Drink Recipes | Food & Drink | [Open](../apps/cocktail-flow-drink-recipes-486811622.md) |
+| Screen Mirroring \| Smart TV | Utilities | [Open](../apps/screen-mirroring-smart-tv-1586624313.md) |
+| KAI: Comic Maker Manga, Manhwa | Books | [Open](../apps/kai-comic-maker-manga-manhwa-6755991544.md) |
+| Mojo: AI Video & Reels Editor | Photo & Video | [Open](../apps/mojo-ai-video-and-reels-editor-1434861974.md) |
 | GraceChat | Social Networking | [Open](../apps/gracechat-1658972379.md) |
+| IFTTT - Automate work and home | Productivity | [Open](../apps/ifttt-automate-work-and-home-660944635.md) |
+| Swimtopia | Sports | [Open](../apps/swimtopia-881521818.md) |
+| Running Walking Tracker Goals | Health & Fitness | [Open](../apps/running-walking-tracker-goals-1136617388.md) |
+| Call Recorder for iPhone ㅤ | Business | [Open](../apps/call-recorder-for-iphone-1200776424.md) |
+| Podcast App & Player - Castbox | News | [Open](../apps/podcast-app-and-player-castbox-1243410543.md) |
+| CyberGate | Productivity | [Open](../apps/cybergate-6443507367.md) |
+| Pure Flix | Entertainment | [Open](../apps/pure-flix-995082390.md) |
+| Stardust Period Tracker | Health & Fitness | [Open](../apps/stardust-period-tracker-1495829322.md) |
+| Transformers Rescue Bots: Dash | Entertainment | [Open](../apps/transformers-rescue-bots-dash-1198584568.md) |
 | Forms for Google Docs | Productivity | [Open](../apps/forms-for-google-docs-1619382448.md) |
 | Clean Manager: Storage Cleaner | Utilities | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 | Muscle Monster Workout Planner | Health & Fitness | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |

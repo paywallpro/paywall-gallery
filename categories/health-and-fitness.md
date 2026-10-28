@@ -152,6 +152,12 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Liftoff - Ranked Gym Workouts | $3.66K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/liftoff-ranked-gym-workouts-6448081563.md) |
 | StressWatch: AI Stress Monitor | $3.59K | No Free Trial - Soft Paywall | [Open](../apps/stresswatch-ai-stress-monitor-6444737095.md) |
 | RISE: Sleep Tracker | $3.52K | Free Trial - Hard Paywall, No Free Trial - Hard Paywall | [Open](../apps/rise-sleep-tracker-1453884781.md) |
+| BodyWave: Health Tracker | $3.33K | No Free Trial - Soft Paywall | [Open](../apps/bodywave-health-tracker-6479513000.md) |
+| Weight Loss Walking by Slimkit | $3.31K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/weight-loss-walking-by-slimkit-950669893.md) |
+| GOWOD – Mobility & Stretching | $3.30K | Free Trial - Soft Paywall | [Open](../apps/gowod-mobility-and-stretching-1227834875.md) |
+| DietAI: Calorie Counter & Diet | $3.25K | Free Trial - Soft Paywall | [Open](../apps/dietai-calorie-counter-and-diet-6451091585.md) |
+| Running Walking Tracker Goals | $3.14K | Free Trial - Soft Paywall | [Open](../apps/running-walking-tracker-goals-1136617388.md) |
+| Stardust Period Tracker | $3.11K | Free Trial - Soft Paywall | [Open](../apps/stardust-period-tracker-1495829322.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |
 | Balance: Meditation & Sleep | $1.74K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/balance-meditation-and-sleep-1361356590.md) |

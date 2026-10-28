@@ -96,6 +96,8 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Yuzu: Asian Dating & Friends | $4.50K | No Free Trial - Soft Paywall | [Open](../apps/yuzu-asian-dating-and-friends-1669115248.md) |
 | Tigo Live | $3.85K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/tigo-live-1573193510.md) |
 | Messenger Duo for WhatsApp | $3.83K | Free Trial - Soft Paywall | [Open](../apps/messenger-duo-for-whatsapp-1312424138.md) |
+| Luxy PRO: Elite & Quality Date | $3.36K | No Free Trial - Soft Paywall | [Open](../apps/luxy-pro-elite-and-quality-date-1089481539.md) |
+| Find My Friends: Phone Locator | $3.36K | No Free Trial - Soft Paywall | [Open](../apps/find-my-friends-phone-locator-6744725106.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |
 
 ## What to study

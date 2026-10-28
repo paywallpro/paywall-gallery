@@ -175,6 +175,10 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Headshot Pro AI: Perfect Photo | $3.97K | No Free Trial - Soft Paywall | [Open](../apps/headshot-pro-ai-perfect-photo-6478854403.md) |
 | 1 Second Everyday: Video Diary | $3.68K | Free Trial - Soft Paywall | [Open](../apps/1-second-everyday-video-diary-587823548.md) |
 | AI Photo Generator: ARTA | $3.50K | Free Trial - Soft Paywall | [Open](../apps/ai-photo-generator-arta-1642969698.md) |
+| Cast Web Videos to TV - iWebTV | $3.49K | Free Trial - Soft Paywall | [Open](../apps/cast-web-videos-to-tv-iwebtv-999462129.md) |
+| Picsify: AI Photo&Video Editor | $3.35K | No Free Trial - Soft Paywall | [Open](../apps/picsify-ai-photo-and-video-editor-6443500995.md) |
+| Lens Buddy - Self Timer Camera | $3.23K | Free Trial - Soft Paywall | [Open](../apps/lens-buddy-self-timer-camera-1289471945.md) |
+| Mojo: AI Video & Reels Editor | $3.15K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/mojo-ai-video-and-reels-editor-1434861974.md) |
 
 ## What to study
 

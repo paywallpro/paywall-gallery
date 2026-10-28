@@ -2,7 +2,7 @@
 
 语言版本：[English](README.md) | [简体中文](README.zh-CN.md)
 
-由 <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a> 发布的 Top 1560 iOS 订阅 App 的付费墙与 Onboarding 公开数据集。
+由 <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a> 发布的 Top 1610 iOS 订阅 App 的付费墙与 Onboarding 公开数据集。
 
 你可以通过这个仓库研究真实订阅 App 的付费墙截图、Onboarding 预览、定价模型、付费墙模式和部分变现数据信号。
 
@@ -61,7 +61,7 @@ Open Paywall Gallery 希望帮助开发者在设计、开发或测试之前，�
 - 易于浏览，包含人工可读的摘要和预览截图
 - 适合产品研究、定价研究、UX 参考和增长分析
 
-当前公开版本：1560 个 App。后续会每周继续新增 50 个 App。
+当前公开版本：1610 个 App。后续会每周继续新增 50 个 App。
 
 完整 App 索引位于 [apps/index.zh-CN.md](apps/index.zh-CN.md)。也可以查看英文索引 [apps/index.md](apps/index.md)。
 
@@ -121,7 +121,7 @@ apps/{app-name}-{app_id}.md
 | YouTube | Photo & Video | $3.07M | No Free Trial - Soft Paywall | [打开](apps/youtube-544007664.md) |
 | Telegram Messenger | Social Networking | $2.13M | No Free Trial - Soft Paywall | [打开](apps/telegram-messenger-686449807.md) |
 | NFL | Sports | $2.04M | No Free Trial - Soft Paywall | [打开](apps/nfl-389781154.md) |
-| NYTimes: US and Global News | News | $1.48M | No Free Trial - Soft Paywall | [打开](apps/nytimes-us-and-global-news-284862083.md) |
+| NYTimes: US and World News | News | $1.48M | No Free Trial - Soft Paywall | [打开](apps/nytimes-us-and-world-news-284862083.md) |
 | MileIQ: Mileage Tracker & Log | Finance | $1.26M | Free Trial - Soft Paywall | [打开](apps/mileiq-mileage-tracker-and-log-578830929.md) |
 | Quizlet: More than Flashcards | Education | $1.16M | Free Trial - Soft Paywall | [打开](apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | $1.03M | Free Trial - Soft Paywall | [打开](apps/tidal-music-hifi-sound-913943275.md) |
@@ -139,7 +139,7 @@ apps/{app-name}-{app_id}.md
 | Text Me - Phone Call + Texting | Social Networking | $727.67K | No Free Trial - Soft Paywall | [打开](apps/text-me-phone-call-texting-514485964.md) |
 | Fambase: Live & Group Chat | Utilities | $726.99K | No Free Trial - Soft Paywall, Currency Paywall | [打开](apps/fambase-live-and-group-chat-1580059320.md) |
 
-完整 App 索引位于 [apps/index.zh-CN.md](apps/index.zh-CN.md)。[浏览全部 1560 个 App](apps/index.zh-CN.md)。
+完整 App 索引位于 [apps/index.zh-CN.md](apps/index.zh-CN.md)。[浏览全部 1610 个 App](apps/index.zh-CN.md)。
 
 ---
 
