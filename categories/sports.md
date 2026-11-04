@@ -74,6 +74,8 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | Disc Golf Network | $3.68K | No Free Trial - Soft Paywall | [Open](../apps/disc-golf-network-1499887479.md) |
 | BuckScore | $3.38K | Free Trial - Soft Paywall | [Open](../apps/buckscore-1423128708.md) |
 | Swimtopia | $3.14K | Free Trial - Soft Paywall | [Open](../apps/swimtopia-881521818.md) |
+| College Hockey News | $2.94K | No Free Trial - Soft Paywall | [Open](../apps/college-hockey-news-426018814.md) |
+| GolfLogix: 3D Golf GPS | $2.92K | No Free Trial - Soft Paywall | [Open](../apps/golflogix-3d-golf-gps-322399059.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |
 | HuntStand: GPS Maps & Tools | $1.37K | No Free Trial - Soft Paywall | [Open](../apps/huntstand-gps-maps-and-tools-778772892.md) |
 | Real - Sports | $976 | No Free Trial - Soft Paywall | [Open](../apps/real-sports-1514546162.md) |

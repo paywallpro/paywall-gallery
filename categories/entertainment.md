@@ -120,6 +120,13 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Color by Number：Coloring Games | $3.28K | Free Trial - Soft Paywall | [Open](../apps/color-by-number-coloring-games-1317978215.md) |
 | Pure Flix | $3.12K | No Free Trial - Soft Paywall | [Open](../apps/pure-flix-995082390.md) |
 | Transformers Rescue Bots: Dash | $3.09K | No Free Trial - Soft Paywall | [Open](../apps/transformers-rescue-bots-dash-1198584568.md) |
+| AltaTV - Drama Shorts | $3.06K | No Free Trial - Soft Paywall | [Open](../apps/altatv-drama-shorts-6469592412.md) |
+| Shorts - Stream Short Drama | $3.04K | No Free Trial - Soft Paywall | [Open](../apps/shorts-stream-short-drama-6498894314.md) |
+| Cat Emotions: Sounds to Pet | $2.95K | No Free Trial - Soft Paywall | [Open](../apps/cat-emotions-sounds-to-pet-6502747534.md) |
+| Card Value Scanner for Pokemon | $2.94K | Free Trial - Soft Paywall | [Open](../apps/card-value-scanner-for-pokemon-6468806603.md) |
+| Lucky Emulator – GBA & DS | $2.84K | Free Trial - Soft Paywall | [Open](../apps/lucky-emulator-gba-and-ds-6504077594.md) |
+| DramaTime: Watch Mini Dramas | $2.80K | No Free Trial - Soft Paywall | [Open](../apps/dramatime-watch-mini-dramas-6479010395.md) |
+| bilibili - All Your Fav Videos | $2.76K | No Free Trial - Soft Paywall | [Open](../apps/bilibili-all-your-fav-videos-736536022.md) |
 
 ## What to study
 

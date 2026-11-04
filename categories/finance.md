@@ -31,6 +31,8 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | Profit AI - Trading Assistant | $8.53K | No Free Trial - Hard Paywall | [Open](../apps/profit-ai-trading-assistant-6743035682.md) |
 | Stocks Tracker:Real-time stock | $4.08K | No Free Trial - Soft Paywall | [Open](../apps/stocks-tracker-real-time-stock-517166254.md) |
 | Cancel Subscriptions & Refund | $3.37K | No Free Trial - Soft Paywall | [Open](../apps/cancel-subscriptions-and-refund-6479920412.md) |
+| Invoice Maker for Contractors | $3.05K | Free Trial - Soft Paywall | [Open](../apps/invoice-maker-for-contractors-6642699503.md) |
+| GoMining: BTC Mining & Finance | $2.88K | No Free Trial - Soft Paywall | [Open](../apps/gomining-btc-mining-and-finance-1622100275.md) |
 
 ## What to study
 

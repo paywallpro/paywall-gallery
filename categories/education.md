@@ -255,6 +255,11 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Baby Phone Game for Toddlers | $3.32K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/baby-phone-game-for-toddlers-1625077286.md) |
 | Learning games for Kid&Toddler | $3.26K | Free Trial - Soft Paywall | [Open](../apps/learning-games-for-kid-and-toddler-1567954947.md) |
 | Bright - English for beginners | $3.23K | Free Trial - Soft Paywall | [Open](../apps/bright-english-for-beginners-1258621855.md) |
+| Pizza Games for Kids & Toddler | $3.01K | Free Trial - Soft Paywall | [Open](../apps/pizza-games-for-kids-and-toddler-6443391687.md) |
+| Dinosaur Games for Kids 2+ | $3.01K | Free Trial - Soft Paywall | [Open](../apps/dinosaur-games-for-kids-2-1587697050.md) |
+| Papumba: Kids Learning Games | $2.93K | Free Trial - Soft Paywall | [Open](../apps/papumba-kids-learning-games-1267322870.md) |
+| Skillshare: Creativity Classes | $2.92K | Free Trial - Soft Paywall | [Open](../apps/skillshare-creativity-classes-916819843.md) |
+| Piano Academy by Yokee Music | $2.78K | Free Trial - Soft Paywall | [Open](../apps/piano-academy-by-yokee-music-1390574671.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

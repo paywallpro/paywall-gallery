@@ -1589,7 +1589,56 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Pure Flix | Entertainment | [Open](../apps/pure-flix-995082390.md) |
 | Stardust Period Tracker | Health & Fitness | [Open](../apps/stardust-period-tracker-1495829322.md) |
 | Transformers Rescue Bots: Dash | Entertainment | [Open](../apps/transformers-rescue-bots-dash-1198584568.md) |
+| Impresso - Video & Logo Maker | Photo & Video | [Open](../apps/impresso-video-and-logo-maker-1330592794.md) |
+| YouCam Enhance: AI Photo&Video | Photo & Video | [Open](../apps/youcam-enhance-ai-photo-and-video-6444827065.md) |
+| Loopy Pro: Looper DAW Sampler | Music | [Open](../apps/loopy-pro-looper-daw-sampler-1492670451.md) |
+| Slowdive \| Meditation & Mantra | Lifestyle | [Open](../apps/slowdive-meditation-and-mantra-1172138662.md) |
+| Astro Future - Daily Horoscope | Lifestyle | [Open](../apps/astro-future-daily-horoscope-1119123378.md) |
+| AltaTV - Drama Shorts | Entertainment | [Open](../apps/altatv-drama-shorts-6469592412.md) |
+| AI Writer: Email Letter Essay | Reference | [Open](../apps/ai-writer-email-letter-essay-1639845219.md) |
+| Invoice Maker for Contractors | Finance | [Open](../apps/invoice-maker-for-contractors-6642699503.md) |
+| Shorts - Stream Short Drama | Entertainment | [Open](../apps/shorts-stream-short-drama-6498894314.md) |
+| Campendium - RV & Tent Camping | Travel | [Open](../apps/campendium-rv-and-tent-camping-1191380095.md) |
+| Owll: AI Note Taker&Assistant | Utilities | [Open](../apps/owll-ai-note-taker-and-assistant-6450300197.md) |
+| GOLFFOREVER | Health & Fitness | [Open](../apps/golfforever-1541864959.md) |
+| Pizza Games for Kids & Toddler | Education | [Open](../apps/pizza-games-for-kids-and-toddler-6443391687.md) |
+| Simple: AI Weight Loss Coach | Health & Fitness | [Open](../apps/simple-ai-weight-loss-coach-1467720176.md) |
+| Dinosaur Games for Kids 2+ | Education | [Open](../apps/dinosaur-games-for-kids-2-1587697050.md) |
+| Cat Emotions: Sounds to Pet | Entertainment | [Open](../apps/cat-emotions-sounds-to-pet-6502747534.md) |
+| Daily Stoic Philosophy: Stoa | Health & Fitness | [Open](../apps/daily-stoic-philosophy-stoa-1446345567.md) |
+| April - Oil Painting by Number | Lifestyle | [Open](../apps/april-oil-painting-by-number-1360270159.md) |
+| Card Value Scanner for Pokemon | Entertainment | [Open](../apps/card-value-scanner-for-pokemon-6468806603.md) |
+| College Hockey News | Sports | [Open](../apps/college-hockey-news-426018814.md) |
+| Papumba: Kids Learning Games | Education | [Open](../apps/papumba-kids-learning-games-1267322870.md) |
+| AI Music・Own Voice Cover Maker | Music | [Open](../apps/ai-music-own-voice-cover-maker-6737513883.md) |
+| Dr. Seuss Treasury Kids Books | Books | [Open](../apps/dr-seuss-treasury-kids-books-909110675.md) |
+| Templify・Video & Reel Maker | Photo & Video | [Open](../apps/templify-video-and-reel-maker-1595549611.md) |
+| Skillshare: Creativity Classes | Education | [Open](../apps/skillshare-creativity-classes-916819843.md) |
+| GolfLogix: 3D Golf GPS | Sports | [Open](../apps/golflogix-3d-golf-gps-322399059.md) |
+| AI Video Generator - ArtyMe | Photo & Video | [Open](../apps/ai-video-generator-artyme-6471394231.md) |
+| Screen Recorder，Video Recorder | Photo & Video | [Open](../apps/screen-recorder-video-recorder-1489145709.md) |
+| The Power List | Productivity | [Open](../apps/the-power-list-1625756621.md) |
+| Daily Yoga: Fitness & Wellness | Health & Fitness | [Open](../apps/daily-yoga-fitness-and-wellness-545849922.md) |
+| Anatomy 3D Atlas | Medical | [Open](../apps/anatomy-3d-atlas-1034069206.md) |
+| Miracast ™ﾠ | Photo & Video | [Open](../apps/miracast-6471735942.md) |
+| Themify - Widget & Icon Themes | Graphics & Design | [Open](../apps/themify-widget-and-icon-themes-1534126062.md) |
+| FancyNovel-eBooks&Webstories | Reference | [Open](../apps/fancynovel-ebooks-and-webstories-6444688314.md) |
+| GoMining: BTC Mining & Finance | Finance | [Open](../apps/gomining-btc-mining-and-finance-1622100275.md) |
+| Nota Ringtones | Music | [Open](../apps/nota-ringtones-6698645894.md) |
+| Taller - Maximize your height | Health & Fitness | [Open](../apps/taller-maximize-your-height-6695758303.md) |
+| Lucky Emulator – GBA & DS | Entertainment | [Open](../apps/lucky-emulator-gba-and-ds-6504077594.md) |
 | Forms for Google Docs | Productivity | [Open](../apps/forms-for-google-docs-1619382448.md) |
+| DramaTime: Watch Mini Dramas | Entertainment | [Open](../apps/dramatime-watch-mini-dramas-6479010395.md) |
+| Trailforks: Offline Bike Maps | Navigation | [Open](../apps/trailforks-offline-bike-maps-987986743.md) |
+| Clean Now：Clean Up Storage | Productivity | [Open](../apps/clean-now-clean-up-storage-1554982665.md) |
+| Dialog - Translate Speech | Reference | [Open](../apps/dialog-translate-speech-1367138686.md) |
+| Scientific American | News | [Open](../apps/scientific-american-514734550.md) |
+| Piano Academy by Yokee Music | Education | [Open](../apps/piano-academy-by-yokee-music-1390574671.md) |
+| Bearable - Symptom Tracker | Health & Fitness | [Open](../apps/bearable-symptom-tracker-1482581097.md) |
+| Muslima: Halal Muslim Dating | Social Networking | [Open](../apps/muslima-halal-muslim-dating-1580680952.md) |
+| Inkitt Galatea: Audio & eBooks | Books | [Open](../apps/inkitt-galatea-audio-and-ebooks-1380362212.md) |
+| bilibili - All Your Fav Videos | Entertainment | [Open](../apps/bilibili-all-your-fav-videos-736536022.md) |
+| Gentler Streak Workout Tracker | Health & Fitness | [Open](../apps/gentler-streak-workout-tracker-1576857102.md) |
 | Clean Manager: Storage Cleaner | Utilities | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 | Muscle Monster Workout Planner | Health & Fitness | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | Health & Fitness | [Open](../apps/replika-ai-friend-1158555867.md) |

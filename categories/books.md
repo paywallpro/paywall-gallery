@@ -24,6 +24,9 @@ Books apps use subscription paywalls to communicate value and convert users into
 | WebNovel - Read Novels & Manga | $3.44K | Currency Paywall | [Open](../apps/webnovel-read-novels-and-manga-1234939196.md) |
 | Webfic-Make Reading Fantastic | $3.25K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/webfic-make-reading-fantastic-1517946671.md) |
 | KAI: Comic Maker Manga, Manhwa | $3.15K | No Free Trial - Soft Paywall | [Open](../apps/kai-comic-maker-manga-manhwa-6755991544.md) |
+| Dr. Seuss Treasury Kids Books | $2.93K | Free Trial - Soft Paywall | [Open](../apps/dr-seuss-treasury-kids-books-909110675.md) |
+| Moonstories- Werewolf stories | $2.79K | Currency Paywall | [Open](../apps/moonstories-werewolf-stories-6446772145.md) |
+| Inkitt Galatea: Audio & eBooks | $2.76K | No Free Trial - Soft Paywall | [Open](../apps/inkitt-galatea-audio-and-ebooks-1380362212.md) |
 
 ## What to study
 

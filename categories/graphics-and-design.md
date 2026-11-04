@@ -26,6 +26,7 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | Logo Maker _ AI Design Creator | $4.10K | Free Trial - Soft Paywall | [Open](../apps/logo-maker-ai-design-creator-1217017670.md) |
 | Tools for Procreate | $4.01K | No Free Trial - Soft Paywall | [Open](../apps/tools-for-procreate-1559271447.md) |
 | Arvin®: AI Product Photo Maker | $3.88K | No Free Trial - Soft Paywall | [Open](../apps/arvin-ai-product-photo-maker-6446556788.md) |
+| Themify - Widget & Icon Themes | $2.89K | Free Trial - Soft Paywall | [Open](../apps/themify-widget-and-icon-themes-1534126062.md) |
 
 ## What to study
 

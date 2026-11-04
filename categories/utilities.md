@@ -132,6 +132,7 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Cleaner Neat: Clean Up Storage | $3.36K | No Free Trial - Soft Paywall | [Open](../apps/cleaner-neat-clean-up-storage-1463756032.md) |
 | Voice Recorder: AI Note Taker | $3.28K | Free Trial - Soft Paywall | [Open](../apps/voice-recorder-ai-note-taker-6503227362.md) |
 | Screen Mirroring \| Smart TV | $3.18K | No Free Trial - Soft Paywall | [Open](../apps/screen-mirroring-smart-tv-1586624313.md) |
+| Owll: AI Note Taker&Assistant | $3.03K | No Free Trial - Soft Paywall | [Open](../apps/owll-ai-note-taker-and-assistant-6450300197.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 
 ## What to study

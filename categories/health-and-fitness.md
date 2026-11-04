@@ -158,6 +158,13 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | DietAI: Calorie Counter & Diet | $3.25K | Free Trial - Soft Paywall | [Open](../apps/dietai-calorie-counter-and-diet-6451091585.md) |
 | Running Walking Tracker Goals | $3.14K | Free Trial - Soft Paywall | [Open](../apps/running-walking-tracker-goals-1136617388.md) |
 | Stardust Period Tracker | $3.11K | Free Trial - Soft Paywall | [Open](../apps/stardust-period-tracker-1495829322.md) |
+| GOLFFOREVER | $3.02K | Free Trial - Soft Paywall | [Open](../apps/golfforever-1541864959.md) |
+| Simple: AI Weight Loss Coach | $3.01K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/simple-ai-weight-loss-coach-1467720176.md) |
+| Daily Stoic Philosophy: Stoa | $2.95K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/daily-stoic-philosophy-stoa-1446345567.md) |
+| Daily Yoga: Fitness & Wellness | $2.90K | No Free Trial - Soft Paywall | [Open](../apps/daily-yoga-fitness-and-wellness-545849922.md) |
+| Taller - Maximize your height | $2.84K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/taller-maximize-your-height-6695758303.md) |
+| Bearable - Symptom Tracker | $2.77K | No Free Trial - Soft Paywall | [Open](../apps/bearable-symptom-tracker-1482581097.md) |
+| Gentler Streak Workout Tracker | $2.75K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/gentler-streak-workout-tracker-1576857102.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |
 | Balance: Meditation & Sleep | $1.74K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/balance-meditation-and-sleep-1361356590.md) |

@@ -179,6 +179,12 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Picsify: AI Photo&Video Editor | $3.35K | No Free Trial - Soft Paywall | [Open](../apps/picsify-ai-photo-and-video-editor-6443500995.md) |
 | Lens Buddy - Self Timer Camera | $3.23K | Free Trial - Soft Paywall | [Open](../apps/lens-buddy-self-timer-camera-1289471945.md) |
 | Mojo: AI Video & Reels Editor | $3.15K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/mojo-ai-video-and-reels-editor-1434861974.md) |
+| Impresso - Video & Logo Maker | $3.07K | No Free Trial - Soft Paywall | [Open](../apps/impresso-video-and-logo-maker-1330592794.md) |
+| YouCam Enhance: AI Photo&Video | $3.07K | Free Trial - Soft Paywall | [Open](../apps/youcam-enhance-ai-photo-and-video-6444827065.md) |
+| Templify・Video & Reel Maker | $2.92K | Free Trial - Soft Paywall | [Open](../apps/templify-video-and-reel-maker-1595549611.md) |
+| AI Video Generator - ArtyMe | $2.91K | No Free Trial - Soft Paywall | [Open](../apps/ai-video-generator-artyme-6471394231.md) |
+| Screen Recorder，Video Recorder | $2.91K | Free Trial - Soft Paywall | [Open](../apps/screen-recorder-video-recorder-1489145709.md) |
+| Miracast ™ﾠ | $2.89K | No Free Trial - Soft Paywall | [Open](../apps/miracast-6471735942.md) |
 
 ## What to study
 

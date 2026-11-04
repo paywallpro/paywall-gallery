@@ -112,6 +112,9 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 | AI Ringtones：Ringtone Maker | $3.44K | Free Trial - Soft Paywall | [Open](../apps/ai-ringtones-ringtone-maker-6740201074.md) |
 | KP - AI Music & Song Generator | $3.23K | No Free Trial - Soft Paywall | [Open](../apps/kp-ai-music-and-song-generator-6744406259.md) |
+| Loopy Pro: Looper DAW Sampler | $3.07K | No Free Trial - Soft Paywall | [Open](../apps/loopy-pro-looper-daw-sampler-1492670451.md) |
+| AI Music・Own Voice Cover Maker | $2.93K | No Free Trial - Soft Paywall | [Open](../apps/ai-music-own-voice-cover-maker-6737513883.md) |
+| Nota Ringtones | $2.88K | Free Trial - Soft Paywall | [Open](../apps/nota-ringtones-6698645894.md) |
 
 ## What to study
 

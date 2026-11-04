@@ -99,6 +99,7 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Luxy PRO: Elite & Quality Date | $3.36K | No Free Trial - Soft Paywall | [Open](../apps/luxy-pro-elite-and-quality-date-1089481539.md) |
 | Find My Friends: Phone Locator | $3.36K | No Free Trial - Soft Paywall | [Open](../apps/find-my-friends-phone-locator-6744725106.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |
+| Muslima: Halal Muslim Dating | $2.77K | No Free Trial - Soft Paywall | [Open](../apps/muslima-halal-muslim-dating-1580680952.md) |
 
 ## What to study
 

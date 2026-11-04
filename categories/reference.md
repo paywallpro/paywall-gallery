@@ -52,6 +52,9 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Coin Identifier - CoinScan | $3.67K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coin-identifier-coinscan-6448908389.md) |
 | AR Translator: Translate Photo | $3.44K | Free Trial - Hard Paywall | [Open](../apps/ar-translator-translate-photo-1465903782.md) |
 | Sky Tonight - Stargazing Guide | $3.25K | Free Trial - Soft Paywall | [Open](../apps/sky-tonight-stargazing-guide-1570594940.md) |
+| AI Writer: Email Letter Essay | $3.05K | Free Trial - Soft Paywall | [Open](../apps/ai-writer-email-letter-essay-1639845219.md) |
+| FancyNovel-eBooks&Webstories | $2.88K | No Free Trial - Soft Paywall | [Open](../apps/fancynovel-ebooks-and-webstories-6444688314.md) |
+| Dialog - Translate Speech | $2.79K | Free Trial - Soft Paywall | [Open](../apps/dialog-translate-speech-1367138686.md) |
 
 ## What to study
 

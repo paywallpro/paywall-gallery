@@ -106,6 +106,9 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Desire AI | $3.82K | No Free Trial - Soft Paywall | [Open](../apps/desire-ai-6743434502.md) |
 | PlantDaily: AI Plant Care | $3.58K | Free Trial - Soft Paywall | [Open](../apps/plantdaily-ai-plant-care-6698880428.md) |
 | Starla - Call the Universe | $3.54K | Free Trial - Soft Paywall | [Open](../apps/starla-call-the-universe-6741873786.md) |
+| Slowdive \| Meditation & Mantra | $3.06K | No Free Trial - Soft Paywall | [Open](../apps/slowdive-meditation-and-mantra-1172138662.md) |
+| Astro Future - Daily Horoscope | $3.06K | Free Trial - Soft Paywall | [Open](../apps/astro-future-daily-horoscope-1119123378.md) |
+| April - Oil Painting by Number | $2.94K | Free Trial - Soft Paywall | [Open](../apps/april-oil-painting-by-number-1360270159.md) |
 
 ## What to study
 

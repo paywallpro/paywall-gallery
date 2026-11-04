@@ -24,6 +24,7 @@ Travel apps use subscription paywalls to communicate value and convert users int
 | Roadtrippers - Trip Planner | $8.60K | Free Trial - Soft Paywall | [Open](../apps/roadtrippers-trip-planner-944060491.md) |
 | Scan WiFi & Bluetooth Devices | $7.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scan-wifi-and-bluetooth-devices-1604590358.md) |
 | iTranslate Converse | $4.19K | Free Trial - Soft Paywall | [Open](../apps/itranslate-converse-1241264761.md) |
+| Campendium - RV & Tent Camping | $3.04K | Free Trial - Soft Paywall | [Open](../apps/campendium-rv-and-tent-camping-1191380095.md) |
 
 ## What to study
 

@@ -138,7 +138,9 @@ Productivity apps often convert users by selling time savings, professional outp
 | PDF Expert: Editor & Reader | $3.21K | Free Trial - Soft Paywall | [Open](../apps/pdf-expert-editor-and-reader-743974925.md) |
 | IFTTT - Automate work and home | $3.14K | No Free Trial - Soft Paywall | [Open](../apps/ifttt-automate-work-and-home-660944635.md) |
 | CyberGate | $3.13K | Free Trial - Soft Paywall | [Open](../apps/cybergate-6443507367.md) |
+| The Power List | $2.90K | No Free Trial - Soft Paywall | [Open](../apps/the-power-list-1625756621.md) |
 | Forms for Google Docs | $2.82K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
+| Clean Now：Clean Up Storage | $2.79K | Free Trial - Soft Paywall | [Open](../apps/clean-now-clean-up-storage-1554982665.md) |
 
 ## What to study
 

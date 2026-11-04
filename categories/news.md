@@ -63,6 +63,7 @@ News apps use subscription paywalls to communicate value and convert users into 
 | The San Diego Union-Tribune | $3.60K | No Free Trial - Soft Paywall | [Open](../apps/the-san-diego-union-tribune-1145952888.md) |
 | The Week US: Daily Analysis | $3.34K | No Free Trial - Soft Paywall | [Open](../apps/the-week-us-daily-analysis-498216307.md) |
 | Podcast App & Player - Castbox | $3.13K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/podcast-app-and-player-castbox-1243410543.md) |
+| Scientific American | $2.78K | No Free Trial - Soft Paywall | [Open](../apps/scientific-american-514734550.md) |
 
 ## What to study
 
