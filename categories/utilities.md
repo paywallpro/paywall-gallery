@@ -133,7 +133,11 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Voice Recorder: AI Note Taker | $3.28K | Free Trial - Soft Paywall | [Open](../apps/voice-recorder-ai-note-taker-6503227362.md) |
 | Screen Mirroring \| Smart TV | $3.18K | No Free Trial - Soft Paywall | [Open](../apps/screen-mirroring-smart-tv-1586624313.md) |
 | Owll: AI Note Taker&Assistant | $3.03K | No Free Trial - Soft Paywall | [Open](../apps/owll-ai-note-taker-and-assistant-6450300197.md) |
+| AI Auto Clean:Space Cleanup | $2.73K | Free Trial - Soft Paywall | [Open](../apps/ai-auto-clean-space-cleanup-6498631364.md) |
+| Boost Cleaner: Freeup Storage | $2.59K | Free Trial - Soft Paywall | [Open](../apps/boost-cleaner-freeup-storage-6737540429.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
+| Authenticator App ◦ | $2.53K | No Free Trial - Soft Paywall | [Open](../apps/authenticator-app-6478947853.md) |
+| IPVanish VPN: Fast & Secure | $2.50K | Free Trial - Soft Paywall | [Open](../apps/ipvanish-vpn-fast-and-secure-763638165.md) |
 
 ## What to study
 

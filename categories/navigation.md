@@ -20,6 +20,7 @@ Navigation apps use subscription paywalls to communicate value and convert users
 | MapXplorer: GPS Navigation | $3.46K | Free Trial - Soft Paywall | [Open](../apps/mapxplorer-gps-navigation-6463052823.md) |
 | iMaps+ for Google Maps | $3.25K | Free Trial - Soft Paywall | [Open](../apps/imaps-for-google-maps-585801479.md) |
 | Trailforks: Offline Bike Maps | $2.79K | Free Trial - Soft Paywall | [Open](../apps/trailforks-offline-bike-maps-987986743.md) |
+| GOHUNT: Research & Maps | $2.74K | Free Trial - Soft Paywall | [Open](../apps/gohunt-research-and-maps-1500630352.md) |
 
 ## What to study
 

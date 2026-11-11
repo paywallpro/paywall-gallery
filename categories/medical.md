@@ -35,6 +35,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | NCLEX RN Mastery Exam - 2026 | $3.85K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/nclex-rn-mastery-exam-2026-625614526.md) |
 | IMAIOS e-Anatomy | $3.47K | No Free Trial - Soft Paywall | [Open](../apps/imaios-e-anatomy-334876403.md) |
 | Anatomy 3D Atlas | $2.90K | No Free Trial - Soft Paywall | [Open](../apps/anatomy-3d-atlas-1034069206.md) |
+| Commure - AI Medical Scribe | $2.58K | No Free Trial - Soft Paywall | [Open](../apps/commure-ai-medical-scribe-6737444157.md) |
 
 ## What to study
 

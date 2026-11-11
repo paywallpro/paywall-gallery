@@ -165,6 +165,12 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Taller - Maximize your height | $2.84K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/taller-maximize-your-height-6695758303.md) |
 | Bearable - Symptom Tracker | $2.77K | No Free Trial - Soft Paywall | [Open](../apps/bearable-symptom-tracker-1482581097.md) |
 | Gentler Streak Workout Tracker | $2.75K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/gentler-streak-workout-tracker-1576857102.md) |
+| The Tapping Solution | $2.65K | Free Trial - Soft Paywall | [Open](../apps/the-tapping-solution-1419815487.md) |
+| Sleep Monitor: Sleep Tracker | $2.65K | No Free Trial - Soft Paywall | [Open](../apps/sleep-monitor-sleep-tracker-1510325113.md) |
+| JustStretch \| Flex & Mobility | $2.60K | No Free Trial - Soft Paywall | [Open](../apps/juststretch-flex-and-mobility-6737028992.md) |
+| Workouts For Men: Gym & Home | $2.49K | No Free Trial - Soft Paywall | [Open](../apps/workouts-for-men-gym-and-home-1424128078.md) |
+| CalDiet - Food Analysis Pal | $2.48K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/caldiet-food-analysis-pal-6670386021.md) |
+| EvolveYou: Strength For Women | $2.47K | No Free Trial - Soft Paywall | [Open](../apps/evolveyou-strength-for-women-1446735127.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |
 | Balance: Meditation & Sleep | $1.74K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/balance-meditation-and-sleep-1361356590.md) |

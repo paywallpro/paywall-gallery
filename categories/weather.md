@@ -15,6 +15,7 @@ Weather apps use subscription paywalls to communicate value and convert users in
 | MyRadar Accurate Weather Radar | $5.61K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/myradar-accurate-weather-radar-322439990.md) |
 | CARROT Weather: Alerts & Radar | $3.53K | Free Trial - Soft Paywall | [Open](../apps/carrot-weather-alerts-and-radar-961390574.md) |
 | NOAA: Weather Radar & Forecast | $3.43K | Free Trial - Soft Paywall | [Open](../apps/noaa-weather-radar-and-forecast-6503937276.md) |
+| iKitesurf: Weather & Waves | $2.65K | Free Trial - Soft Paywall | [Open](../apps/ikitesurf-weather-and-waves-555643284.md) |
 
 ## What to study
 

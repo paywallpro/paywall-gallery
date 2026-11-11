@@ -127,6 +127,14 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Lucky Emulator – GBA & DS | $2.84K | Free Trial - Soft Paywall | [Open](../apps/lucky-emulator-gba-and-ds-6504077594.md) |
 | DramaTime: Watch Mini Dramas | $2.80K | No Free Trial - Soft Paywall | [Open](../apps/dramatime-watch-mini-dramas-6479010395.md) |
 | bilibili - All Your Fav Videos | $2.76K | No Free Trial - Soft Paywall | [Open](../apps/bilibili-all-your-fav-videos-736536022.md) |
+| WATCH IT: Drama,Movies | $2.70K | No Free Trial - Soft Paywall | [Open](../apps/watch-it-drama-movies-1462196003.md) |
+| Face Dance: AI Photo Animator | $2.67K | Free Trial - Soft Paywall | [Open](../apps/face-dance-ai-photo-animator-1589749730.md) |
+| Savia AI: Style Swap&Fun Video | $2.66K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/savia-ai-style-swap-and-fun-video-6743743870.md) |
+| Barbie Dreamhouse Adventures | $2.65K | No Free Trial - Soft Paywall | [Open](../apps/barbie-dreamhouse-adventures-1296796112.md) |
+| Makeup Games: Wedding Artist | $2.56K | Free Trial - Soft Paywall | [Open](../apps/makeup-games-wedding-artist-1487408776.md) |
+| Color Pop: AI Coloring Book | $2.54K | Free Trial - Soft Paywall | [Open](../apps/color-pop-ai-coloring-book-1517805311.md) |
+| One More Shot - AI Music Video | $2.52K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/one-more-shot-ai-music-video-6744976219.md) |
+| VidAngel | $2.50K | No Free Trial - Soft Paywall | [Open](../apps/vidangel-999547807.md) |
 
 ## What to study
 

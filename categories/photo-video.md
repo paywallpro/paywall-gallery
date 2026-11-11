@@ -185,6 +185,7 @@ Photo and video apps often rely on creative control, premium features, editing c
 | AI Video Generator - ArtyMe | $2.91K | No Free Trial - Soft Paywall | [Open](../apps/ai-video-generator-artyme-6471394231.md) |
 | Screen Recorder，Video Recorder | $2.91K | Free Trial - Soft Paywall | [Open](../apps/screen-recorder-video-recorder-1489145709.md) |
 | Miracast ™ﾠ | $2.89K | No Free Trial - Soft Paywall | [Open](../apps/miracast-6471735942.md) |
+| Ms Yvonne: AI Photo&Hairstyles | $2.61K | Free Trial - Soft Paywall | [Open](../apps/ms-yvonne-ai-photo-and-hairstyles-1460082863.md) |
 
 ## What to study
 

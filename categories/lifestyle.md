@@ -109,6 +109,7 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Slowdive \| Meditation & Mantra | $3.06K | No Free Trial - Soft Paywall | [Open](../apps/slowdive-meditation-and-mantra-1172138662.md) |
 | Astro Future - Daily Horoscope | $3.06K | Free Trial - Soft Paywall | [Open](../apps/astro-future-daily-horoscope-1119123378.md) |
 | April - Oil Painting by Number | $2.94K | Free Trial - Soft Paywall | [Open](../apps/april-oil-painting-by-number-1360270159.md) |
+| Find my Friends, Phone: Findit | $2.73K | No Free Trial - Soft Paywall | [Open](../apps/find-my-friends-phone-findit-6744336663.md) |
 
 ## What to study
 

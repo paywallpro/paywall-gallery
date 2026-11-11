@@ -1639,7 +1639,57 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Inkitt Galatea: Audio & eBooks | Books | [Open](../apps/inkitt-galatea-audio-and-ebooks-1380362212.md) |
 | bilibili - All Your Fav Videos | Entertainment | [Open](../apps/bilibili-all-your-fav-videos-736536022.md) |
 | Gentler Streak Workout Tracker | Health & Fitness | [Open](../apps/gentler-streak-workout-tracker-1576857102.md) |
+| VPN Fast Proxy VON: Unlimited | Productivity | [Open](../apps/vpn-fast-proxy-von-unlimited-6670436368.md) |
+| GOHUNT: Research & Maps | Navigation | [Open](../apps/gohunt-research-and-maps-1500630352.md) |
+| eScan: PDF Scanner App | Business | [Open](../apps/escan-pdf-scanner-app-1625307994.md) |
+| Find my Friends, Phone: Findit | Lifestyle | [Open](../apps/find-my-friends-phone-findit-6744336663.md) |
+| AI Auto Clean:Space Cleanup | Utilities | [Open](../apps/ai-auto-clean-space-cleanup-6498631364.md) |
+| New Scientist | News | [Open](../apps/new-scientist-671845403.md) |
+| WATCH IT: Drama,Movies | Entertainment | [Open](../apps/watch-it-drama-movies-1462196003.md) |
+| Stock Scanner Screener AI | Finance | [Open](../apps/stock-scanner-screener-ai-1531994046.md) |
+| Face Dance: AI Photo Animator | Entertainment | [Open](../apps/face-dance-ai-photo-animator-1589749730.md) |
+| Savia AI: Style Swap&Fun Video | Entertainment | [Open](../apps/savia-ai-style-swap-and-fun-video-6743743870.md) |
+| The Tapping Solution | Health & Fitness | [Open](../apps/the-tapping-solution-1419815487.md) |
+| Busuu: Language Learning App | Education | [Open](../apps/busuu-language-learning-app-379968583.md) |
+| Sleep Monitor: Sleep Tracker | Health & Fitness | [Open](../apps/sleep-monitor-sleep-tracker-1510325113.md) |
+| Barbie Dreamhouse Adventures | Entertainment | [Open](../apps/barbie-dreamhouse-adventures-1296796112.md) |
+| iKitesurf: Weather & Waves | Weather | [Open](../apps/ikitesurf-weather-and-waves-555643284.md) |
+| Dr. Panda Classics | Education | [Open](../apps/dr-panda-classics-1589401079.md) |
+| Bible Stories For Kids! | Education | [Open](../apps/bible-stories-for-kids-6451037832.md) |
+| Invoice Maker by Invoice Home | Business | [Open](../apps/invoice-maker-by-invoice-home-1435778692.md) |
+| Thomas & Friends™: Let's Roll | Education | [Open](../apps/thomas-and-friends-let-s-roll-6469109492.md) |
+| Participant 3rd Party Zoom App | Business | [Open](../apps/participant-3rd-party-zoom-app-1532789823.md) |
+| Ms Yvonne: AI Photo&Hairstyles | Photo & Video | [Open](../apps/ms-yvonne-ai-photo-and-hairstyles-1460082863.md) |
+| TNA+ | Sports | [Open](../apps/tna-1193989287.md) |
+| JustStretch \| Flex & Mobility | Health & Fitness | [Open](../apps/juststretch-flex-and-mobility-6737028992.md) |
+| Banknote Identifier - NoteScan | Reference | [Open](../apps/banknote-identifier-notescan-6478563047.md) |
+| DAZN: Stream Live Sports | Sports | [Open](../apps/dazn-stream-live-sports-1129523589.md) |
+| Boost Cleaner: Freeup Storage | Utilities | [Open](../apps/boost-cleaner-freeup-storage-6737540429.md) |
+| Commure - AI Medical Scribe | Medical | [Open](../apps/commure-ai-medical-scribe-6737444157.md) |
+| Makeup Games: Wedding Artist | Entertainment | [Open](../apps/makeup-games-wedding-artist-1487408776.md) |
+| PlantSnap - Plant Scanner | Education | [Open](../apps/plantsnap-plant-scanner-1451054346.md) |
 | Clean Manager: Storage Cleaner | Utilities | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
+| Bills Organizer & Reminder | Finance | [Open](../apps/bills-organizer-and-reminder-1352782733.md) |
+| EliteSingles: Elevated Dating | Social Networking | [Open](../apps/elitesingles-elevated-dating-6444870384.md) |
+| Color Pop: AI Coloring Book | Entertainment | [Open](../apps/color-pop-ai-coloring-book-1517805311.md) |
+| Authenticator App ◦ | Utilities | [Open](../apps/authenticator-app-6478947853.md) |
+| Scanner: Scan Documents· | Business | [Open](../apps/scanner-scan-documents-1536411052.md) |
+| One More Shot - AI Music Video | Entertainment | [Open](../apps/one-more-shot-ai-music-video-6744976219.md) |
+| ProDefence - Secure VPN | Productivity | [Open](../apps/prodefence-secure-vpn-1535600369.md) |
+| Soundboard Studio | Music | [Open](../apps/soundboard-studio-1108810082.md) |
+| Aesthetic Kit: Live Wallpapers | Graphics & Design | [Open](../apps/aesthetic-kit-live-wallpapers-1533330948.md) |
+| SCAN ACE · PDF Scanner App | Business | [Open](../apps/scan-ace-pdf-scanner-app-556500145.md) |
+| IPVanish VPN: Fast & Secure | Utilities | [Open](../apps/ipvanish-vpn-fast-and-secure-763638165.md) |
+| VidAngel | Entertainment | [Open](../apps/vidangel-999547807.md) |
+| Prêt à Template | Graphics & Design | [Open](../apps/pr-t-template-839537579.md) |
+| Workouts For Men: Gym & Home | Health & Fitness | [Open](../apps/workouts-for-men-gym-and-home-1424128078.md) |
+| Sweet Olivia - Cleaning Games | Education | [Open](../apps/sweet-olivia-cleaning-games-1252599099.md) |
+| CalDiet - Food Analysis Pal | Health & Fitness | [Open](../apps/caldiet-food-analysis-pal-6670386021.md) |
+| Ascension: Catholic Bible | Reference | [Open](../apps/ascension-catholic-bible-1660909501.md) |
+| Pizza Making Games for Toddler | Education | [Open](../apps/pizza-making-games-for-toddler-6499416090.md) |
+| Wordtune: AI Writing Keyboard | Productivity | [Open](../apps/wordtune-ai-writing-keyboard-1628773284.md) |
+| EvolveYou: Strength For Women | Health & Fitness | [Open](../apps/evolveyou-strength-for-women-1446735127.md) |
+| Easy Stats for Basketball | Sports | [Open](../apps/easy-stats-for-basketball-561687907.md) |
 | Muscle Monster Workout Planner | Health & Fitness | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
 | Replika - AI Friend | Health & Fitness | [Open](../apps/replika-ai-friend-1158555867.md) |
 | Tennis Channel | Sports | [Open](../apps/tennis-channel-651092377.md) |

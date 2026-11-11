@@ -115,6 +115,7 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Loopy Pro: Looper DAW Sampler | $3.07K | No Free Trial - Soft Paywall | [Open](../apps/loopy-pro-looper-daw-sampler-1492670451.md) |
 | AI Music・Own Voice Cover Maker | $2.93K | No Free Trial - Soft Paywall | [Open](../apps/ai-music-own-voice-cover-maker-6737513883.md) |
 | Nota Ringtones | $2.88K | Free Trial - Soft Paywall | [Open](../apps/nota-ringtones-6698645894.md) |
+| Soundboard Studio | $2.52K | Free Trial - Soft Paywall | [Open](../apps/soundboard-studio-1108810082.md) |
 
 ## What to study
 

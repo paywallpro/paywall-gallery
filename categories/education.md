@@ -260,6 +260,13 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Papumba: Kids Learning Games | $2.93K | Free Trial - Soft Paywall | [Open](../apps/papumba-kids-learning-games-1267322870.md) |
 | Skillshare: Creativity Classes | $2.92K | Free Trial - Soft Paywall | [Open](../apps/skillshare-creativity-classes-916819843.md) |
 | Piano Academy by Yokee Music | $2.78K | Free Trial - Soft Paywall | [Open](../apps/piano-academy-by-yokee-music-1390574671.md) |
+| Busuu: Language Learning App | $2.65K | Free Trial - Soft Paywall | [Open](../apps/busuu-language-learning-app-379968583.md) |
+| Dr. Panda Classics | $2.65K | No Free Trial - Soft Paywall | [Open](../apps/dr-panda-classics-1589401079.md) |
+| Bible Stories For Kids! | $2.63K | No Free Trial - Soft Paywall | [Open](../apps/bible-stories-for-kids-6451037832.md) |
+| Thomas & Friends™: Let's Roll | $2.62K | No Free Trial - Soft Paywall | [Open](../apps/thomas-and-friends-let-s-roll-6469109492.md) |
+| PlantSnap - Plant Scanner | $2.56K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/plantsnap-plant-scanner-1451054346.md) |
+| Sweet Olivia - Cleaning Games | $2.49K | Free Trial - Hard Paywall | [Open](../apps/sweet-olivia-cleaning-games-1252599099.md) |
+| Pizza Making Games for Toddler | $2.48K | Free Trial - Soft Paywall | [Open](../apps/pizza-making-games-for-toddler-6499416090.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

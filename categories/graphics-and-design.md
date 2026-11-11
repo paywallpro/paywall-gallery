@@ -27,6 +27,8 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | Tools for Procreate | $4.01K | No Free Trial - Soft Paywall | [Open](../apps/tools-for-procreate-1559271447.md) |
 | Arvin®: AI Product Photo Maker | $3.88K | No Free Trial - Soft Paywall | [Open](../apps/arvin-ai-product-photo-maker-6446556788.md) |
 | Themify - Widget & Icon Themes | $2.89K | Free Trial - Soft Paywall | [Open](../apps/themify-widget-and-icon-themes-1534126062.md) |
+| Aesthetic Kit: Live Wallpapers | $2.52K | No Free Trial - Soft Paywall | [Open](../apps/aesthetic-kit-live-wallpapers-1533330948.md) |
+| Prêt à Template | $2.50K | Free Trial - Soft Paywall | [Open](../apps/pr-t-template-839537579.md) |
 
 ## What to study
 

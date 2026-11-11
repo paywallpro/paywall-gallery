@@ -33,6 +33,8 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | Cancel Subscriptions & Refund | $3.37K | No Free Trial - Soft Paywall | [Open](../apps/cancel-subscriptions-and-refund-6479920412.md) |
 | Invoice Maker for Contractors | $3.05K | Free Trial - Soft Paywall | [Open](../apps/invoice-maker-for-contractors-6642699503.md) |
 | GoMining: BTC Mining & Finance | $2.88K | No Free Trial - Soft Paywall | [Open](../apps/gomining-btc-mining-and-finance-1622100275.md) |
+| Stock Scanner Screener AI | $2.68K | No Free Trial - Soft Paywall | [Open](../apps/stock-scanner-screener-ai-1531994046.md) |
+| Bills Organizer & Reminder | $2.56K | No Free Trial - Soft Paywall | [Open](../apps/bills-organizer-and-reminder-1352782733.md) |
 
 ## What to study
 

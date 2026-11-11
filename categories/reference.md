@@ -55,6 +55,8 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | AI Writer: Email Letter Essay | $3.05K | Free Trial - Soft Paywall | [Open](../apps/ai-writer-email-letter-essay-1639845219.md) |
 | FancyNovel-eBooks&Webstories | $2.88K | No Free Trial - Soft Paywall | [Open](../apps/fancynovel-ebooks-and-webstories-6444688314.md) |
 | Dialog - Translate Speech | $2.79K | Free Trial - Soft Paywall | [Open](../apps/dialog-translate-speech-1367138686.md) |
+| Banknote Identifier - NoteScan | $2.60K | Free Trial - Soft Paywall | [Open](../apps/banknote-identifier-notescan-6478563047.md) |
+| Ascension: Catholic Bible | $2.48K | No Free Trial - Soft Paywall | [Open](../apps/ascension-catholic-bible-1660909501.md) |
 
 ## What to study
 

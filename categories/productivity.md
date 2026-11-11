@@ -141,6 +141,9 @@ Productivity apps often convert users by selling time savings, professional outp
 | The Power List | $2.90K | No Free Trial - Soft Paywall | [Open](../apps/the-power-list-1625756621.md) |
 | Forms for Google Docs | $2.82K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
 | Clean Now：Clean Up Storage | $2.79K | Free Trial - Soft Paywall | [Open](../apps/clean-now-clean-up-storage-1554982665.md) |
+| VPN Fast Proxy VON: Unlimited | $2.74K | Free Trial - Soft Paywall | [Open](../apps/vpn-fast-proxy-von-unlimited-6670436368.md) |
+| ProDefence - Secure VPN | $2.52K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/prodefence-secure-vpn-1535600369.md) |
+| Wordtune: AI Writing Keyboard | $2.47K | Free Trial - Soft Paywall | [Open](../apps/wordtune-ai-writing-keyboard-1628773284.md) |
 
 ## What to study
 
