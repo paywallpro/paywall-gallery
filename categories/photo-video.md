@@ -9,7 +9,7 @@ Photo and video apps often rely on creative control, premium features, editing c
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
 | YouTube | $3.07M | No Free Trial - Soft Paywall | [Open](../apps/youtube-544007664.md) |
-| Lightroom: AI Photo Editor | $1.01M | Free Trial - Soft Paywall | [Open](../apps/lightroom-ai-photo-editor-878783582.md) |
+| Lightroom Photo Editor & Video | $1.01M | Free Trial - Soft Paywall | [Open](../apps/lightroom-photo-editor-and-video-878783582.md) |
 | Retake AI Face & Selfie Editor | $506.20K | Free Trial - Soft Paywall | [Open](../apps/retake-ai-face-and-selfie-editor-6466298983.md) |
 | Snapchat | $495.34K | No Free Trial - Soft Paywall | [Open](../apps/snapchat-447188370.md) |
 | VSCO: Photo & Video Editor | $378.78K | Free Trial - Soft Paywall | [Open](../apps/vsco-photo-and-video-editor-588013838.md) |
@@ -186,6 +186,10 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Screen Recorder，Video Recorder | $2.91K | Free Trial - Soft Paywall | [Open](../apps/screen-recorder-video-recorder-1489145709.md) |
 | Miracast ™ﾠ | $2.89K | No Free Trial - Soft Paywall | [Open](../apps/miracast-6471735942.md) |
 | Ms Yvonne: AI Photo&Hairstyles | $2.61K | Free Trial - Soft Paywall | [Open](../apps/ms-yvonne-ai-photo-and-hairstyles-1460082863.md) |
+| AI Photo Animator & Creator | $2.37K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/ai-photo-animator-and-creator-6751409564.md) |
+| Groupsy by Photobucket | $2.36K | No Free Trial - Soft Paywall | [Open](../apps/groupsy-by-photobucket-314439840.md) |
+| Wink: Video Enhancer & Editor | $2.26K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/wink-video-enhancer-and-editor-1594288016.md) |
+| Funimate Video & Motion Editor | $2.18K | Free Trial - Soft Paywall | [Open](../apps/funimate-video-and-motion-editor-844570015.md) |
 
 ## What to study
 

@@ -25,6 +25,8 @@ Travel apps use subscription paywalls to communicate value and convert users int
 | Scan WiFi & Bluetooth Devices | $7.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scan-wifi-and-bluetooth-devices-1604590358.md) |
 | iTranslate Converse | $4.19K | Free Trial - Soft Paywall | [Open](../apps/itranslate-converse-1241264761.md) |
 | Campendium - RV & Tent Camping | $3.04K | Free Trial - Soft Paywall | [Open](../apps/campendium-rv-and-tent-camping-1191380095.md) |
+| RV Parky - Parks & Campgrounds | $2.41K | No Free Trial - Soft Paywall | [Open](../apps/rv-parky-parks-and-campgrounds-695969271.md) |
+| AirNav Radar – Flight Tracker | $2.35K | No Free Trial - Soft Paywall | [Open](../apps/airnav-radar-flight-tracker-1382868950.md) |
 
 ## What to study
 

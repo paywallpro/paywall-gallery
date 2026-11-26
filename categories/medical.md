@@ -36,6 +36,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | IMAIOS e-Anatomy | $3.47K | No Free Trial - Soft Paywall | [Open](../apps/imaios-e-anatomy-334876403.md) |
 | Anatomy 3D Atlas | $2.90K | No Free Trial - Soft Paywall | [Open](../apps/anatomy-3d-atlas-1034069206.md) |
 | Commure - AI Medical Scribe | $2.58K | No Free Trial - Soft Paywall | [Open](../apps/commure-ai-medical-scribe-6737444157.md) |
+| TeachMe Anatomy: 3D Human Body | $2.24K | No Free Trial - Soft Paywall | [Open](../apps/teachme-anatomy-3d-human-body-1047116087.md) |
 
 ## What to study
 

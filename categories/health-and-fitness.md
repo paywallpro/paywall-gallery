@@ -9,7 +9,7 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
 | Peloton: Fitness & Workouts | $1.01M | No Free Trial - Soft Paywall | [Open](../apps/peloton-fitness-and-workouts-792750948.md) |
-| MacroFactor - Macro Tracker | $448.73K | No Free Trial - Soft Paywall | [Open](../apps/macrofactor-macro-tracker-1553503471.md) |
+| MacroFactor: Macro Tracker | $448.73K | No Free Trial - Soft Paywall | [Open](../apps/macrofactor-macro-tracker-1553503471.md) |
 | Finch: Self-Care Pet | $398.93K | Free Trial - Soft Paywall | [Open](../apps/finch-self-care-pet-1528595748.md) |
 | Insight Timer: Meditate, Sleep | $325.16K | Free Trial - Soft Paywall | [Open](../apps/insight-timer-meditate-sleep-337472899.md) |
 | Cronometer: Calorie Counter | $264.83K | No Free Trial - Soft Paywall | [Open](../apps/cronometer-calorie-counter-1145935738.md) |
@@ -171,7 +171,12 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Workouts For Men: Gym & Home | $2.49K | No Free Trial - Soft Paywall | [Open](../apps/workouts-for-men-gym-and-home-1424128078.md) |
 | CalDiet - Food Analysis Pal | $2.48K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/caldiet-food-analysis-pal-6670386021.md) |
 | EvolveYou: Strength For Women | $2.47K | No Free Trial - Soft Paywall | [Open](../apps/evolveyou-strength-for-women-1446735127.md) |
+| Relive: Hike & Ride Memories | $2.44K | Free Trial - Soft Paywall | [Open](../apps/relive-hike-and-ride-memories-1201703657.md) |
+| Nerva: Gut-Brain Program | $2.35K | Free Trial - Soft Paywall | [Open](../apps/nerva-gut-brain-program-1467398796.md) |
+| Zero: Fasting & Food Tracker | $2.35K | Free Trial - Soft Paywall | [Open](../apps/zero-fasting-and-food-tracker-1168348542.md) |
+| MadFit: Home Fitness Workouts | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/madfit-home-fitness-workouts-1577283718.md) |
 | Muscle Monster Workout Planner | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
+| Brainbuddy: Quit PMO | $2.22K | Free Trial - Soft Paywall | [Open](../apps/brainbuddy-quit-pmo-726780077.md) |
 | Replika - AI Friend | $2.12K | No Free Trial - Soft Paywall | [Open](../apps/replika-ai-friend-1158555867.md) |
 | Balance: Meditation & Sleep | $1.74K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/balance-meditation-and-sleep-1361356590.md) |
 | QUITTR - Break Free Now | $1.41K | No Free Trial - Soft Paywall | [Open](../apps/quittr-break-free-now-6532588521.md) |

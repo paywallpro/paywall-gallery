@@ -57,6 +57,7 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Dialog - Translate Speech | $2.79K | Free Trial - Soft Paywall | [Open](../apps/dialog-translate-speech-1367138686.md) |
 | Banknote Identifier - NoteScan | $2.60K | Free Trial - Soft Paywall | [Open](../apps/banknote-identifier-notescan-6478563047.md) |
 | Ascension: Catholic Bible | $2.48K | No Free Trial - Soft Paywall | [Open](../apps/ascension-catholic-bible-1660909501.md) |
+| Daily Devotional For Women App | $2.35K | Free Trial - Soft Paywall | [Open](../apps/daily-devotional-for-women-app-1097349139.md) |
 
 ## What to study
 

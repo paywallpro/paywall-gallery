@@ -21,6 +21,8 @@ Navigation apps use subscription paywalls to communicate value and convert users
 | iMaps+ for Google Maps | $3.25K | Free Trial - Soft Paywall | [Open](../apps/imaps-for-google-maps-585801479.md) |
 | Trailforks: Offline Bike Maps | $2.79K | Free Trial - Soft Paywall | [Open](../apps/trailforks-offline-bike-maps-987986743.md) |
 | GOHUNT: Research & Maps | $2.74K | Free Trial - Soft Paywall | [Open](../apps/gohunt-research-and-maps-1500630352.md) |
+| RoadWarrior Route Planner | $2.33K | Free Trial - Soft Paywall | [Open](../apps/roadwarrior-route-planner-959621658.md) |
+| New York Subway MTA Map NYC | $2.18K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/new-york-subway-mta-map-nyc-369691844.md) |
 
 ## What to study
 

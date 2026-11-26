@@ -27,7 +27,7 @@ The strongest paywalls usually make the comparison easy to understand.
 | Quizlet: More than Flashcards | Education | [Open](../apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | [Open](../apps/tidal-music-hifi-sound-913943275.md) |
 | Peloton: Fitness & Workouts | Health & Fitness | [Open](../apps/peloton-fitness-and-workouts-792750948.md) |
-| Lightroom: AI Photo Editor | Photo & Video | [Open](../apps/lightroom-ai-photo-editor-878783582.md) |
+| Lightroom Photo Editor & Video | Photo & Video | [Open](../apps/lightroom-photo-editor-and-video-878783582.md) |
 | Tinder Dating App: Date & Chat | Lifestyle | [Open](../apps/tinder-dating-app-date-and-chat-547702041.md) |
 | epocrates: Drug Info & Pill ID | Medical | [Open](../apps/epocrates-drug-info-and-pill-id-281935788.md) |
 | MLB | Sports | [Open](../apps/mlb-493619333.md) |

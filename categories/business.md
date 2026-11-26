@@ -77,6 +77,7 @@ Business apps often convert users by selling professional growth, productivity, 
 | Participant 3rd Party Zoom App | $2.62K | Free Trial - Soft Paywall | [Open](../apps/participant-3rd-party-zoom-app-1532789823.md) |
 | Scanner: Scan Documents· | $2.53K | Free Trial - Soft Paywall | [Open](../apps/scanner-scan-documents-1536411052.md) |
 | SCAN ACE · PDF Scanner App | $2.51K | Free Trial - Soft Paywall | [Open](../apps/scan-ace-pdf-scanner-app-556500145.md) |
+| Billdu: Invoice Estimate Maker | $2.37K | No Free Trial - Soft Paywall | [Open](../apps/billdu-invoice-estimate-maker-527885754.md) |
 
 ## What to study
 

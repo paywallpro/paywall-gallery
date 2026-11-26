@@ -135,6 +135,14 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Color Pop: AI Coloring Book | $2.54K | Free Trial - Soft Paywall | [Open](../apps/color-pop-ai-coloring-book-1517805311.md) |
 | One More Shot - AI Music Video | $2.52K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/one-more-shot-ai-music-video-6744976219.md) |
 | VidAngel | $2.50K | No Free Trial - Soft Paywall | [Open](../apps/vidangel-999547807.md) |
+| DramaShorts: Watch TV & Shows | $2.45K | No Free Trial - Soft Paywall | [Open](../apps/dramashorts-watch-tv-and-shows-6478970137.md) |
+| DC UNIVERSE INFINITE | $2.44K | No Free Trial - Soft Paywall | [Open](../apps/dc-universe-infinite-1329018000.md) |
+| PAW Patrol Rescue World | $2.41K | No Free Trial - Soft Paywall | [Open](../apps/paw-patrol-rescue-world-1551375407.md) |
+| Magic Life-Face Swap&Effects | $2.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/magic-life-face-swap-and-effects-1603392104.md) |
+| LunaMate: AI Fanstasy Roleplay | $2.32K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/lunamate-ai-fanstasy-roleplay-6752447843.md) |
+| Blush: AI Dating Simulator | $2.31K | No Free Trial - Soft Paywall | [Open](../apps/blush-ai-dating-simulator-1641301004.md) |
+| Kindroid: Your Personal AI | $2.22K | No Free Trial - Soft Paywall | [Open](../apps/kindroid-your-personal-ai-6451038161.md) |
+| Famefy: AI Live Stream & Fans | $2.18K | Free Trial - Soft Paywall | [Open](../apps/famefy-ai-live-stream-and-fans-6449603689.md) |
 
 ## What to study
 

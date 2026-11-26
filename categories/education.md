@@ -267,6 +267,10 @@ Education apps use subscription paywalls to communicate value and convert users 
 | PlantSnap - Plant Scanner | $2.56K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/plantsnap-plant-scanner-1451054346.md) |
 | Sweet Olivia - Cleaning Games | $2.49K | Free Trial - Hard Paywall | [Open](../apps/sweet-olivia-cleaning-games-1252599099.md) |
 | Pizza Making Games for Toddler | $2.48K | Free Trial - Soft Paywall | [Open](../apps/pizza-making-games-for-toddler-6499416090.md) |
+| Baby Piano for Kids & Toddlers | $2.32K | No Free Trial - Soft Paywall | [Open](../apps/baby-piano-for-kids-and-toddlers-1021191431.md) |
+| Pinkfong Shapes & Colors | $2.24K | No Free Trial - Soft Paywall | [Open](../apps/pinkfong-shapes-and-colors-1203201644.md) |
+| Learn French – Studycat | $2.18K | Free Trial - Soft Paywall | [Open](../apps/learn-french-studycat-870598631.md) |
+| Dress up Games for Little Girl | $2.18K | Free Trial - Soft Paywall | [Open](../apps/dress-up-games-for-little-girl-1643124562.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

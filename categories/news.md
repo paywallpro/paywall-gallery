@@ -65,6 +65,8 @@ News apps use subscription paywalls to communicate value and convert users into 
 | Podcast App & Player - Castbox | $3.13K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/podcast-app-and-player-castbox-1243410543.md) |
 | Scientific American | $2.78K | No Free Trial - Soft Paywall | [Open](../apps/scientific-american-514734550.md) |
 | New Scientist | $2.73K | Free Trial - Soft Paywall | [Open](../apps/new-scientist-671845403.md) |
+| Haaretz - Israel News | $2.38K | No Free Trial - Soft Paywall | [Open](../apps/haaretz-israel-news-504537897.md) |
+| St. Louis Post-Dispatch | $2.27K | No Free Trial - Soft Paywall | [Open](../apps/st-louis-post-dispatch-398032168.md) |
 
 ## What to study
 

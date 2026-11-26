@@ -1,5 +1,5 @@
 ---
-app_name: "Lightroom: AI Photo Editor"
+app_name: "Lightroom Photo Editor & Video"
 app_id: 878783582
 developer: "Adobe Inc."
 category: "Photo & Video"
@@ -15,10 +15,10 @@ offers:
     prices: ["$49.99"]
 onboarding_count: 8
 walkthrough_count: 4
-app_detail_url: "https://www.paywallpro.app/apps/Lightroom:-AI-Photo-Editor-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+app_detail_url: "https://www.paywallpro.app/apps/Lightroom-Photo-Editor-&-Video-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
-# Lightroom: AI Photo Editor Paywall Analysis
+# Lightroom Photo Editor & Video Paywall Analysis
 
 Category: Photo & Video
 Estimated MRR: $1.01M
@@ -28,11 +28,11 @@ Captured Version: 11.1.1
 Version Release Date: 2026-01-20
 
 View full case on PaywallPro:
-<a href="https://www.paywallpro.app/apps/Lightroom:-AI-Photo-Editor-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/Lightroom-Photo-Editor-&-Video-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
-Lightroom: AI Photo Editor is a Photo & Video app by Adobe Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+Lightroom Photo Editor & Video is a Photo & Video app by Adobe Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the Photo & Video category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Lightroom: AI Photo Editor uses the Free Trial - Soft Paywall pattern in the Photo & Video category.
+- Lightroom Photo Editor & Video uses the Free Trial - Soft Paywall pattern in the Photo & Video category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Photo & Video app packages subscription value for its users.
@@ -49,16 +49,16 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 Paywalls in the Photo & Video category need to communicate value quickly and make the subscription decision easy to understand.
 
-This Lightroom: AI Photo Editor paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+This Lightroom Photo Editor & Video paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
 
 For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
 
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/Lightroom:-AI-Photo-Editor-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/lightroom-ai-photo-editor-878783582/cover.webp" width="220" alt="Lightroom: AI Photo Editor paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/Lightroom:-AI-Photo-Editor-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/lightroom-ai-photo-editor-878783582/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
-  <a href="https://www.paywallpro.app/apps/Lightroom:-AI-Photo-Editor-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/lightroom-ai-photo-editor-878783582/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/Lightroom-Photo-Editor-&-Video-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/lightroom-photo-editor-and-video-878783582/cover.webp" width="220" alt="Lightroom Photo Editor & Video paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/Lightroom-Photo-Editor-&-Video-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/lightroom-photo-editor-and-video-878783582/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/Lightroom-Photo-Editor-&-Video-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/lightroom-photo-editor-and-video-878783582/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -97,7 +97,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 ## What Builders Can Learn
 
-- How Lightroom: AI Photo Editor frames subscription value for users in the Photo & Video category.
+- How Lightroom Photo Editor & Video frames subscription value for users in the Photo & Video category.
 - How the app structures pricing options and subscription periods.
 - How the paywall uses visual hierarchy to guide the purchase decision.
 - How trials, discounts, or offer sets are used to reduce purchase friction.
@@ -118,7 +118,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-<a href="https://www.paywallpro.app/apps/Lightroom:-AI-Photo-Editor-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/Lightroom-Photo-Editor-&-Video-us?id=116&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

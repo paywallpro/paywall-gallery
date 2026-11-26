@@ -29,6 +29,8 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | Themify - Widget & Icon Themes | $2.89K | Free Trial - Soft Paywall | [Open](../apps/themify-widget-and-icon-themes-1534126062.md) |
 | Aesthetic Kit: Live Wallpapers | $2.52K | No Free Trial - Soft Paywall | [Open](../apps/aesthetic-kit-live-wallpapers-1533330948.md) |
 | Prêt à Template | $2.50K | Free Trial - Soft Paywall | [Open](../apps/pr-t-template-839537579.md) |
+| AI Art Generator & Logo - Hexa | $2.27K | Free Trial - Soft Paywall | [Open](../apps/ai-art-generator-and-logo-hexa-6738582006.md) |
+| Creati: Gen AI Content Creator | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/creati-gen-ai-content-creator-6478513085.md) |
 
 ## What to study
 

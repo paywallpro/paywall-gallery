@@ -27,6 +27,9 @@ Books apps use subscription paywalls to communicate value and convert users into
 | Dr. Seuss Treasury Kids Books | $2.93K | Free Trial - Soft Paywall | [Open](../apps/dr-seuss-treasury-kids-books-909110675.md) |
 | Moonstories- Werewolf stories | $2.79K | Currency Paywall | [Open](../apps/moonstories-werewolf-stories-6446772145.md) |
 | Inkitt Galatea: Audio & eBooks | $2.76K | No Free Trial - Soft Paywall | [Open](../apps/inkitt-galatea-audio-and-ebooks-1380362212.md) |
+| JoyRead – Novels & Dramas | $2.34K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/joyread-novels-and-dramas-1551079603.md) |
+| Literie | $2.33K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/literie-6450409461.md) |
+| Novelink | $2.25K | No Free Trial - Soft Paywall | [Open](../apps/novelink-1604293840.md) |
 
 ## What to study
 

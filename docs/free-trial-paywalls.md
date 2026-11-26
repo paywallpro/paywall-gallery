@@ -27,7 +27,7 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Quizlet: More than Flashcards | Education | [Open](../apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | [Open](../apps/tidal-music-hifi-sound-913943275.md) |
 | Peloton: Fitness & Workouts | Health & Fitness | [Open](../apps/peloton-fitness-and-workouts-792750948.md) |
-| Lightroom: AI Photo Editor | Photo & Video | [Open](../apps/lightroom-ai-photo-editor-878783582.md) |
+| Lightroom Photo Editor & Video | Photo & Video | [Open](../apps/lightroom-photo-editor-and-video-878783582.md) |
 | Tinder Dating App: Date & Chat | Lifestyle | [Open](../apps/tinder-dating-app-date-and-chat-547702041.md) |
 | epocrates: Drug Info & Pill ID | Medical | [Open](../apps/epocrates-drug-info-and-pill-id-281935788.md) |
 | MLB | Sports | [Open](../apps/mlb-493619333.md) |
@@ -50,7 +50,7 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Gauth: AI Study Companion | Education | [Open](../apps/gauth-ai-study-companion-1542571008.md) |
 | Copilot: Track & Budget Money | Finance | [Open](../apps/copilot-track-and-budget-money-1447330651.md) |
 | YouTube Music | Music | [Open](../apps/youtube-music-1017492454.md) |
-| Norton 360 Security & VPN | Utilities | [Open](../apps/norton-360-security-and-vpn-1278474169.md) |
+| Norton 360 Mobile Security VPN | Utilities | [Open](../apps/norton-360-mobile-security-vpn-1278474169.md) |
 | Pimsleur \| Language Learning | Education | [Open](../apps/pimsleur-language-learning-1405735469.md) |
 | FAX from iPhone: Send Doc App | Business | [Open](../apps/fax-from-iphone-send-doc-app-978931264.md) |
 | SiriusXM: Music, Sports & News | Music | [Open](../apps/siriusxm-music-sports-and-news-317951436.md) |
@@ -58,7 +58,7 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Snapchat | Photo & Video | [Open](../apps/snapchat-447188370.md) |
 | HBO Max: Stream Movies & TV | Entertainment | [Open](../apps/hbo-max-stream-movies-and-tv-1666653815.md) |
 | 18Birdies: Golf GPS Tracker | Sports | [Open](../apps/18birdies-golf-gps-tracker-892700751.md) |
-| MacroFactor - Macro Tracker | Health & Fitness | [Open](../apps/macrofactor-macro-tracker-1553503471.md) |
+| MacroFactor: Macro Tracker | Health & Fitness | [Open](../apps/macrofactor-macro-tracker-1553503471.md) |
 | Elevate - Brain Training Games | Education | [Open](../apps/elevate-brain-training-games-875063456.md) |
 | Kiddopia: Kids Learning Games | Education | [Open](../apps/kiddopia-kids-learning-games-1223397201.md) |
 | Citizen: Safety & Live Video | News | [Open](../apps/citizen-safety-and-live-video-1039889567.md) |
@@ -1690,7 +1690,56 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Wordtune: AI Writing Keyboard | Productivity | [Open](../apps/wordtune-ai-writing-keyboard-1628773284.md) |
 | EvolveYou: Strength For Women | Health & Fitness | [Open](../apps/evolveyou-strength-for-women-1446735127.md) |
 | Easy Stats for Basketball | Sports | [Open](../apps/easy-stats-for-basketball-561687907.md) |
+| DramaShorts: Watch TV & Shows | Entertainment | [Open](../apps/dramashorts-watch-tv-and-shows-6478970137.md) |
+| DC UNIVERSE INFINITE | Entertainment | [Open](../apps/dc-universe-infinite-1329018000.md) |
+| XME LOOPS | Music | [Open](../apps/xme-loops-1223241229.md) |
+| Relive: Hike & Ride Memories | Health & Fitness | [Open](../apps/relive-hike-and-ride-memories-1201703657.md) |
+| Pencil Calendar: Daily Planner | Productivity | [Open](../apps/pencil-calendar-daily-planner-6444716760.md) |
+| PAW Patrol Rescue World | Entertainment | [Open](../apps/paw-patrol-rescue-world-1551375407.md) |
+| RV Parky - Parks & Campgrounds | Travel | [Open](../apps/rv-parky-parks-and-campgrounds-695969271.md) |
+| AI Chat 6.0: Genius | Utilities | [Open](../apps/ai-chat-6-0-genius-1665764663.md) |
+| Haaretz - Israel News | News | [Open](../apps/haaretz-israel-news-504537897.md) |
+| Billdu: Invoice Estimate Maker | Business | [Open](../apps/billdu-invoice-estimate-maker-527885754.md) |
+| AI Photo Animator & Creator | Photo & Video | [Open](../apps/ai-photo-animator-and-creator-6751409564.md) |
+| Groupsy by Photobucket | Photo & Video | [Open](../apps/groupsy-by-photobucket-314439840.md) |
+| OpenSnow | Weather | [Open](../apps/opensnow-780890907.md) |
+| Nerva: Gut-Brain Program | Health & Fitness | [Open](../apps/nerva-gut-brain-program-1467398796.md) |
+| Magic Life-Face Swap&Effects | Entertainment | [Open](../apps/magic-life-face-swap-and-effects-1603392104.md) |
+| Daily Devotional For Women App | Reference | [Open](../apps/daily-devotional-for-women-app-1097349139.md) |
+| AirNav Radar – Flight Tracker | Travel | [Open](../apps/airnav-radar-flight-tracker-1382868950.md) |
+| Zero: Fasting & Food Tracker | Health & Fitness | [Open](../apps/zero-fasting-and-food-tracker-1168348542.md) |
+| NOAA Marine Weather & Forecast | Weather | [Open](../apps/noaa-marine-weather-and-forecast-1246091778.md) |
+| Facemoji AI Emoji Keyboard | Utilities | [Open](../apps/facemoji-ai-emoji-keyboard-1103138272.md) |
+| ViVi Keyboard: Theme & Chatbot | Productivity | [Open](../apps/vivi-keyboard-theme-and-chatbot-1614398935.md) |
+| JoyRead – Novels & Dramas | Books | [Open](../apps/joyread-novels-and-dramas-1551079603.md) |
+| RoadWarrior Route Planner | Navigation | [Open](../apps/roadwarrior-route-planner-959621658.md) |
+| Literie | Books | [Open](../apps/literie-6450409461.md) |
+| Remote for RokuTV, Smart TV | Utilities | [Open](../apps/remote-for-rokutv-smart-tv-6456797662.md) |
+| LunaMate: AI Fanstasy Roleplay | Entertainment | [Open](../apps/lunamate-ai-fanstasy-roleplay-6752447843.md) |
+| Baby Piano for Kids & Toddlers | Education | [Open](../apps/baby-piano-for-kids-and-toddlers-1021191431.md) |
+| Blush: AI Dating Simulator | Entertainment | [Open](../apps/blush-ai-dating-simulator-1641301004.md) |
+| Piano app by Yokee | Music | [Open](../apps/piano-app-by-yokee-890740165.md) |
+| St. Louis Post-Dispatch | News | [Open](../apps/st-louis-post-dispatch-398032168.md) |
+| AI Art Generator & Logo - Hexa | Graphics & Design | [Open](../apps/ai-art-generator-and-logo-hexa-6738582006.md) |
+| MadFit: Home Fitness Workouts | Health & Fitness | [Open](../apps/madfit-home-fitness-workouts-1577283718.md) |
+| Creati: Gen AI Content Creator | Graphics & Design | [Open](../apps/creati-gen-ai-content-creator-6478513085.md) |
 | Muscle Monster Workout Planner | Health & Fitness | [Open](../apps/muscle-monster-workout-planner-6471547318.md) |
+| Wink: Video Enhancer & Editor | Photo & Video | [Open](../apps/wink-video-enhancer-and-editor-1594288016.md) |
+| Techne Futbol: Soccer Training | Sports | [Open](../apps/techne-futbol-soccer-training-1298569303.md) |
+| Novelink | Books | [Open](../apps/novelink-1604293840.md) |
+| Pinkfong Shapes & Colors | Education | [Open](../apps/pinkfong-shapes-and-colors-1203201644.md) |
+| AnyList: Grocery Shopping List | Productivity | [Open](../apps/anylist-grocery-shopping-list-522167641.md) |
+| TeachMe Anatomy: 3D Human Body | Medical | [Open](../apps/teachme-anatomy-3d-human-body-1047116087.md) |
+| Kindroid: Your Personal AI | Entertainment | [Open](../apps/kindroid-your-personal-ai-6451038161.md) |
+| Brainbuddy: Quit PMO | Health & Fitness | [Open](../apps/brainbuddy-quit-pmo-726780077.md) |
+| AI Music - Generator | Music | [Open](../apps/ai-music-generator-6504490347.md) |
+| ArrangeUs | Productivity | [Open](../apps/arrangeus-1502182540.md) |
+| Learn French – Studycat | Education | [Open](../apps/learn-french-studycat-870598631.md) |
+| New York Subway MTA Map NYC | Navigation | [Open](../apps/new-york-subway-mta-map-nyc-369691844.md) |
+| Funimate Video & Motion Editor | Photo & Video | [Open](../apps/funimate-video-and-motion-editor-844570015.md) |
+| Famefy: AI Live Stream & Fans | Entertainment | [Open](../apps/famefy-ai-live-stream-and-fans-6449603689.md) |
+| Dress up Games for Little Girl | Education | [Open](../apps/dress-up-games-for-little-girl-1643124562.md) |
+| 2RedBeans两颗红豆 Asian dating app | Social Networking | [Open](../apps/2redbeans-asian-dating-app-837590707.md) |
 | Replika - AI Friend | Health & Fitness | [Open](../apps/replika-ai-friend-1158555867.md) |
 | Tennis Channel | Sports | [Open](../apps/tennis-channel-651092377.md) |
 | Balance: Meditation & Sleep | Health & Fitness | [Open](../apps/balance-meditation-and-sleep-1361356590.md) |

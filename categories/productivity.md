@@ -144,6 +144,10 @@ Productivity apps often convert users by selling time savings, professional outp
 | VPN Fast Proxy VON: Unlimited | $2.74K | Free Trial - Soft Paywall | [Open](../apps/vpn-fast-proxy-von-unlimited-6670436368.md) |
 | ProDefence - Secure VPN | $2.52K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/prodefence-secure-vpn-1535600369.md) |
 | Wordtune: AI Writing Keyboard | $2.47K | Free Trial - Soft Paywall | [Open](../apps/wordtune-ai-writing-keyboard-1628773284.md) |
+| Pencil Calendar: Daily Planner | $2.44K | Free Trial - Soft Paywall | [Open](../apps/pencil-calendar-daily-planner-6444716760.md) |
+| ViVi Keyboard: Theme & Chatbot | $2.34K | Free Trial - Soft Paywall | [Open](../apps/vivi-keyboard-theme-and-chatbot-1614398935.md) |
+| AnyList: Grocery Shopping List | $2.24K | No Free Trial - Soft Paywall | [Open](../apps/anylist-grocery-shopping-list-522167641.md) |
+| ArrangeUs | $2.18K | Free Trial - Soft Paywall | [Open](../apps/arrangeus-1502182540.md) |
 
 ## What to study
 

@@ -79,6 +79,7 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | TNA+ | $2.61K | No Free Trial - Soft Paywall | [Open](../apps/tna-1193989287.md) |
 | DAZN: Stream Live Sports | $2.60K | No Free Trial - Soft Paywall | [Open](../apps/dazn-stream-live-sports-1129523589.md) |
 | Easy Stats for Basketball | $2.46K | Free Trial - Soft Paywall | [Open](../apps/easy-stats-for-basketball-561687907.md) |
+| Techne Futbol: Soccer Training | $2.26K | No Free Trial - Soft Paywall | [Open](../apps/techne-futbol-soccer-training-1298569303.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |
 | HuntStand: GPS Maps & Tools | $1.37K | No Free Trial - Soft Paywall | [Open](../apps/huntstand-gps-maps-and-tools-778772892.md) |
 | Real - Sports | $976 | No Free Trial - Soft Paywall | [Open](../apps/real-sports-1514546162.md) |

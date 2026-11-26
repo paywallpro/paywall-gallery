@@ -101,6 +101,7 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |
 | Muslima: Halal Muslim Dating | $2.77K | No Free Trial - Soft Paywall | [Open](../apps/muslima-halal-muslim-dating-1580680952.md) |
 | EliteSingles: Elevated Dating | $2.56K | No Free Trial - Soft Paywall | [Open](../apps/elitesingles-elevated-dating-6444870384.md) |
+| 2RedBeans两颗红豆 Asian dating app | $2.17K | No Free Trial - Soft Paywall | [Open](../apps/2redbeans-asian-dating-app-837590707.md) |
 
 ## What to study
 

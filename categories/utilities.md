@@ -9,7 +9,7 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
 | Fambase: Live & Group Chat | $726.99K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/fambase-live-and-group-chat-1580059320.md) |
-| Norton 360 Security & VPN | $572.85K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/norton-360-security-and-vpn-1278474169.md) |
+| Norton 360 Mobile Security VPN | $572.85K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/norton-360-mobile-security-vpn-1278474169.md) |
 | Burner: Second Phone Number | $242.13K | Free Trial - Hard Paywall | [Open](../apps/burner-second-phone-number-505800761.md) |
 | ExpressVPN · Secure & Fast VPN | $219.57K | Free Trial - Soft Paywall | [Open](../apps/expressvpn-secure-and-fast-vpn-886492891.md) |
 | Cleaner Kit - Clean Up Storage | $159.77K | Free Trial - Soft Paywall | [Open](../apps/cleaner-kit-clean-up-storage-1194582243.md) |
@@ -138,6 +138,10 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 | Authenticator App ◦ | $2.53K | No Free Trial - Soft Paywall | [Open](../apps/authenticator-app-6478947853.md) |
 | IPVanish VPN: Fast & Secure | $2.50K | Free Trial - Soft Paywall | [Open](../apps/ipvanish-vpn-fast-and-secure-763638165.md) |
+| AI Chat 6.0: Genius | $2.38K | Free Trial - Soft Paywall | [Open](../apps/ai-chat-6-0-genius-1665764663.md) |
+| Facemoji AI Emoji Keyboard | $2.35K | Free Trial - Soft Paywall | [Open](../apps/facemoji-ai-emoji-keyboard-1103138272.md) |
+| Remote for RokuTV, Smart TV | $2.33K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/remote-for-rokutv-smart-tv-6456797662.md) |
+| Koala Novel-Daily Web Stories | $2.23K | Currency Paywall | [Open](../apps/koala-novel-daily-web-stories-6469987207.md) |
 
 ## What to study
 

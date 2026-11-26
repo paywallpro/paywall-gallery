@@ -2,7 +2,7 @@
 
 Languages: [English](README.md) | [简体中文](README.zh-CN.md)
 
-A public dataset of 1710 top iOS subscription app paywalls and onboarding flows, published by <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.
+A public dataset of 1760 top iOS subscription app paywalls and onboarding flows, published by <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.
 
 Explore screenshots, pricing models, paywall patterns, onboarding previews, and monetization signals from real subscription apps.
 
@@ -70,9 +70,9 @@ It is a curated subset of the PaywallPro database, designed to be:
 - Easy to browse, with human-readable summaries and preview screenshots
 - Useful for product research, pricing research, UX reference, and growth analysis
 
-Current public release: 1710 apps. We will keep adding 50 new apps every week.
+Current public release: 1760 apps. We will keep adding 50 new apps every week.
 
-The complete app index lives in [apps/index.md](apps/index.md). [Browse all 1710 apps](apps/index.md).
+The complete app index lives in [apps/index.md](apps/index.md). [Browse all 1760 apps](apps/index.md).
 
 ---
 
@@ -159,7 +159,7 @@ See [Data Dictionary](docs/data-dictionary.md) for field definitions.
 | Quizlet: More than Flashcards | Education | $1.16M | Free Trial - Soft Paywall | [Open](apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | $1.03M | Free Trial - Soft Paywall | [Open](apps/tidal-music-hifi-sound-913943275.md) |
 | Peloton: Fitness & Workouts | Health & Fitness | $1.01M | No Free Trial - Soft Paywall | [Open](apps/peloton-fitness-and-workouts-792750948.md) |
-| Lightroom: AI Photo Editor | Photo & Video | $1.01M | Free Trial - Soft Paywall | [Open](apps/lightroom-ai-photo-editor-878783582.md) |
+| Lightroom Photo Editor & Video | Photo & Video | $1.01M | Free Trial - Soft Paywall | [Open](apps/lightroom-photo-editor-and-video-878783582.md) |
 | Tinder Dating App: Date & Chat | Lifestyle | $921.50K | No Free Trial - Soft Paywall | [Open](apps/tinder-dating-app-date-and-chat-547702041.md) |
 | epocrates: Drug Info & Pill ID | Medical | $908.38K | Free Trial - Soft Paywall | [Open](apps/epocrates-drug-info-and-pill-id-281935788.md) |
 | MLB | Sports | $870.76K | No Free Trial - Soft Paywall | [Open](apps/mlb-493619333.md) |
@@ -172,7 +172,7 @@ See [Data Dictionary](docs/data-dictionary.md) for field definitions.
 | Text Me - Phone Call + Texting | Social Networking | $727.67K | No Free Trial - Soft Paywall | [Open](apps/text-me-phone-call-texting-514485964.md) |
 | Fambase: Live & Group Chat | Utilities | $726.99K | No Free Trial - Soft Paywall, Currency Paywall | [Open](apps/fambase-live-and-group-chat-1580059320.md) |
 
-The complete app index lives in [apps/index.md](apps/index.md). [Browse all 1710 apps](apps/index.md).
+The complete app index lives in [apps/index.md](apps/index.md). [Browse all 1760 apps](apps/index.md).
 
 ---
 
