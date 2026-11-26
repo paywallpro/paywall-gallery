@@ -14,7 +14,7 @@ A compact list of high-revenue iOS subscription apps included in the Open Paywal
 | Quizlet: More than Flashcards | Education | $1.16M | [Open](../apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | $1.03M | [Open](../apps/tidal-music-hifi-sound-913943275.md) |
 | Peloton: Fitness & Workouts | Health & Fitness | $1.01M | [Open](../apps/peloton-fitness-and-workouts-792750948.md) |
-| Lightroom: AI Photo Editor | Photo & Video | $1.01M | [Open](../apps/lightroom-ai-photo-editor-878783582.md) |
+| Lightroom Photo Editor & Video | Photo & Video | $1.01M | [Open](../apps/lightroom-photo-editor-and-video-878783582.md) |
 | Tinder Dating App: Date & Chat | Lifestyle | $921.50K | [Open](../apps/tinder-dating-app-date-and-chat-547702041.md) |
 
 ## What to study
